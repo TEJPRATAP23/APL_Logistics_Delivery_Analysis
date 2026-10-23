@@ -45,6 +45,11 @@ st.set_page_config(
 st.markdown(
     """
     <style>
+    /* Force EVERY single character in the app to be black */
+    * {
+        color: #000000 !important;
+    }
+
     .stApp { background-color: #F5F7FB; }
     
     .block-container { 
@@ -56,40 +61,42 @@ st.markdown(
         margin-bottom: 2rem;
         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     }
-    [data-testid="stSidebar"] { background-color: #102A43; }
-    [data-testid="stSidebar"] * { color: #FFFFFF; }
     
-    /* Style the radio button group to look exactly like the multiselect boxes */
+    /* Changed sidebar background to a lighter color so the black text is readable */
+    [data-testid="stSidebar"] { background-color: #E3EAF2 !important; }
+    
+    /* Style the radio button group */
     [data-testid="stSidebar"] [data-testid="stRadio"] > div {
         background-color: #FFFFFF;
         border-radius: 8px;
         padding: 12px;
-        border: 1px solid #E3EAF2;
-    }
-    /* Ensure the text inside the white radio box is dark and readable */
-    [data-testid="stSidebar"] [data-testid="stRadio"] > div * {
-        color: #16324F !important;
+        border: 1px solid #BCCCDC;
     }
     
     .dashboard-title {
-        font-size: 2.1rem; font-weight: 750; color: #16324F;
+        font-size: 2.1rem; 
+        font-weight: 750; 
         margin-top: 1rem;
         margin-bottom: 0.1rem;
     }
     .dashboard-subtitle {
-        font-size: 1rem; color: #627D98; margin-bottom: 1.2rem;
+        font-size: 1rem; 
+        margin-bottom: 1.2rem;
     }
     div[data-testid="stMetric"] {
-        background-color: #FFFFFF; border: 1px solid #E3EAF2;
-        border-radius: 12px; padding: 18px;
-        box-shadow: 0 2px 5px rgba(20, 40, 70, 0.04);
+        background-color: #FFFFFF; 
+        border: 1px solid #BCCCDC;
+        border-radius: 12px; 
+        padding: 18px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
-    div[data-testid="stMetricLabel"] { color: #486581; font-weight: 600; }
-    div[data-testid="stMetricValue"] { color: #16324F; font-weight: 750; }
+    div[data-testid="stMetricLabel"] { font-weight: 600; }
+    div[data-testid="stMetricValue"] { font-weight: 750; }
     div[data-testid="stVerticalBlockBorderWrapper"] { border-radius: 12px; }
-    h2, h3 { color: #16324F; }
+    
     .dashboard-footer {
-        text-align: center; color: #829AB1; font-size: 0.85rem;
+        text-align: center; 
+        font-size: 0.85rem;
         padding-top: 20px;
     }
     </style>
