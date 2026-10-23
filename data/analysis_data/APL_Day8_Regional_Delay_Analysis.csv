@@ -1,0 +1,24 @@
+Order Region,Total_Shipments,Delayed_Shipments,Average_Delay_Days,Maximum_Delay_Days,Average_Actual_Shipping_Days,Average_Scheduled_Shipping_Days,On_Time_or_Early_Shipments,Actual_Delay_Rate_%
+Central Africa,1677,1018,0.64,4,3.56,2.92,659,60.7
+Western Europe,27109,15863,0.6,4,3.5,2.9,11246,58.52
+South Asia,7731,4523,0.6,4,3.5,2.9,3208,58.5
+South of  USA,4045,2350,0.58,4,3.49,2.91,1695,58.1
+Southeast Asia,9539,5531,0.56,4,3.5,2.94,4008,57.98
+East of USA,6915,4009,0.58,4,3.5,2.92,2906,57.98
+West Asia,6009,3455,0.57,4,3.49,2.92,2554,57.5
+East Africa,1852,1064,0.57,4,3.51,2.94,788,57.45
+Eastern Europe,3920,2252,0.58,4,3.5,2.92,1668,57.45
+Central America,28341,16224,0.56,4,3.51,2.95,12117,57.25
+South America,14935,8548,0.56,4,3.51,2.95,6387,57.23
+Central Asia,553,316,0.65,4,3.42,2.77,237,57.14
+US Center,5887,3363,0.59,4,3.46,2.87,2524,57.13
+Southern Europe,9431,5350,0.52,4,3.44,2.92,4081,56.73
+Eastern Asia,7280,4130,0.57,4,3.53,2.96,3150,56.73
+North Africa,3232,1832,0.55,4,3.48,2.93,1400,56.68
+West of USA,7993,4524,0.56,4,3.5,2.95,3469,56.6
+Northern Europe,9792,5524,0.55,4,3.5,2.96,4268,56.41
+Southern Africa,1157,651,0.48,4,3.45,2.97,506,56.27
+Oceania,10148,5694,0.56,4,3.5,2.94,4454,56.11
+Caribbean,8318,4648,0.55,4,3.51,2.96,3670,55.88
+West Africa,3696,2033,0.55,4,3.53,2.98,1663,55.01
+Canada,959,498,0.39,4,3.33,2.94,461,51.93

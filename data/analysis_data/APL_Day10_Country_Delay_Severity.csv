@@ -1,0 +1,455 @@
+﻿Order Country,Delay_Severity,Shipment_Count,Severity_Share_%
+Afganistán,On Time / Early,65,39.87730061349693
+Afganistán,Minor Delay,60,36.809815950920246
+Afganistán,Major Delay,38,23.31288343558282
+Albania,Minor Delay,21,56.75675675675676
+Albania,On Time / Early,15,40.54054054054054
+Albania,Major Delay,1,2.7027027027027026
+Alemania,On Time / Early,3923,41.01840234211627
+Alemania,Minor Delay,3375,35.28858218318695
+Alemania,Major Delay,2266,23.69301547469678
+Angola,On Time / Early,114,37.254901960784316
+Angola,Minor Delay,113,36.9281045751634
+Angola,Major Delay,79,25.816993464052292
+Arabia Saudí,Minor Delay,350,40.69767441860465
+Arabia Saudí,On Time / Early,344,40.0
+Arabia Saudí,Major Delay,166,19.302325581395348
+Argelia,On Time / Early,230,44.57364341085272
+Argelia,Major Delay,149,28.875968992248062
+Argelia,Minor Delay,137,26.550387596899228
+Argentina,On Time / Early,870,45.05437597099948
+Argentina,Minor Delay,620,32.107716209218026
+Argentina,Major Delay,441,22.837907819782497
+Armenia,Minor Delay,5,100.0
+Australia,On Time / Early,3704,43.59185594915853
+Australia,Minor Delay,2795,32.89396257502648
+Australia,Major Delay,1998,23.514181475814993
+Austria,On Time / Early,561,40.447007930785865
+Austria,Minor Delay,525,37.85147801009373
+Austria,Major Delay,301,21.701514059120402
+Azerbaiyán,Minor Delay,29,42.64705882352941
+Azerbaiyán,On Time / Early,29,42.64705882352941
+Azerbaiyán,Major Delay,10,14.705882352941178
+Bangladés,On Time / Early,185,39.69957081545064
+Bangladés,Minor Delay,167,35.836909871244636
+Bangladés,Major Delay,114,24.463519313304722
+Barbados,On Time / Early,49,41.88034188034188
+Barbados,Minor Delay,38,32.47863247863248
+Barbados,Major Delay,30,25.64102564102564
+Baréin,On Time / Early,4,100.0
+Belice,Minor Delay,5,38.46153846153847
+Belice,On Time / Early,5,38.46153846153847
+Belice,Major Delay,3,23.076923076923077
+Benín,On Time / Early,46,54.11764705882353
+Benín,Minor Delay,30,35.294117647058826
+Benín,Major Delay,9,10.588235294117647
+Bielorrusia,On Time / Early,102,48.57142857142857
+Bielorrusia,Minor Delay,59,28.095238095238095
+Bielorrusia,Major Delay,49,23.333333333333332
+Bolivia,On Time / Early,82,38.497652582159624
+Bolivia,Minor Delay,70,32.863849765258216
+Bolivia,Major Delay,61,28.638497652582164
+Bosnia y Herzegovina,Minor Delay,22,48.888888888888886
+Bosnia y Herzegovina,On Time / Early,12,26.666666666666668
+Bosnia y Herzegovina,Major Delay,11,24.444444444444443
+Botsuana,Minor Delay,9,69.23076923076923
+Botsuana,On Time / Early,4,30.76923076923077
+Brasil,On Time / Early,3421,42.83210216601978
+Brasil,Minor Delay,2689,33.66720921497433
+Brasil,Major Delay,1877,23.500688619005885
+Bulgaria,On Time / Early,79,47.59036144578313
+Bulgaria,Minor Delay,54,32.53012048192771
+Bulgaria,Major Delay,33,19.879518072289155
+Burkina Faso,On Time / Early,10,90.9090909090909
+Burkina Faso,Major Delay,1,9.090909090909092
+Burundi,On Time / Early,1,100.0
+Bután,Major Delay,5,100.0
+Bélgica,On Time / Early,254,38.25301204819277
+Bélgica,Minor Delay,208,31.32530120481928
+Bélgica,Major Delay,202,30.42168674698795
+Camboya,Minor Delay,74,48.68421052631579
+Camboya,On Time / Early,59,38.81578947368421
+Camboya,Major Delay,19,12.5
+Camerún,On Time / Early,146,53.090909090909086
+Camerún,Minor Delay,93,33.81818181818182
+Camerún,Major Delay,36,13.090909090909092
+Canada,On Time / Early,461,48.07090719499479
+Canada,Minor Delay,300,31.282586027111574
+Canada,Major Delay,198,20.646506777893638
+Chad,On Time / Early,3,100.0
+Chile,Minor Delay,299,40.514905149051486
+Chile,On Time / Early,277,37.53387533875339
+Chile,Major Delay,162,21.951219512195124
+China,On Time / Early,2482,43.10524487669329
+China,Minor Delay,1857,32.25078152136158
+China,Major Delay,1419,24.64397360194512
+Chipre,Minor Delay,5,41.66666666666667
+Chipre,On Time / Early,4,33.33333333333333
+Chipre,Major Delay,3,25.0
+Colombia,On Time / Early,812,45.8498023715415
+Colombia,Minor Delay,581,32.80632411067194
+Colombia,Major Delay,378,21.34387351778656
+Corea del Sur,On Time / Early,227,38.93653516295026
+Corea del Sur,Minor Delay,180,30.874785591766724
+Corea del Sur,Major Delay,176,30.18867924528302
+Costa Rica,Major Delay,16,44.44444444444444
+Costa Rica,On Time / Early,11,30.555555555555557
+Costa Rica,Minor Delay,9,25.0
+Costa de Marfil,On Time / Early,99,38.52140077821012
+Costa de Marfil,Minor Delay,85,33.07392996108949
+Costa de Marfil,Major Delay,73,28.404669260700388
+Croacia,Minor Delay,35,40.69767441860465
+Croacia,On Time / Early,35,40.69767441860465
+Croacia,Major Delay,16,18.6046511627907
+Cuba,On Time / Early,1624,45.95359366157329
+Cuba,Minor Delay,1149,32.512733446519526
+Cuba,Major Delay,761,21.533672891907187
+Dinamarca,On Time / Early,154,54.03508771929825
+Dinamarca,Minor Delay,67,23.50877192982456
+Dinamarca,Major Delay,64,22.45614035087719
+Ecuador,Minor Delay,145,49.31972789115646
+Ecuador,On Time / Early,90,30.612244897959183
+Ecuador,Major Delay,59,20.068027210884352
+Egipto,On Time / Early,480,40.37005887300252
+Egipto,Minor Delay,449,37.76282590412111
+Egipto,Major Delay,260,21.867115222876365
+El Salvador,On Time / Early,1545,41.46537842190016
+El Salvador,Minor Delay,1242,33.33333333333333
+El Salvador,Major Delay,939,25.201288244766506
+Emiratos Árabes Unidos,Minor Delay,13,44.827586206896555
+Emiratos Árabes Unidos,On Time / Early,9,31.03448275862069
+Emiratos Árabes Unidos,Major Delay,7,24.137931034482758
+Eritrea,Major Delay,2,100.0
+Eslovaquia,Major Delay,10,45.45454545454545
+Eslovaquia,Minor Delay,6,27.27272727272727
+Eslovaquia,On Time / Early,6,27.27272727272727
+Eslovenia,Major Delay,5,83.33333333333334
+Eslovenia,On Time / Early,1,16.666666666666664
+España,On Time / Early,1644,42.50258531540848
+España,Minor Delay,1363,35.237849017580146
+España,Major Delay,861,22.259565667011376
+Estados Unidos,On Time / Early,10594,42.648953301127214
+Estados Unidos,Minor Delay,8354,33.63123993558776
+Estados Unidos,Major Delay,5892,23.71980676328502
+Estonia,Minor Delay,19,65.51724137931035
+Estonia,Major Delay,9,31.03448275862069
+Estonia,On Time / Early,1,3.4482758620689653
+Etiopía,On Time / Early,16,64.0
+Etiopía,Minor Delay,7,28.000000000000004
+Etiopía,Major Delay,2,8.0
+Filipinas,On Time / Early,878,41.749881122206375
+Filipinas,Minor Delay,698,33.19067998097955
+Filipinas,Major Delay,527,25.059438896814072
+Finlandia,On Time / Early,151,52.06896551724138
+Finlandia,Major Delay,78,26.89655172413793
+Finlandia,Minor Delay,61,21.03448275862069
+Francia,On Time / Early,5559,42.04356375737407
+Francia,Minor Delay,4438,33.56527000453789
+Francia,Major Delay,3225,24.391166238088037
+Gabón,Minor Delay,26,57.77777777777777
+Gabón,On Time / Early,10,22.22222222222222
+Gabón,Major Delay,9,20.0
+Georgia,Minor Delay,48,51.61290322580645
+Georgia,On Time / Early,28,30.107526881720432
+Georgia,Major Delay,17,18.27956989247312
+Ghana,On Time / Early,96,36.36363636363637
+Ghana,Minor Delay,85,32.196969696969695
+Ghana,Major Delay,83,31.439393939393938
+Grecia,On Time / Early,16,57.14285714285714
+Grecia,Major Delay,7,25.0
+Grecia,Minor Delay,5,17.857142857142858
+Guadalupe,On Time / Early,22,61.111111111111114
+Guadalupe,Minor Delay,10,27.77777777777778
+Guadalupe,Major Delay,4,11.11111111111111
+Guatemala,On Time / Early,1181,42.51259899208063
+Guatemala,Minor Delay,948,34.12526997840173
+Guatemala,Major Delay,649,23.362131029517638
+Guayana Francesa,On Time / Early,6,66.66666666666666
+Guayana Francesa,Minor Delay,3,33.33333333333333
+Guinea,On Time / Early,26,57.77777777777777
+Guinea,Minor Delay,14,31.11111111111111
+Guinea,Major Delay,5,11.11111111111111
+Guinea Ecuatorial,Major Delay,1,50.0
+Guinea Ecuatorial,Minor Delay,1,50.0
+Guinea-Bissau,On Time / Early,13,46.42857142857143
+Guinea-Bissau,Minor Delay,9,32.142857142857146
+Guinea-Bissau,Major Delay,6,21.428571428571427
+Guyana,Minor Delay,12,63.1578947368421
+Guyana,On Time / Early,4,21.052631578947366
+Guyana,Major Delay,3,15.789473684210526
+Haití,On Time / Early,238,44.569288389513105
+Haití,Minor Delay,177,33.146067415730336
+Haití,Major Delay,119,22.284644194756552
+Honduras,On Time / Early,1634,45.0261780104712
+Honduras,Minor Delay,1236,34.058969413061455
+Honduras,Major Delay,759,20.914852576467347
+Hong Kong,On Time / Early,43,58.9041095890411
+Hong Kong,Minor Delay,19,26.027397260273972
+Hong Kong,Major Delay,11,15.068493150684931
+Hungría,Minor Delay,67,37.43016759776536
+Hungría,On Time / Early,64,35.754189944134076
+Hungría,Major Delay,48,26.81564245810056
+India,On Time / Early,1976,41.31298348316956
+India,Minor Delay,1559,32.594605895881244
+India,Major Delay,1248,26.092410620949195
+Indonesia,On Time / Early,1767,42.0313986679353
+Indonesia,Minor Delay,1446,34.395813510941956
+Indonesia,Major Delay,991,23.57278782112274
+Irak,On Time / Early,460,47.13114754098361
+Irak,Minor Delay,289,29.610655737704917
+Irak,Major Delay,227,23.258196721311474
+Irlanda,Minor Delay,202,41.14052953156823
+Irlanda,On Time / Early,173,35.234215885947044
+Irlanda,Major Delay,116,23.625254582484725
+Irán,On Time / Early,635,43.49315068493151
+Irán,Minor Delay,488,33.42465753424658
+Irán,Major Delay,337,23.08219178082192
+Israel,Minor Delay,100,37.735849056603776
+Israel,On Time / Early,99,37.35849056603773
+Israel,Major Delay,66,24.90566037735849
+Italia,On Time / Early,2186,43.816396071356984
+Italia,Minor Delay,1762,35.317698937662854
+Italia,Major Delay,1041,20.865904990980155
+Jamaica,On Time / Early,77,45.294117647058826
+Jamaica,Minor Delay,57,33.52941176470588
+Jamaica,Major Delay,36,21.176470588235293
+Japón,On Time / Early,352,46.437994722955146
+Japón,Minor Delay,235,31.00263852242744
+Japón,Major Delay,171,22.559366754617415
+Jordania,On Time / Early,49,45.370370370370374
+Jordania,Minor Delay,33,30.555555555555557
+Jordania,Major Delay,26,24.074074074074073
+Kazajistán,On Time / Early,107,39.05109489051095
+Kazajistán,Minor Delay,99,36.13138686131387
+Kazajistán,Major Delay,68,24.817518248175183
+Kenia,On Time / Early,113,47.47899159663865
+Kenia,Minor Delay,75,31.512605042016805
+Kenia,Major Delay,50,21.008403361344538
+Kirguistán,On Time / Early,60,61.224489795918366
+Kirguistán,Minor Delay,21,21.428571428571427
+Kirguistán,Major Delay,17,17.346938775510203
+Kuwait,On Time / Early,2,100.0
+Laos,Major Delay,5,83.33333333333334
+Laos,Minor Delay,1,16.666666666666664
+Lesoto,Minor Delay,11,55.00000000000001
+Lesoto,On Time / Early,5,25.0
+Lesoto,Major Delay,4,20.0
+Liberia,On Time / Early,18,52.94117647058824
+Liberia,Major Delay,9,26.47058823529412
+Liberia,Minor Delay,7,20.588235294117645
+Libia,On Time / Early,56,53.333333333333336
+Libia,Minor Delay,35,33.33333333333333
+Libia,Major Delay,14,13.333333333333334
+Lituania,On Time / Early,57,42.857142857142854
+Lituania,Minor Delay,45,33.83458646616541
+Lituania,Major Delay,31,23.308270676691727
+Luxemburgo,Major Delay,7,70.0
+Luxemburgo,Minor Delay,3,30.0
+Líbano,On Time / Early,14,70.0
+Líbano,Minor Delay,4,20.0
+Líbano,Major Delay,2,10.0
+Macedonia,On Time / Early,5,83.33333333333334
+Macedonia,Major Delay,1,16.666666666666664
+Madagascar,On Time / Early,75,50.33557046979866
+Madagascar,Major Delay,49,32.88590604026846
+Madagascar,Minor Delay,25,16.778523489932887
+Malasia,On Time / Early,203,37.31617647058824
+Malasia,Minor Delay,197,36.213235294117645
+Malasia,Major Delay,144,26.47058823529412
+Mali,On Time / Early,43,41.74757281553398
+Mali,Minor Delay,40,38.83495145631068
+Mali,Major Delay,20,19.41747572815534
+Marruecos,On Time / Early,503,44.31718061674009
+Marruecos,Minor Delay,368,32.42290748898679
+Marruecos,Major Delay,264,23.259911894273127
+Martinica,On Time / Early,56,46.666666666666664
+Martinica,Minor Delay,45,37.5
+Martinica,Major Delay,19,15.833333333333332
+Mauritania,On Time / Early,13,61.904761904761905
+Mauritania,Major Delay,8,38.095238095238095
+Moldavia,Major Delay,40,51.28205128205128
+Moldavia,On Time / Early,22,28.205128205128204
+Moldavia,Minor Delay,16,20.51282051282051
+Mongolia,Major Delay,33,41.77215189873418
+Mongolia,On Time / Early,27,34.177215189873415
+Mongolia,Minor Delay,19,24.050632911392405
+Montenegro,On Time / Early,6,54.54545454545454
+Montenegro,Minor Delay,5,45.45454545454545
+Mozambique,Minor Delay,90,36.885245901639344
+Mozambique,On Time / Early,82,33.60655737704918
+Mozambique,Major Delay,72,29.508196721311474
+Myanmar (Birmania),On Time / Early,184,44.987775061124694
+Myanmar (Birmania),Minor Delay,140,34.229828850855746
+Myanmar (Birmania),Major Delay,85,20.78239608801956
+México,On Time / Early,5576,42.33221986030975
+México,Minor Delay,4227,32.09079866383237
+México,Major Delay,3369,25.57698147585788
+Namibia,Major Delay,8,40.0
+Namibia,Minor Delay,7,35.0
+Namibia,On Time / Early,5,25.0
+Nepal,Minor Delay,38,47.5
+Nepal,On Time / Early,32,40.0
+Nepal,Major Delay,10,12.5
+Nicaragua,On Time / Early,1228,40.31516743269862
+Nicaragua,Minor Delay,1102,36.17859487852922
+Nicaragua,Major Delay,716,23.50623768877216
+Nigeria,On Time / Early,1031,44.651364226938064
+Nigeria,Minor Delay,776,33.60762234733651
+Nigeria,Major Delay,502,21.741013425725424
+Noruega,On Time / Early,148,44.44444444444444
+Noruega,Minor Delay,93,27.927927927927925
+Noruega,Major Delay,92,27.627627627627625
+Nueva Zelanda,On Time / Early,724,45.534591194968556
+Nueva Zelanda,Minor Delay,469,29.49685534591195
+Nueva Zelanda,Major Delay,397,24.968553459119498
+Níger,Minor Delay,42,38.88888888888889
+Níger,On Time / Early,36,33.33333333333333
+Níger,Major Delay,30,27.77777777777778
+Omán,On Time / Early,8,100.0
+Pakistán,Minor Delay,316,41.68865435356201
+Pakistán,On Time / Early,310,40.89709762532981
+Pakistán,Major Delay,132,17.41424802110818
+Panamá,On Time / Early,937,48.27408552292633
+Panamá,Minor Delay,618,31.839258114374037
+Panamá,Major Delay,386,19.88665636269964
+Papúa Nueva Guinea,Minor Delay,28,45.90163934426229
+Papúa Nueva Guinea,On Time / Early,26,42.62295081967213
+Papúa Nueva Guinea,Major Delay,7,11.475409836065573
+Paraguay,On Time / Early,44,56.41025641025641
+Paraguay,Minor Delay,27,34.61538461538461
+Paraguay,Major Delay,7,8.974358974358974
+Países Bajos,On Time / Early,817,42.28778467908902
+Países Bajos,Minor Delay,671,34.73084886128364
+Países Bajos,Major Delay,444,22.981366459627328
+Perú,On Time / Early,305,39.92146596858639
+Perú,Minor Delay,279,36.518324607329845
+Perú,Major Delay,180,23.56020942408377
+Polonia,On Time / Early,279,43.52574102964118
+Polonia,Minor Delay,220,34.321372854914195
+Polonia,Major Delay,142,22.152886115444616
+Portugal,On Time / Early,157,45.77259475218659
+Portugal,Minor Delay,116,33.819241982507286
+Portugal,Major Delay,70,20.408163265306122
+Qatar,On Time / Early,20,47.61904761904761
+Qatar,Minor Delay,17,40.476190476190474
+Qatar,Major Delay,5,11.904761904761903
+Reino Unido,On Time / Early,3210,43.960558751027115
+Reino Unido,Minor Delay,2343,32.08709942481512
+Reino Unido,Major Delay,1749,23.952341824157767
+República Centroafricana,Minor Delay,10,43.47826086956522
+República Centroafricana,On Time / Early,8,34.78260869565217
+República Centroafricana,Major Delay,5,21.73913043478261
+República Checa,On Time / Early,81,43.31550802139038
+República Checa,Minor Delay,55,29.411764705882355
+República Checa,Major Delay,51,27.27272727272727
+República Democrática del Congo,On Time / Early,377,37.32673267326733
+República Democrática del Congo,Minor Delay,359,35.54455445544554
+República Democrática del Congo,Major Delay,274,27.12871287128713
+República Dominicana,On Time / Early,1555,42.382120468792586
+República Dominicana,Minor Delay,1238,33.74216407740529
+República Dominicana,Major Delay,876,23.875715453802126
+República de Gambia,Major Delay,5,100.0
+República del Congo,Minor Delay,9,69.23076923076923
+República del Congo,Major Delay,3,23.076923076923077
+República del Congo,On Time / Early,1,7.6923076923076925
+Ruanda,On Time / Early,43,50.0
+Ruanda,Major Delay,23,26.744186046511626
+Ruanda,Minor Delay,20,23.25581395348837
+Rumania,On Time / Early,174,38.24175824175824
+Rumania,Minor Delay,162,35.604395604395606
+Rumania,Major Delay,119,26.153846153846157
+Rusia,On Time / Early,430,42.40631163708087
+Rusia,Minor Delay,351,34.61538461538461
+Rusia,Major Delay,233,22.978303747534518
+Senegal,On Time / Early,137,52.09125475285171
+Senegal,Minor Delay,78,29.65779467680608
+Senegal,Major Delay,48,18.250950570342205
+Serbia,On Time / Early,1,100.0
+Sierra Leona,On Time / Early,20,51.28205128205128
+Sierra Leona,Major Delay,10,25.64102564102564
+Sierra Leona,Minor Delay,9,23.076923076923077
+Singapur,On Time / Early,205,45.05494505494506
+Singapur,Minor Delay,160,35.16483516483517
+Singapur,Major Delay,90,19.78021978021978
+Siria,Major Delay,28,44.44444444444444
+Siria,On Time / Early,27,42.857142857142854
+Siria,Minor Delay,8,12.698412698412698
+Somalia,Minor Delay,72,51.06382978723404
+Somalia,On Time / Early,51,36.17021276595745
+Somalia,Major Delay,18,12.76595744680851
+Sri Lanka,Minor Delay,8,50.0
+Sri Lanka,On Time / Early,5,31.25
+Sri Lanka,Major Delay,3,18.75
+Suazilandia,Major Delay,5,100.0
+SudAfrica,On Time / Early,492,44.76797088262057
+SudAfrica,Minor Delay,366,33.30300272975432
+SudAfrica,Major Delay,241,21.929026387625115
+Sudán,On Time / Early,123,49.00398406374502
+Sudán,Major Delay,64,25.49800796812749
+Sudán,Minor Delay,64,25.49800796812749
+Sudán del Sur,Major Delay,3,60.0
+Sudán del Sur,Minor Delay,2,40.0
+Suecia,On Time / Early,374,40.25834230355221
+Suecia,Minor Delay,320,34.445640473627556
+Suecia,Major Delay,235,25.29601722282024
+Suiza,On Time / Early,132,40.0
+Suiza,Minor Delay,106,32.121212121212125
+Suiza,Major Delay,92,27.878787878787882
+Surinam,On Time / Early,8,100.0
+Sáhara Occidental,Major Delay,2,100.0
+Tailandia,On Time / Early,377,41.47414741474147
+Tailandia,Minor Delay,307,33.77337733773377
+Tailandia,Major Delay,225,24.752475247524753
+Taiwán,On Time / Early,19,65.51724137931035
+Taiwán,Major Delay,8,27.586206896551722
+Taiwán,Minor Delay,2,6.896551724137931
+Tanzania,On Time / Early,159,42.06349206349206
+Tanzania,Minor Delay,156,41.269841269841265
+Tanzania,Major Delay,63,16.666666666666664
+Tayikistán,On Time / Early,4,57.14285714285714
+Tayikistán,Minor Delay,3,42.857142857142854
+Togo,On Time / Early,75,61.47540983606557
+Togo,Minor Delay,33,27.049180327868854
+Togo,Major Delay,14,11.475409836065573
+Trinidad y Tobago,On Time / Early,49,35.507246376811594
+Trinidad y Tobago,Major Delay,45,32.608695652173914
+Trinidad y Tobago,Minor Delay,44,31.88405797101449
+Turkmenistán,Minor Delay,20,37.735849056603776
+Turkmenistán,Major Delay,17,32.075471698113205
+Turkmenistán,On Time / Early,16,30.18867924528302
+Turquía,On Time / Early,1437,42.326951399116346
+Turquía,Minor Delay,1140,33.578792341678934
+Turquía,Major Delay,818,24.094256259204712
+Túnez,Minor Delay,22,61.111111111111114
+Túnez,On Time / Early,8,22.22222222222222
+Túnez,Major Delay,6,16.666666666666664
+Ucrania,On Time / Early,430,44.46742502585315
+Ucrania,Minor Delay,322,33.29886246122027
+Ucrania,Major Delay,215,22.233712512926576
+Uganda,On Time / Early,39,40.625
+Uganda,Minor Delay,32,33.33333333333333
+Uganda,Major Delay,25,26.041666666666668
+Uruguay,On Time / Early,60,43.16546762589928
+Uruguay,Minor Delay,47,33.81294964028777
+Uruguay,Major Delay,32,23.021582733812952
+Uzbekistán,On Time / Early,50,41.32231404958678
+Uzbekistán,Major Delay,41,33.88429752066116
+Uzbekistán,Minor Delay,30,24.793388429752067
+Venezuela,On Time / Early,408,41.46341463414634
+Venezuela,Minor Delay,308,31.300813008130078
+Venezuela,Major Delay,268,27.235772357723576
+Vietnam,On Time / Early,335,44.253632760898284
+Vietnam,Minor Delay,235,31.04359313077939
+Vietnam,Major Delay,187,24.702774108322327
+Yemen,Major Delay,24,33.80281690140845
+Yemen,On Time / Early,24,33.80281690140845
+Yemen,Minor Delay,23,32.3943661971831
+Yibuti,Major Delay,12,38.70967741935484
+Yibuti,On Time / Early,10,32.25806451612903
+Yibuti,Minor Delay,9,29.03225806451613
+Zambia,On Time / Early,115,43.233082706766915
+Zambia,Minor Delay,83,31.203007518796994
+Zambia,Major Delay,68,25.563909774436087
+Zimbabue,On Time / Early,84,44.21052631578947
+Zimbabue,Minor Delay,58,30.526315789473685
+Zimbabue,Major Delay,48,25.263157894736842

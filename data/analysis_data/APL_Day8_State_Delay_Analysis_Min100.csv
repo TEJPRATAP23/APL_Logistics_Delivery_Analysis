@@ -1,0 +1,339 @@
+Order Country,Order State,Total_Shipments,Delayed_Shipments,Average_Shipping_Variance_Days,Average_Actual_Shipping_Days,Average_Scheduled_Shipping_Days,Actual_Delay_Rate_%
+República Dominicana,Duarte,161,122,1.06,3.98,2.91,75.78
+Italia,Liguria,129,97,1.26,3.93,2.67,75.19
+Bélgica,Flanders Oriental,123,92,1.08,3.88,2.8,74.8
+Ecuador,Pichincha,136,101,0.78,3.19,2.41,74.26
+Guatemala,Escuintla,171,123,0.77,3.04,2.27,71.93
+China,Henan,230,164,1.03,3.52,2.49,71.3
+Costa de Marfil,Lagunes,188,134,1.04,3.53,2.49,71.28
+Ucrania,Dnipropetrovsk,146,103,0.99,3.6,2.61,70.55
+Brasil,Distrito Federal,206,145,0.93,3.71,2.78,70.39
+Turquía,Bursa,134,94,0.87,3.22,2.35,70.15
+Suiza,Zúrich,140,98,1.09,3.77,2.69,70.0
+Guatemala,Chimaltenango,125,87,0.65,3.37,2.72,69.6
+México,Tamaulipas,498,344,0.83,3.84,3.01,69.08
+España,Murcia,126,87,0.98,3.94,2.96,69.05
+Ghana,Gran Accra,169,116,1.05,3.95,2.91,68.64
+Irak,Basora,188,128,0.97,3.75,2.78,68.09
+Estados Unidos,Arkansas,147,100,0.9,3.41,2.52,68.03
+El Salvador,La Libertad,100,68,0.78,3.83,3.05,68.0
+China,Hunan,185,125,0.84,3.74,2.9,67.57
+Bélgica,Limburgo,126,85,0.93,4.01,3.08,67.46
+México,Durango,287,193,0.77,3.68,2.91,67.25
+Reino Unido,Gales,146,98,0.68,3.18,2.51,67.12
+Estados Unidos,Maryland,255,171,0.91,3.84,2.93,67.06
+China,Jilin,160,107,0.96,4.22,3.27,66.88
+Arabia Saudí,Riad,345,230,0.76,3.55,2.79,66.67
+México,Querétaro,237,157,0.79,3.22,2.42,66.24
+México,Baja California,599,396,1.05,4.09,3.03,66.11
+Italia,Cerdeña,109,72,0.98,4.02,3.04,66.06
+México,Colima,156,103,0.78,3.61,2.83,66.03
+China,Shanxi,140,92,0.81,3.79,2.97,65.71
+India,Haryana,122,80,0.69,3.48,2.8,65.57
+Nicaragua,Granada,139,91,0.78,3.5,2.72,65.47
+Nigeria,Kaduna,136,89,0.79,3.68,2.89,65.44
+Irán,Jorasán Razaví,202,132,0.78,3.63,2.86,65.35
+España,Castilla-La Mancha,142,92,0.76,3.72,2.96,64.79
+Alemania,Turingia,176,114,0.64,3.72,3.09,64.77
+Argentina,Santa Fe,227,147,0.88,3.86,2.98,64.76
+Indonesia,Kalimantan Oriental,170,110,0.74,3.49,2.75,64.71
+Estados Unidos,Massachusetts,337,218,0.86,3.74,2.88,64.69
+El Salvador,Sonsonate,138,89,0.93,3.87,2.93,64.49
+Nicaragua,Masaya,162,104,0.57,3.56,2.98,64.2
+India,Chhattisgarh,167,107,0.89,3.43,2.54,64.07
+Alemania,Hesse,422,270,0.71,3.52,2.8,63.98
+Estados Unidos,Misisipi,136,87,0.96,3.71,2.76,63.97
+Francia,Borgoña-Franco Condado,233,149,0.7,3.84,3.14,63.95
+Brasil,Marañón,340,217,0.81,3.74,2.92,63.82
+India,Punyab,105,67,0.79,3.27,2.48,63.81
+España,Galicia,129,82,0.77,3.68,2.91,63.57
+Marruecos,Gran Casablanca,357,226,0.71,3.49,2.78,63.31
+China,Liaoning,302,191,0.56,3.29,2.74,63.25
+Afganistán,Kabul,117,74,0.72,3.48,2.76,63.25
+Venezuela,Aragua,117,74,0.62,3.65,3.03,63.25
+Italia,Véneto,242,153,0.62,3.31,2.69,63.22
+Egipto,El Cairo,600,379,0.56,3.35,2.79,63.17
+Bangladés,Daca,306,193,0.79,3.56,2.76,63.07
+India,Bengala Occidental,140,88,0.59,3.54,2.96,62.86
+Nigeria,Oyo,164,103,0.64,3.73,3.09,62.8
+Italia,Piamonte,360,226,0.5,3.26,2.76,62.78
+Irlanda,Dublín,373,234,0.71,3.53,2.82,62.73
+Alemania,Baden-Wurtemberg,793,496,0.71,3.59,2.88,62.55
+República Democrática del Congo,Kinshasa,483,302,0.66,3.69,3.02,62.53
+Honduras,Atlántida,312,195,0.61,3.89,3.28,62.5
+India,Guyarat,272,170,0.86,3.75,2.89,62.5
+Polonia,Silesia,184,115,0.81,3.46,2.65,62.5
+Brasil,Santa Catarina,541,338,0.69,3.77,3.08,62.48
+Noruega,Oslo,157,98,0.85,4.07,3.22,62.42
+Francia,Auvernia,122,76,0.8,3.43,2.64,62.3
+Indonesia,Sumatra Meridional,127,79,0.8,3.38,2.58,62.2
+México,Guanajuato,812,505,0.64,3.47,2.83,62.19
+México,Morelos,169,105,0.83,3.67,2.84,62.13
+Nigeria,Kano,271,168,0.76,3.68,2.92,61.99
+México,Yucatán,349,216,0.54,3.21,2.68,61.89
+India,Rajastán,312,193,0.7,3.48,2.78,61.86
+Ucrania,Járkov,118,73,0.51,3.7,3.19,61.86
+Francia,Bretaña,430,265,0.57,3.49,2.91,61.63
+Alemania,Hamburgo,627,385,0.59,3.49,2.9,61.4
+Países Bajos,Güeldres,119,73,0.83,3.71,2.88,61.34
+Estados Unidos,Utah,155,95,0.61,3.4,2.79,61.29
+Suecia,Estocolmo,718,440,0.69,3.57,2.88,61.28
+Camboya,Nom Pen,152,93,0.49,3.3,2.81,61.18
+Cuba,Cienfuegos,188,115,0.51,3.3,2.79,61.17
+Rusia,Cheliábinsk,185,113,0.72,3.1,2.38,61.08
+Estados Unidos,Colorado,475,290,0.76,3.82,3.06,61.05
+Argelia,Alger,141,86,0.87,3.66,2.79,60.99
+Malasia,Sabah,123,75,0.49,3.36,2.87,60.98
+Rusia,Daguestán,123,75,0.68,3.39,2.71,60.98
+Filipinas,Calabarzón,161,98,0.65,3.84,3.19,60.87
+Hungría,Budapest,143,87,0.59,3.87,3.27,60.84
+Chile,Santiago de Chile,434,264,0.63,3.68,3.05,60.83
+Estados Unidos,Nueva Jersey,324,197,0.63,3.39,2.77,60.8
+Guatemala,Huehuetenango,150,91,0.53,3.25,2.71,60.67
+España,Andalucía,508,308,0.59,3.21,2.62,60.63
+Países Bajos,Holanda Septentrional,414,251,0.77,3.41,2.65,60.63
+Guatemala,Quezaltenango,223,135,0.57,3.43,2.86,60.54
+India,Andhra Pradesh,215,130,0.62,3.41,2.79,60.47
+Alemania,Baja Sajonia,614,370,0.61,3.46,2.85,60.26
+China,Hebei,133,80,0.77,3.64,2.86,60.15
+Italia,Toscana,439,264,0.65,3.78,3.13,60.14
+Perú,Lima (ciudad),484,291,0.64,3.38,2.74,60.12
+México,Quintana Roo,168,101,0.76,4.03,3.27,60.12
+Nicaragua,León,283,170,0.73,3.59,2.86,60.07
+Estados Unidos,Nueva York,2753,1652,0.6,3.54,2.93,60.01
+Arabia Saudí,Meca,280,168,0.49,3.35,2.86,60.0
+México,Sonora,327,196,0.63,3.33,2.7,59.94
+Austria,Viena,1038,622,0.6,3.48,2.88,59.92
+Estados Unidos,Kentucky,359,215,0.46,3.5,3.04,59.89
+Italia,Emilia-Romaña,516,309,0.67,3.71,3.04,59.88
+Brasil,Río Grande del Norte,132,79,0.53,3.67,3.14,59.85
+Pakistán,Punyab,552,330,0.58,3.39,2.81,59.78
+Estados Unidos,Carolina del Norte,611,365,0.67,3.48,2.82,59.74
+Nicaragua,Managua,1834,1095,0.63,3.42,2.79,59.71
+SudAfrica,Gauteng,587,350,0.54,3.45,2.91,59.63
+Francia,Languedoc-Rosellón-Mediodía-Pirineos,1084,646,0.64,3.53,2.88,59.59
+China,Anhui,235,140,0.51,3.59,3.07,59.57
+Corea del Sur,Seúl,269,160,0.64,3.51,2.87,59.48
+Estados Unidos,Tennessee,454,270,0.65,3.68,3.03,59.47
+España,Cataluña,647,384,0.66,3.48,2.83,59.35
+Estados Unidos,Nevada,108,64,0.69,3.65,2.95,59.26
+Alemania,Berlín,995,589,0.54,3.41,2.86,59.2
+Italia,Lacio,828,490,0.46,3.22,2.76,59.18
+El Salvador,San Salvador,3055,1806,0.62,3.54,2.92,59.12
+India,Karnataka,335,198,0.57,3.43,2.86,59.1
+Alemania,Renania del Norte-Westfalia,3303,1951,0.61,3.56,2.95,59.07
+Indonesia,Yakarta,1006,594,0.63,3.53,2.9,59.05
+Alemania,Sajonia-Anhalt,166,98,0.41,3.34,2.93,59.04
+Turquía,Gaziantep,122,72,0.61,3.24,2.63,59.02
+Nicaragua,Estelí,161,95,0.6,3.48,2.88,59.01
+Estados Unidos,Texas,2446,1442,0.63,3.51,2.88,58.95
+Filipinas,Capital Nacional,1776,1046,0.57,3.52,2.95,58.9
+India,Madhya Pradesh,248,146,0.76,3.71,2.95,58.87
+Países Bajos,Limburgo,124,73,0.61,3.6,2.99,58.87
+Estados Unidos,Georgia,475,279,0.71,3.4,2.69,58.74
+Nueva Zelanda,Canterbury,167,98,0.65,3.26,2.62,58.68
+República Democrática del Congo,Katanga,179,105,0.48,3.79,3.31,58.66
+Francia,Isla de Francia,4580,2686,0.58,3.47,2.89,58.65
+Australia,Queensland,2186,1282,0.62,3.47,2.85,58.65
+Brasil,Rio Grande do Sul,457,268,0.63,3.6,2.97,58.64
+China,Jiangsu,413,242,0.67,3.78,3.11,58.6
+Cuba,Villa Clara,215,126,0.81,3.82,3.0,58.6
+Brasil,Goiás,169,99,0.67,3.66,2.99,58.58
+Nueva Zelanda,Auckland,572,335,0.58,3.36,2.78,58.57
+China,Fujian,140,82,0.48,3.59,3.11,58.57
+Colombia,Atlántico,164,96,0.55,3.11,2.55,58.54
+Estados Unidos,Rhode Island,135,79,0.58,3.44,2.86,58.52
+Israel,Tel Aviv,106,62,0.49,3.31,2.82,58.49
+Francia,Normandía,448,262,0.6,3.49,2.89,58.48
+Australia,Australia Occidental,917,536,0.67,3.48,2.81,58.45
+Tailandia,Bangkok,889,519,0.6,3.51,2.9,58.38
+Estados Unidos,Arizona,555,323,0.55,3.38,2.83,58.2
+Turquía,Estambul,998,580,0.64,3.63,2.98,58.12
+India,Maharashtra,905,526,0.55,3.56,3.01,58.12
+Barbados,San Miguel,117,68,0.8,3.4,2.6,58.12
+Francia,Aquitania-Lemosín-Poitou-Charentes,912,530,0.55,3.41,2.87,58.11
+Estados Unidos,Delaware,241,140,0.54,3.56,3.02,58.09
+Malasia,Perak,112,65,0.47,2.42,1.95,58.04
+México,Distrito Federal,2353,1364,0.64,3.56,2.93,57.97
+México,Coahuila,518,300,0.53,3.28,2.75,57.92
+Alemania,Bremen,268,155,0.63,3.75,3.13,57.84
+Francia,Norte-Paso de Calais-Picardía,893,516,0.64,3.56,2.92,57.78
+Cuba,Holguín,322,186,0.46,3.24,2.78,57.76
+Nicaragua,Chinandega,277,160,0.6,3.23,2.62,57.76
+Estados Unidos,Oklahoma,175,101,0.61,3.57,2.95,57.71
+Indonesia,Java Occidental,817,471,0.57,3.52,2.95,57.65
+Brasil,São Paulo,2031,1168,0.58,3.59,3.02,57.51
+Australia,Victoria,1456,837,0.58,3.55,2.97,57.49
+Estados Unidos,Florida,941,541,0.51,3.56,3.05,57.49
+Brasil,Minas Gerais,625,359,0.58,3.53,2.95,57.44
+India,Tamil Nadu,366,210,0.54,3.49,2.96,57.38
+China,Guangdong,857,491,0.55,3.44,2.88,57.29
+Marruecos,Rabat-Salé-Zemur-Zaer,323,185,0.61,3.35,2.74,57.28
+Vietnam,Ciudad Ho Chi Minh,524,300,0.5,3.53,3.03,57.25
+Italia,Apulia,400,229,0.52,3.67,3.15,57.25
+Turquía,Adana,159,91,0.69,3.75,3.07,57.23
+Japón,Tokio,180,103,0.44,3.68,3.24,57.22
+República Dominicana,Santo Domingo,2211,1265,0.58,3.5,2.92,57.21
+China,Shanghái,294,168,0.51,3.58,3.07,57.14
+Países Bajos,Utrecht,210,120,0.47,3.41,2.94,57.14
+Estados Unidos,Illinois,1237,706,0.58,3.55,2.97,57.07
+México,Jalisco,1217,694,0.55,3.44,2.89,57.03
+Francia,Alsacia-Champaña-Ardenas-Lorena,868,495,0.72,3.67,2.95,57.03
+República Dominicana,Santiago de Chile,400,228,0.54,3.5,2.97,57.0
+México,Puebla,739,421,0.62,3.68,3.06,56.97
+Honduras,Yoro,181,103,0.44,3.58,3.14,56.91
+Francia,Provenza-Alpes-Costa Azul,1842,1048,0.63,3.5,2.87,56.89
+Indonesia,Java Oriental,575,327,0.37,3.26,2.9,56.87
+Indonesia,Sumatra Septentrional,415,236,0.54,3.53,2.99,56.87
+Francia,Países del Loira,489,278,0.65,3.58,2.93,56.85
+Estados Unidos,California,4966,2821,0.55,3.5,2.96,56.81
+India,Uttar Pradesh,596,338,0.6,3.59,2.99,56.71
+Estados Unidos,Ohio,1122,636,0.55,3.44,2.89,56.68
+Turquía,Izmir,307,174,0.63,3.74,3.11,56.68
+Francia,Centro-Valle de Loira,270,153,0.53,3.53,2.99,56.67
+Argentina,Buenos Aires (provincia),180,102,0.6,3.63,3.03,56.67
+República Dominicana,San Pedro de Macorís,226,128,0.57,3.12,2.54,56.64
+España,País Vasco,294,166,0.59,3.65,3.06,56.46
+Estados Unidos,Minnesota,243,137,0.61,3.49,2.87,56.38
+Alemania,Bavaria,928,523,0.62,3.59,2.97,56.36
+España,Valenciana,449,253,0.71,3.7,2.99,56.35
+Canada,Quebec,137,77,0.61,3.44,2.83,56.2
+Reino Unido,Inglaterra,6722,3776,0.54,3.49,2.95,56.17
+Angola,Luanda,173,97,0.76,3.54,2.79,56.07
+Suecia,Västra Götaland,107,60,0.43,3.38,2.95,56.07
+Zambia,Copperbelt,132,74,0.66,3.72,3.06,56.06
+China,Heilongjiang,348,195,0.65,3.4,2.75,56.03
+Australia,Australia del Sur,668,374,0.54,3.57,3.04,55.99
+China,Tianjin,143,80,0.83,3.46,2.64,55.94
+Cuba,Ciego de Ávila,143,80,0.54,3.48,2.94,55.94
+China,Chongqing,120,67,0.52,3.51,2.99,55.83
+Alemania,Renania-Palatinado,398,222,0.51,3.91,3.41,55.78
+Brasil,Bahía,676,377,0.58,3.64,3.06,55.77
+Brasil,Pernambuco,410,228,0.53,3.4,2.87,55.61
+Brasil,Río de Janeiro,414,230,0.52,3.39,2.86,55.56
+Alemania,Sajonia,375,208,0.5,3.14,2.64,55.47
+Cuba,Mayabeque,119,66,0.29,3.34,3.05,55.46
+México,Chihuahua,765,424,0.47,3.35,2.88,55.42
+Dinamarca,Región Capital,166,92,0.39,3.73,3.34,55.42
+Estados Unidos,Nebraska,103,57,0.33,3.58,3.25,55.34
+SudAfrica,Cabo Occidental,217,120,0.5,3.63,3.13,55.3
+Honduras,Cortés,1160,641,0.54,3.49,2.95,55.26
+Países Bajos,Brabante Septentrional,319,176,0.46,3.45,2.99,55.17
+Estados Unidos,Michigan,610,336,0.69,3.21,2.52,55.08
+Guatemala,Guatemala,2109,1161,0.51,3.54,3.04,55.05
+Nigeria,Lagos,903,497,0.62,3.52,2.9,55.04
+Myanmar (Birmania),Rangún,409,225,0.36,3.49,3.12,55.01
+Singapur,Singapur,455,250,0.45,3.45,2.99,54.95
+Canada,Alberta,124,68,0.2,3.34,3.14,54.84
+Jamaica,Santa Caterina,170,93,0.6,3.56,2.96,54.71
+Honduras,Francisco Morazán,1783,975,0.4,3.42,3.03,54.68
+México,Veracruz,566,309,0.54,3.59,3.06,54.59
+Turquía,Ankara,405,221,0.46,3.34,2.88,54.57
+Australia,Nueva Gales del Sur,2370,1293,0.55,3.51,2.96,54.56
+México,Nuevo León,623,339,0.48,3.52,3.04,54.41
+Estados Unidos,Wisconsin,307,167,0.35,3.06,2.72,54.4
+España,Castilla y León,274,149,0.44,3.11,2.68,54.38
+Cuba,Pinar del Río,287,156,0.57,3.36,2.78,54.36
+India,Telangana,151,82,0.67,3.37,2.7,54.3
+Nicaragua,Matagalpa,190,103,0.48,3.53,3.04,54.21
+Rusia,Bashkortostán,155,84,0.57,3.81,3.24,54.19
+Australia,Tasmania,322,174,0.49,3.49,3.0,54.04
+Países Bajos,Holanda Meridional,472,255,0.42,3.29,2.88,54.03
+Irak,Bagdad,436,235,0.36,3.33,2.97,53.9
+Italia,Sicilia,457,246,0.43,3.39,2.96,53.83
+Estados Unidos,Washington,1272,684,0.52,3.42,2.89,53.77
+Camerún,Centro,106,57,0.36,3.26,2.91,53.77
+India,Bihar,194,104,0.43,3.35,2.92,53.61
+Tanzania,Dar es Salaam,183,98,0.39,3.33,2.95,53.55
+El Salvador,Santa Ana,312,167,0.52,3.68,3.16,53.53
+Estados Unidos,Indiana,398,213,0.43,3.42,2.99,53.52
+México,México,808,432,0.52,3.55,3.03,53.47
+Francia,Auvernia-Ródano-Alpes,1016,543,0.43,3.23,2.8,53.44
+Martinica,Martinica,120,64,0.44,3.52,3.08,53.33
+Cuba,Granma,349,186,0.47,3.34,2.88,53.3
+Estados Unidos,Virginia,550,293,0.41,3.32,2.91,53.27
+Colombia,Santander,124,66,0.62,3.31,2.69,53.23
+Estados Unidos,Misuri,173,92,0.44,3.42,2.98,53.18
+Panamá,Chiriquí,224,119,0.37,3.31,2.95,53.12
+República Dominicana,La Romana,311,165,0.5,3.61,3.11,53.05
+Haití,Ouest,474,251,0.41,3.6,3.19,52.95
+Estados Unidos,Connecticut,189,100,0.39,3.54,3.15,52.91
+China,Shandong,442,233,0.4,3.54,3.14,52.71
+Brasil,Paraná,332,175,0.36,3.38,3.03,52.71
+Indonesia,Yogyakarta,241,127,0.51,3.24,2.73,52.7
+Alemania,Brandenburgo,133,70,0.7,3.42,2.72,52.63
+Nueva Zelanda,Wellington,307,161,0.45,3.69,3.24,52.44
+Brasil,Pará,170,89,0.59,3.19,2.61,52.35
+Cuba,Camagüey,241,126,0.46,3.48,3.02,52.28
+Cuba,Guantánamo,199,104,0.47,3.82,3.35,52.26
+Australia,Territorio de la Capital Australiana,469,245,0.36,3.38,3.02,52.24
+Sudán,Jartum,134,70,0.55,3.64,3.09,52.24
+México,Chiapas,224,117,0.48,3.4,2.92,52.23
+México,Michoacán,431,225,0.62,3.58,2.96,52.2
+Colombia,Bogotá,492,256,0.45,3.33,2.88,52.03
+Estados Unidos,Alabama,152,79,0.34,3.32,2.97,51.97
+Ucrania,Lviv,108,56,0.61,4.03,3.42,51.85
+España,Madrid,992,512,0.3,3.33,3.03,51.61
+China,Sichuan,310,160,0.41,3.53,3.12,51.61
+Cuba,Las Tunas,285,147,0.41,3.44,3.02,51.58
+Cuba,Santiago de Cuba,797,411,0.43,3.49,3.06,51.57
+Brasil,Paraíba,132,68,0.23,2.66,2.43,51.52
+Argentina,Buenos Aires,967,498,0.38,3.36,2.98,51.5
+Estados Unidos,Pensilvania,1406,724,0.46,3.36,2.9,51.49
+Jordania,Amán,101,52,0.51,3.99,3.48,51.49
+Zambia,Lusaka,105,54,0.6,3.84,3.24,51.43
+Venezuela,Zulia,187,96,0.5,3.52,3.02,51.34
+Canada,Ontario,503,258,0.47,3.33,2.86,51.29
+Canada,Columbia británica,119,61,0.17,3.1,2.93,51.26
+Estados Unidos,Carolina del Sur,121,62,0.44,3.77,3.33,51.24
+México,Sinaloa,373,191,0.33,3.49,3.16,51.21
+India,Delhi,182,93,0.47,3.3,2.82,51.1
+México,San Luis Potosí,295,150,0.26,3.34,3.07,50.85
+Bélgica,Amberes,187,95,0.42,3.21,2.79,50.8
+Estados Unidos,Oregón,274,139,0.4,3.58,3.18,50.73
+Panamá,Panamá,1631,825,0.33,3.39,3.06,50.58
+Reino Unido,Escocia,434,218,0.31,3.35,3.04,50.23
+Indonesia,Java Central,310,155,0.42,3.48,3.05,50.0
+Pakistán,Sind,108,54,0.18,2.91,2.73,50.0
+Brasil,Amazonas,131,65,0.47,3.17,2.69,49.62
+Finlandia,Uusimaa,250,124,0.43,3.59,3.16,49.6
+Colombia,Antioquía,242,120,0.34,3.47,3.13,49.59
+México,Campeche,123,61,0.53,3.74,3.21,49.59
+México,Nayarit,158,78,0.11,3.22,3.11,49.37
+República Checa,Praga,124,61,0.28,3.58,3.3,49.19
+Uruguay,Montevideo,110,54,0.18,3.26,3.08,49.09
+Venezuela,Distrito Capital,168,82,0.21,3.41,3.2,48.81
+Argentina,Chaco,125,61,0.54,3.5,2.96,48.8
+Italia,Lombardía,689,336,0.27,3.21,2.93,48.77
+Vietnam,Th? Dô Hà N?i,148,72,0.32,3.7,3.38,48.65
+Alemania,Schleswig-Holstein,143,69,0.03,3.03,3.0,48.25
+China,Zhejiang,210,101,0.36,3.55,3.2,48.1
+Madagascar,Analamanga,102,49,0.85,3.71,2.85,48.04
+Brasil,Ceará,350,168,0.24,3.35,3.11,48.0
+Australia,Territorio del Norte,109,52,0.28,3.28,2.99,47.71
+Kenia,Nairobi,120,57,-0.03,3.06,3.09,47.5
+Alemania,Mecklemburgo-Pomerania Occidental,180,85,0.35,3.14,2.79,47.22
+Marruecos,Marrakech-Tensift-Al Hauz,104,49,0.66,3.71,3.05,47.12
+Egipto,Alejandría,276,130,0.43,3.53,3.1,47.1
+Turquía,Antalya,100,47,0.26,2.95,2.69,47.0
+Portugal,Lisboa,210,98,0.26,3.0,2.74,46.67
+Nigeria,Ríos,106,49,0.17,3.53,3.36,46.23
+China,Gansu,100,46,0.18,3.24,3.06,46.0
+China,Hubei,270,124,0.27,3.35,3.07,45.93
+Brasil,Alagoas,255,117,0.29,3.52,3.23,45.88
+Irán,Juzestán,138,62,0.11,3.2,3.09,44.93
+Italia,Campania,485,217,0.2,3.33,3.13,44.74
+China,Pekín,175,77,0.13,3.19,3.06,44.0
+México,Tabasco,180,78,0.11,3.37,3.26,43.33
+Colombia,Norte de Santander,150,65,0.3,3.32,3.02,43.33
+Polonia,Mazovia,137,59,0.09,3.13,3.04,43.07
+Zimbabue,Harare,114,49,0.39,3.68,3.29,42.98
+Senegal,Dakar,215,91,0.11,3.4,3.29,42.33
+El Salvador,Cuscatlán,121,51,0.26,3.16,2.89,42.15
+Irak,Arbil,119,50,0.09,3.57,3.48,42.02
+Honduras,Choluteca,193,81,0.25,3.56,3.31,41.97
+Irak,Nínive,114,47,0.25,3.04,2.79,41.23
+Turquía,Mersin,114,47,0.18,3.19,3.02,41.23
+Irán,Fars,146,60,0.32,3.06,2.75,41.1
+SudAfrica,Cabo Oriental,150,55,0.02,3.39,3.37,36.67
+Cuba,Matanzas,143,45,-0.06,3.04,3.1,31.47

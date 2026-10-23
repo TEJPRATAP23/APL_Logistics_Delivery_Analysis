@@ -1,0 +1,5 @@
+﻿Test_ID,Scenario,Expected,Actual,Status
+E01,No filters,180519,180519,PASS
+E02,Empty selection,180519,180519,PASS
+E03,No matching records,0,0,PASS
+E04,Invalid column,KeyError,PASS,PASS

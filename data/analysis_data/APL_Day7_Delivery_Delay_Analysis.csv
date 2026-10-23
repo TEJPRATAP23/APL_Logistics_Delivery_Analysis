@@ -1,0 +1,5 @@
+Delivery Status,Total_Shipments,Actual_Delayed_Shipments,Avg_Delay_Days,Actual_Delay_Rate_%
+Advance shipping,41592,0,-1.5,0.0
+Late delivery,98977,98977,1.62,100.0
+Shipping canceled,7754,4423,0.57,57.04
+Shipping on time,32196,0,0.0,0.0

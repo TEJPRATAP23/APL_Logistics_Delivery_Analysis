@@ -1,0 +1,1118 @@
+Order Country,Order State,Total_Shipments,Shipment_Share_%
+Reino Unido,Inglaterra,6722,3.72
+Estados Unidos,California,4966,2.75
+Francia,Isla de Francia,4580,2.54
+Alemania,Renania del Norte-Westfalia,3303,1.83
+El Salvador,San Salvador,3055,1.69
+Estados Unidos,Nueva York,2753,1.53
+Estados Unidos,Texas,2446,1.35
+Australia,Nueva Gales del Sur,2370,1.31
+México,Distrito Federal,2353,1.3
+República Dominicana,Santo Domingo,2211,1.22
+Australia,Queensland,2186,1.21
+Guatemala,Guatemala,2109,1.17
+Brasil,São Paulo,2031,1.13
+Francia,Provenza-Alpes-Costa Azul,1842,1.02
+Nicaragua,Managua,1834,1.02
+Honduras,Francisco Morazán,1783,0.99
+Filipinas,Capital Nacional,1776,0.98
+Panamá,Panamá,1631,0.9
+Australia,Victoria,1456,0.81
+Estados Unidos,Pensilvania,1406,0.78
+Estados Unidos,Washington,1272,0.7
+Estados Unidos,Illinois,1237,0.69
+México,Jalisco,1217,0.67
+Honduras,Cortés,1160,0.64
+Estados Unidos,Ohio,1122,0.62
+Francia,Languedoc-Rosellón-Mediodía-Pirineos,1084,0.6
+Austria,Viena,1038,0.58
+Francia,Auvernia-Ródano-Alpes,1016,0.56
+Indonesia,Yakarta,1006,0.56
+Turquía,Estambul,998,0.55
+Alemania,Berlín,995,0.55
+España,Madrid,992,0.55
+Argentina,Buenos Aires,967,0.54
+Estados Unidos,Florida,941,0.52
+Alemania,Bavaria,928,0.51
+Australia,Australia Occidental,917,0.51
+Francia,Aquitania-Lemosín-Poitou-Charentes,912,0.51
+India,Maharashtra,905,0.5
+Nigeria,Lagos,903,0.5
+Francia,Norte-Paso de Calais-Picardía,893,0.49
+Tailandia,Bangkok,889,0.49
+Francia,Alsacia-Champaña-Ardenas-Lorena,868,0.48
+China,Guangdong,857,0.47
+Italia,Lacio,828,0.46
+Indonesia,Java Occidental,817,0.45
+México,Guanajuato,812,0.45
+México,México,808,0.45
+Cuba,Santiago de Cuba,797,0.44
+Alemania,Baden-Wurtemberg,793,0.44
+México,Chihuahua,765,0.42
+México,Puebla,739,0.41
+Suecia,Estocolmo,718,0.4
+Italia,Lombardía,689,0.38
+Brasil,Bahía,676,0.37
+Australia,Australia del Sur,668,0.37
+España,Cataluña,647,0.36
+Alemania,Hamburgo,627,0.35
+Brasil,Minas Gerais,625,0.35
+México,Nuevo León,623,0.35
+Alemania,Baja Sajonia,614,0.34
+Estados Unidos,Carolina del Norte,611,0.34
+Estados Unidos,Michigan,610,0.34
+Egipto,El Cairo,600,0.33
+México,Baja California,599,0.33
+India,Uttar Pradesh,596,0.33
+SudAfrica,Gauteng,587,0.33
+Indonesia,Java Oriental,575,0.32
+Nueva Zelanda,Auckland,572,0.32
+México,Veracruz,566,0.31
+Estados Unidos,Arizona,555,0.31
+Pakistán,Punyab,552,0.31
+Estados Unidos,Virginia,550,0.3
+Brasil,Santa Catarina,541,0.3
+Vietnam,Ciudad Ho Chi Minh,524,0.29
+México,Coahuila,518,0.29
+Italia,Emilia-Romaña,516,0.29
+España,Andalucía,508,0.28
+Canada,Ontario,503,0.28
+México,Tamaulipas,498,0.28
+Colombia,Bogotá,492,0.27
+Francia,Países del Loira,489,0.27
+Italia,Campania,485,0.27
+Perú,Lima (ciudad),484,0.27
+República Democrática del Congo,Kinshasa,483,0.27
+Estados Unidos,Colorado,475,0.26
+Estados Unidos,Georgia,475,0.26
+Haití,Ouest,474,0.26
+Países Bajos,Holanda Meridional,472,0.26
+Australia,Territorio de la Capital Australiana,469,0.26
+Italia,Sicilia,457,0.25
+Brasil,Rio Grande do Sul,457,0.25
+Singapur,Singapur,455,0.25
+Estados Unidos,Tennessee,454,0.25
+España,Valenciana,449,0.25
+Francia,Normandía,448,0.25
+China,Shandong,442,0.24
+Italia,Toscana,439,0.24
+Irak,Bagdad,436,0.24
+Chile,Santiago de Chile,434,0.24
+Reino Unido,Escocia,434,0.24
+México,Michoacán,431,0.24
+Francia,Bretaña,430,0.24
+Alemania,Hesse,422,0.23
+Indonesia,Sumatra Septentrional,415,0.23
+Brasil,Río de Janeiro,414,0.23
+Países Bajos,Holanda Septentrional,414,0.23
+China,Jiangsu,413,0.23
+Brasil,Pernambuco,410,0.23
+Myanmar (Birmania),Rangún,409,0.23
+Turquía,Ankara,405,0.22
+República Dominicana,Santiago de Chile,400,0.22
+Italia,Apulia,400,0.22
+Estados Unidos,Indiana,398,0.22
+Alemania,Renania-Palatinado,398,0.22
+Alemania,Sajonia,375,0.21
+Irlanda,Dublín,373,0.21
+México,Sinaloa,373,0.21
+India,Tamil Nadu,366,0.2
+Italia,Piamonte,360,0.2
+Estados Unidos,Kentucky,359,0.2
+Marruecos,Gran Casablanca,357,0.2
+Brasil,Ceará,350,0.19
+Cuba,Granma,349,0.19
+México,Yucatán,349,0.19
+China,Heilongjiang,348,0.19
+Arabia Saudí,Riad,345,0.19
+Brasil,Marañón,340,0.19
+Estados Unidos,Massachusetts,337,0.19
+India,Karnataka,335,0.19
+Brasil,Paraná,332,0.18
+México,Sonora,327,0.18
+Estados Unidos,Nueva Jersey,324,0.18
+Marruecos,Rabat-Salé-Zemur-Zaer,323,0.18
+Australia,Tasmania,322,0.18
+Cuba,Holguín,322,0.18
+Países Bajos,Brabante Septentrional,319,0.18
+El Salvador,Santa Ana,312,0.17
+India,Rajastán,312,0.17
+Honduras,Atlántida,312,0.17
+República Dominicana,La Romana,311,0.17
+Indonesia,Java Central,310,0.17
+China,Sichuan,310,0.17
+Turquía,Izmir,307,0.17
+Nueva Zelanda,Wellington,307,0.17
+Estados Unidos,Wisconsin,307,0.17
+Bangladés,Daca,306,0.17
+China,Liaoning,302,0.17
+México,San Luis Potosí,295,0.16
+China,Shanghái,294,0.16
+España,País Vasco,294,0.16
+México,Durango,287,0.16
+Cuba,Pinar del Río,287,0.16
+Cuba,Las Tunas,285,0.16
+Nicaragua,León,283,0.16
+Arabia Saudí,Meca,280,0.16
+Nicaragua,Chinandega,277,0.15
+Egipto,Alejandría,276,0.15
+Estados Unidos,Oregón,274,0.15
+España,Castilla y León,274,0.15
+India,Guyarat,272,0.15
+Nigeria,Kano,271,0.15
+China,Hubei,270,0.15
+Francia,Centro-Valle de Loira,270,0.15
+Corea del Sur,Seúl,269,0.15
+Alemania,Bremen,268,0.15
+Brasil,Alagoas,255,0.14
+Estados Unidos,Maryland,255,0.14
+Finlandia,Uusimaa,250,0.14
+India,Madhya Pradesh,248,0.14
+Estados Unidos,Minnesota,243,0.13
+Italia,Véneto,242,0.13
+Colombia,Antioquía,242,0.13
+Indonesia,Yogyakarta,241,0.13
+Estados Unidos,Delaware,241,0.13
+Cuba,Camagüey,241,0.13
+México,Querétaro,237,0.13
+China,Anhui,235,0.13
+Francia,Borgoña-Franco Condado,233,0.13
+China,Henan,230,0.13
+Argentina,Santa Fe,227,0.13
+República Dominicana,San Pedro de Macorís,226,0.13
+México,Chiapas,224,0.12
+Panamá,Chiriquí,224,0.12
+Guatemala,Quezaltenango,223,0.12
+SudAfrica,Cabo Occidental,217,0.12
+Senegal,Dakar,215,0.12
+India,Andhra Pradesh,215,0.12
+Cuba,Villa Clara,215,0.12
+Portugal,Lisboa,210,0.12
+China,Zhejiang,210,0.12
+Países Bajos,Utrecht,210,0.12
+Brasil,Distrito Federal,206,0.11
+Irán,Jorasán Razaví,202,0.11
+Cuba,Guantánamo,199,0.11
+India,Bihar,194,0.11
+Honduras,Choluteca,193,0.11
+Nicaragua,Matagalpa,190,0.11
+Estados Unidos,Connecticut,189,0.1
+Costa de Marfil,Lagunes,188,0.1
+Cuba,Cienfuegos,188,0.1
+Irak,Basora,188,0.1
+Venezuela,Zulia,187,0.1
+Bélgica,Amberes,187,0.1
+Rusia,Cheliábinsk,185,0.1
+China,Hunan,185,0.1
+Polonia,Silesia,184,0.1
+Tanzania,Dar es Salaam,183,0.1
+India,Delhi,182,0.1
+Honduras,Yoro,181,0.1
+Argentina,Buenos Aires (provincia),180,0.1
+Alemania,Mecklemburgo-Pomerania Occidental,180,0.1
+Japón,Tokio,180,0.1
+México,Tabasco,180,0.1
+República Democrática del Congo,Katanga,179,0.1
+Alemania,Turingia,176,0.1
+China,Pekín,175,0.1
+Estados Unidos,Oklahoma,175,0.1
+Estados Unidos,Misuri,173,0.1
+Angola,Luanda,173,0.1
+Guatemala,Escuintla,171,0.09
+Brasil,Pará,170,0.09
+Indonesia,Kalimantan Oriental,170,0.09
+Jamaica,Santa Caterina,170,0.09
+México,Morelos,169,0.09
+Ghana,Gran Accra,169,0.09
+Brasil,Goiás,169,0.09
+Venezuela,Distrito Capital,168,0.09
+México,Quintana Roo,168,0.09
+India,Chhattisgarh,167,0.09
+Nueva Zelanda,Canterbury,167,0.09
+Dinamarca,Región Capital,166,0.09
+Alemania,Sajonia-Anhalt,166,0.09
+Nigeria,Oyo,164,0.09
+Colombia,Atlántico,164,0.09
+Nicaragua,Masaya,162,0.09
+Nicaragua,Estelí,161,0.09
+República Dominicana,Duarte,161,0.09
+Filipinas,Calabarzón,161,0.09
+China,Jilin,160,0.09
+Turquía,Adana,159,0.09
+México,Nayarit,158,0.09
+Noruega,Oslo,157,0.09
+México,Colima,156,0.09
+Rusia,Bashkortostán,155,0.09
+Estados Unidos,Utah,155,0.09
+Estados Unidos,Alabama,152,0.08
+Camboya,Nom Pen,152,0.08
+India,Telangana,151,0.08
+Guatemala,Huehuetenango,150,0.08
+SudAfrica,Cabo Oriental,150,0.08
+Colombia,Norte de Santander,150,0.08
+Vietnam,Th? Dô Hà N?i,148,0.08
+Estados Unidos,Arkansas,147,0.08
+Reino Unido,Gales,146,0.08
+Ucrania,Dnipropetrovsk,146,0.08
+Irán,Fars,146,0.08
+Hungría,Budapest,143,0.08
+China,Tianjin,143,0.08
+Cuba,Ciego de Ávila,143,0.08
+Alemania,Schleswig-Holstein,143,0.08
+Cuba,Matanzas,143,0.08
+España,Castilla-La Mancha,142,0.08
+Argelia,Alger,141,0.08
+Suiza,Zúrich,140,0.08
+China,Shanxi,140,0.08
+China,Fujian,140,0.08
+India,Bengala Occidental,140,0.08
+Nicaragua,Granada,139,0.08
+El Salvador,Sonsonate,138,0.08
+Irán,Juzestán,138,0.08
+Canada,Quebec,137,0.08
+Polonia,Mazovia,137,0.08
+Ecuador,Pichincha,136,0.08
+Estados Unidos,Misisipi,136,0.08
+Nigeria,Kaduna,136,0.08
+Estados Unidos,Rhode Island,135,0.07
+Turquía,Bursa,134,0.07
+Sudán,Jartum,134,0.07
+Alemania,Brandenburgo,133,0.07
+China,Hebei,133,0.07
+Brasil,Paraíba,132,0.07
+Brasil,Río Grande del Norte,132,0.07
+Zambia,Copperbelt,132,0.07
+Brasil,Amazonas,131,0.07
+Italia,Liguria,129,0.07
+España,Galicia,129,0.07
+Indonesia,Sumatra Meridional,127,0.07
+Bélgica,Limburgo,126,0.07
+España,Murcia,126,0.07
+Guatemala,Chimaltenango,125,0.07
+Argentina,Chaco,125,0.07
+República Checa,Praga,124,0.07
+Canada,Alberta,124,0.07
+Colombia,Santander,124,0.07
+Países Bajos,Limburgo,124,0.07
+México,Campeche,123,0.07
+Malasia,Sabah,123,0.07
+Bélgica,Flanders Oriental,123,0.07
+Rusia,Daguestán,123,0.07
+India,Haryana,122,0.07
+Turquía,Gaziantep,122,0.07
+Francia,Auvernia,122,0.07
+El Salvador,Cuscatlán,121,0.07
+Estados Unidos,Carolina del Sur,121,0.07
+Martinica,Martinica,120,0.07
+China,Chongqing,120,0.07
+Kenia,Nairobi,120,0.07
+Países Bajos,Güeldres,119,0.07
+Irak,Arbil,119,0.07
+Canada,Columbia británica,119,0.07
+Cuba,Mayabeque,119,0.07
+Ucrania,Járkov,118,0.07
+Afganistán,Kabul,117,0.06
+Venezuela,Aragua,117,0.06
+Barbados,San Miguel,117,0.06
+Zimbabue,Harare,114,0.06
+Turquía,Mersin,114,0.06
+Irak,Nínive,114,0.06
+Malasia,Perak,112,0.06
+Uruguay,Montevideo,110,0.06
+Australia,Territorio del Norte,109,0.06
+Italia,Cerdeña,109,0.06
+Pakistán,Sind,108,0.06
+Estados Unidos,Nevada,108,0.06
+Ucrania,Lviv,108,0.06
+Suecia,Västra Götaland,107,0.06
+Nigeria,Ríos,106,0.06
+Camerún,Centro,106,0.06
+Israel,Tel Aviv,106,0.06
+Zambia,Lusaka,105,0.06
+India,Punyab,105,0.06
+Marruecos,Marrakech-Tensift-Al Hauz,104,0.06
+Estados Unidos,Nebraska,103,0.06
+Madagascar,Analamanga,102,0.06
+Jordania,Amán,101,0.06
+El Salvador,La Libertad,100,0.06
+Turquía,Antalya,100,0.06
+China,Gansu,100,0.06
+Estados Unidos,Luisiana,99,0.05
+Togo,Marítima,99,0.05
+Argelia,Orán,98,0.05
+Argentina,Mendoza,98,0.05
+Austria,Carintia,98,0.05
+Malasia,Kuala Lumpur,98,0.05
+Italia,Trentino-Alto Adigio,97,0.05
+China,Guangxi,97,0.05
+Bangladés,Chittagong,97,0.05
+República Dominicana,San Juan,97,0.05
+Portugal,Porto,97,0.05
+Indonesia,Riau,96,0.05
+Estados Unidos,Nuevo México,96,0.05
+España,Islas Baleares,96,0.05
+Brasil,Mato Grosso,96,0.05
+Ecuador,Guayas,95,0.05
+Austria,Alta Austria,95,0.05
+Brasil,Espíritu Santo,95,0.05
+India,Kerala,94,0.05
+Dinamarca,Dinamarca Meridional,94,0.05
+México,Guerrero,94,0.05
+Irán,Qom,93,0.05
+Venezuela,Bolívar,93,0.05
+Noruega,Rogaland,93,0.05
+China,Mongolia Interior,91,0.05
+Bulgaria,Sofía-Ciudad,90,0.05
+Kirguistán,Bishkek,89,0.05
+Irlanda,Cork,89,0.05
+Estados Unidos,Iowa,89,0.05
+Cuba,Sancti Spíritus,87,0.05
+Cuba,Isla de la Juventud,87,0.05
+Corea del Sur,Gyeonggi,87,0.05
+Ucrania,Donetsk,87,0.05
+Países Bajos,Overijssel,86,0.05
+Panamá,Colón,86,0.05
+Marruecos,Fez-Bulmán,85,0.05
+Países Bajos,Groningen,84,0.05
+China,Shaanxi,84,0.05
+Venezuela,Carabobo,83,0.05
+Corea del Sur,Daejeon,82,0.05
+Bielorrusia,Grodno,82,0.05
+Brasil,Mato Grosso del Sur,81,0.04
+Somalia,Benadir,81,0.04
+Italia,Marche,80,0.04
+Nepal,Central,80,0.04
+Rusia,Irkutsk,79,0.04
+China,Jiangxi,79,0.04
+Mongolia,Ulán Bator,79,0.04
+Ruanda,Kigali,78,0.04
+Trinidad y Tobago,San Fernando,77,0.04
+SudAfrica,KwaZulu-Natal,77,0.04
+Polonia,Pomerania,76,0.04
+India,Jharkhand,76,0.04
+Irán,Isfahán,76,0.04
+Mali,Bamako,75,0.04
+Argentina,Córdoba,75,0.04
+Irán,Hamadán,75,0.04
+República Democrática del Congo,Kasai Oriental,75,0.04
+Marruecos,Tánger-Tetuán,74,0.04
+Ucrania,Vínnytsia,74,0.04
+Turquía,Kayseri,74,0.04
+Bélgica,Henao,74,0.04
+Colombia,Cundinamarca,74,0.04
+Irán,Teherán,73,0.04
+Chile,Bío-Bío,73,0.04
+Hong Kong,Hong Kong,73,0.04
+Arabia Saudí,Medina,72,0.04
+Polonia,Lodz,72,0.04
+Níger,Niamey,72,0.04
+Cuba,Artemisa,72,0.04
+Mozambique,Cidade De Maputo,72,0.04
+Malasia,Pahang,71,0.04
+Libia,Bengasi,70,0.04
+Chile,Valparaíso,70,0.04
+Zimbabue,Bulawayo,70,0.04
+Nueva Zelanda,Bay of Plenty,69,0.04
+Irán,Ardebil,69,0.04
+Ghana,Ashanti,68,0.04
+Azerbaiyán,Baki,68,0.04
+Irán,Kermanshah,68,0.04
+Rusia,Yaroslavl,68,0.04
+Nueva Zelanda,Waikato,68,0.04
+Israel,Jerusalén,67,0.04
+Venezuela,Miranda,67,0.04
+Países Bajos,Drenthe,67,0.04
+Irán,Guilán,67,0.04
+Brasil,Tocantins,67,0.04
+Indonesia,Bali,67,0.04
+Turquía,Manisa,66,0.04
+Colombia,Risaralda,65,0.04
+República Dominicana,La Vega,65,0.04
+Malasia,Negeri Sembilan,65,0.04
+Moldavia,Chisináu,65,0.04
+Austria,Tirol,65,0.04
+Indonesia,Célebes Suroriental,65,0.04
+República Dominicana,Barahona,65,0.04
+Japón,Osaka,64,0.04
+Brasil,Amapá,64,0.04
+España,Ceuta,64,0.04
+Nigeria,Cross River,64,0.04
+Nueva Zelanda,Hawke's Bay,64,0.04
+Venezuela,Anzoátegui,64,0.04
+Paraguay,Central,64,0.04
+Estados Unidos,Nuevo Hampshire,64,0.04
+República Democrática del Congo,Provincia Oriental,63,0.03
+China,Yunnan,63,0.03
+Kazajistán,Karagandá,63,0.03
+Georgia,Tiflis,63,0.03
+Yemen,Taiz,62,0.03
+Trinidad y Tobago,Chaguanas,61,0.03
+Italia,Abruzos,61,0.03
+Papúa Nueva Guinea,Capital Nacional,61,0.03
+México,Zacatecas,61,0.03
+Irán,Lorestan,61,0.03
+Bielorrusia,Gómel,61,0.03
+India,Assam,60,0.03
+Kenia,Costa,60,0.03
+Chile,O'Higgins,60,0.03
+Filipinas,Visayas Occidental,60,0.03
+Brasil,Piauí,60,0.03
+Croacia,Grad Zagreb,60,0.03
+Haití,Artibonito,60,0.03
+Colombia,Tolima,60,0.03
+Polonia,Lublin,59,0.03
+Nueva Zelanda,Otago,59,0.03
+Israel,Haifa,59,0.03
+Uganda,Kampala,58,0.03
+India,Odisha,58,0.03
+Nigeria,Delta,58,0.03
+Irán,Zanyán,58,0.03
+Lituania,Vilna,58,0.03
+República Democrática del Congo,Kasai Occidental,57,0.03
+Nueva Zelanda,Taranaki,57,0.03
+Nigeria,Borno,57,0.03
+Estados Unidos,Kansas,57,0.03
+China,Guizhou,56,0.03
+Colombia,Bolívar,56,0.03
+España,Cantabria,56,0.03
+Irán,Sistán y Baluchistán,56,0.03
+Bolivia,Santa Cruz,55,0.03
+Suiza,Basilea-Ciudad,54,0.03
+Marruecos,Mequinez-Tafilalet,54,0.03
+Japón,Kanagawa,54,0.03
+Brasil,Sergipe,54,0.03
+Bélgica,Namur,54,0.03
+India,Uttarakhand,53,0.03
+Argelia,Annaba,53,0.03
+Nueva Zelanda,Northland,53,0.03
+Estados Unidos,Idaho,53,0.03
+Angola,Huambo,53,0.03
+India,Jammu y Cachemira,53,0.03
+Japón,Hyogo,53,0.03
+Turquía,Sivas,53,0.03
+Colombia,Caldas,53,0.03
+Nigeria,Edo,53,0.03
+Ucrania,Poltava,53,0.03
+Nueva Zelanda,Nelson,52,0.03
+República Dominicana,Peravia,52,0.03
+Kazajistán,Astaná,52,0.03
+República Democrática del Congo,Bandundu,52,0.03
+Bielorrusia,Brest,51,0.03
+Irán,Kerman,51,0.03
+Ucrania,Lugansk,51,0.03
+Irán,Mazandarán,51,0.03
+Rusia,Arjánguelsk,51,0.03
+Indonesia,Sumatra Occidental,51,0.03
+Arabia Saudí,Tabuk,50,0.03
+Nigeria,Enugu,50,0.03
+Egipto,Al Bahr al Ahmar,50,0.03
+Turquía,Konya,50,0.03
+Polonia,Gran Polonia,49,0.03
+Rumania,Timis,49,0.03
+Turquía,Van,49,0.03
+Camerún,Nord,49,0.03
+Turquía,Balikesir,49,0.03
+Colombia,Valle del Cauca,49,0.03
+Nigeria,Anambra,48,0.03
+Rumania,Galati,48,0.03
+Corea del Sur,Gyeongsangnam,48,0.03
+Ucrania,Chernihiv,48,0.03
+Filipinas,Cordillera,47,0.03
+Egipto,Menia,47,0.03
+Nigeria,Kwara,47,0.03
+República Democrática del Congo,Équateur,47,0.03
+Turquía,Diyarbakir,46,0.03
+Austria,Stiria,46,0.03
+Japón,Chiba,46,0.03
+Indonesia,Célebes Septentrional,45,0.02
+Austria,Salzburgo,45,0.02
+Bosnia y Herzegovina,Federación de Bosnia y Herzegovina,45,0.02
+Gabón,Estuaire,45,0.02
+Ucrania,Zaporiyia,45,0.02
+Argentina,San Juan,45,0.02
+Nueva Zelanda,Manawatu-Wanganui,45,0.02
+Tanzania,Mwanza,45,0.02
+España,Asturias,45,0.02
+Filipinas,Luzón Central,44,0.02
+Mozambique,Sofala,44,0.02
+Japón,Oita,44,0.02
+Kazajistán,Pavlodar,44,0.02
+Brasil,Roraima,43,0.02
+Suiza,Berna,43,0.02
+Alemania,Sarre,43,0.02
+Sudán,Mar Rojo,43,0.02
+Kazajistán,Ciudad de Almatý,43,0.02
+Rusia,Bélgorod,42,0.02
+Japón,Aichi,42,0.02
+Qatar,Doha,42,0.02
+Bolivia,Chuquisaca,42,0.02
+Indonesia,Jambi,41,0.02
+Marruecos,Sus-Masa-Draa,41,0.02
+Colombia,Quindío,41,0.02
+Irán,Markazí,41,0.02
+Somalia,Gobolka Woqooyi Galbeed,41,0.02
+Pakistán,Jaiber Pajtunjuá,41,0.02
+Turquía,Eskisehir,41,0.02
+Pakistán,Territorio de la Capital Federal,40,0.02
+Rusia,Ivanovo,40,0.02
+Arabia Saudí,Ash Sharqiyah,40,0.02
+Sudán,Gezira,40,0.02
+Italia,Umbría,40,0.02
+Suecia,Escania,39,0.02
+Canada,Saskatchewan,39,0.02
+Rusia,Kaluga,39,0.02
+Rumania,Bra?ov,39,0.02
+Estados Unidos,Distrito de Columbia,39,0.02
+Turquía,Kahramanmara?,39,0.02
+Estados Unidos,Montana,39,0.02
+Mozambique,Maputo,38,0.02
+Colombia,Caquetá,38,0.02
+Senegal,Thiès,38,0.02
+China,Xinjiang Uygur,38,0.02
+India,Puducherry,38,0.02
+Bélgica,Flanders Occidental,38,0.02
+Uzbekistán,Namangán,38,0.02
+Noruega,Hordaland,37,0.02
+Ecuador,Azuay,37,0.02
+Indonesia,Nusa Tenggara Oriental,37,0.02
+Colombia,Magdalena,37,0.02
+Nigeria,Plateau,37,0.02
+República Dominicana,San Cristóbal,37,0.02
+Nigeria,Katsina,37,0.02
+Túnez,Túnez,36,0.02
+Nigeria,Abia,36,0.02
+Argelia,Constantina,36,0.02
+Egipto,Fayún,36,0.02
+Brasil,Acre,36,0.02
+Irak,Cadisia,36,0.02
+Costa Rica,Guanacaste,36,0.02
+Guadalupe,Guadalupe,36,0.02
+Francia,Corse,35,0.02
+Nigeria,Níger,35,0.02
+República Dominicana,Espaillat,35,0.02
+Argelia,Djelfa,35,0.02
+Rusia,Kaliningrado,35,0.02
+Japón,Saitama,35,0.02
+SudAfrica,Noroeste,35,0.02
+Ucrania,Zhytómyr,34,0.02
+Países Bajos,Frisia,34,0.02
+Lituania,Kaunas,34,0.02
+Marruecos,Chauía-Uardiga,34,0.02
+Rusia,Vorónezh,34,0.02
+Suiza,Vaud,34,0.02
+Irán,Yazd,33,0.02
+Irak,Babilonia,33,0.02
+Corea del Sur,Busan,33,0.02
+Turquía,Sanliurfa,33,0.02
+Nigeria,Ogun,33,0.02
+Suecia,Upsala,33,0.02
+Bélgica,Brabante Flamenco,33,0.02
+Rumania,Iasi,32,0.02
+Costa de Marfil,Vallée du Bandama,32,0.02
+Perú,Junín,32,0.02
+Siria,Hims,32,0.02
+Italia,Calabria,32,0.02
+Argentina,Corrientes,32,0.02
+Egipto,Aswan,32,0.02
+Sierra Leona,Meridional,32,0.02
+Malasia,Selangor,31,0.02
+Yibuti,Yibuti,31,0.02
+Liberia,Montserrado,31,0.02
+Turquía,Denizli,31,0.02
+Corea del Sur,Daegu,31,0.02
+Vietnam,T?nh C?n Th?,31,0.02
+Finlandia,Finlandia del Sudoeste,31,0.02
+Angola,Benguela,31,0.02
+España,Navarra,31,0.02
+Argentina,Misiones,31,0.02
+Rusia,Astracán,31,0.02
+Venezuela,Portuguesa,30,0.02
+Egipto,Gharbia,30,0.02
+Irán,Kurdistán,30,0.02
+Japón,Shizuoka,30,0.02
+Camerún,Littoral,30,0.02
+Georgia,Imericia,30,0.02
+Ucrania,Mykolayiv,30,0.02
+Perú,Puno,30,0.02
+Indonesia,Borneo Occidental,30,0.02
+Bangladés,Khulna,30,0.02
+Turquía,Tekirdag,29,0.02
+Kenia,Gran Valle del Rift,29,0.02
+Siria,Dayr az Zawr,29,0.02
+Libia,Misurata,29,0.02
+Taiwán,Taipéi,29,0.02
+Mozambique,Zambezia,29,0.02
+Estados Unidos,Dakota del Sur,29,0.02
+Turquía,Batman,29,0.02
+Angola,Bié,29,0.02
+Bolivia,La Paz,29,0.02
+Israel,Meridional,29,0.02
+República Democrática del Congo,Kivu del Sur,28,0.02
+Estonia,Harjumaa,28,0.02
+Bolivia,El Beni,28,0.02
+Grecia,Attica,28,0.02
+Nueva Zelanda,Marlborough,28,0.02
+Noruega,Buskerud,28,0.02
+Turquía,Erzurum,28,0.02
+Polonia,Podlaquia,28,0.02
+Guinea-Bissau,Bisáu,28,0.02
+Suiza,Ginebra,28,0.02
+Perú,Ica,27,0.01
+Perú,Loreto,27,0.01
+Japón,Yamaguchi,27,0.01
+Arabia Saudí,Jizán,27,0.01
+Turquía,Kars,27,0.01
+Chile,Magallanes y Antártica Chilena,27,0.01
+Rusia,Tambov,27,0.01
+Marruecos,Garb-Chrarda-Beni Hsen,27,0.01
+Nigeria,Ondo,26,0.01
+Irán,Hormozgán,26,0.01
+Turquía,Kocaeli,26,0.01
+Benín,Littoral,26,0.01
+Kazajistán,Kostanái,26,0.01
+Ucrania,Khmelnytskyi,25,0.01
+Turkmenistán,Asjabad,25,0.01
+Argentina,Salta,25,0.01
+Canada,Manitoba,25,0.01
+Camerún,Ouest,25,0.01
+Etiopía,Dire Dawa,25,0.01
+Uganda,Jinja,25,0.01
+Nueva Zelanda,Southland,25,0.01
+Turquía,Trebisonda,25,0.01
+Chile,Antofagasta,25,0.01
+Indonesia,Borneo Meridional,25,0.01
+Hungría,Gy?r,25,0.01
+China,Hainan,25,0.01
+Rusia,Briansk,25,0.01
+Malasia,Sarawak,25,0.01
+Perú,Arequipa,24,0.01
+Nueva Zelanda,Gisborne,24,0.01
+Argelia,Guelma,24,0.01
+Tanzania,Shinyanga,24,0.01
+Uzbekistán,Surjandarín,24,0.01
+Arabia Saudí,Al Jawf,24,0.01
+Bulgaria,Varna,24,0.01
+Turquía,Osmaniye,24,0.01
+Venezuela,Lara,24,0.01
+Venezuela,Guárico,24,0.01
+Irlanda,Dublín del Sur,24,0.01
+Rumania,Prahova,23,0.01
+Suiza,Lucerna,23,0.01
+Tanzania,Kigoma,23,0.01
+Uzbekistán,Andiján,23,0.01
+Rusia,Amur,23,0.01
+República Centroafricana,Bangui,23,0.01
+Turquía,Corum,23,0.01
+Perú,Ucayali,23,0.01
+Indonesia,Nusatenggara Occidental,23,0.01
+Argelia,Batna,23,0.01
+Tanzania,Mbeya,23,0.01
+Vietnam,Dà Nang,23,0.01
+Rumania,Neamt,22,0.01
+Ucrania,Volinia,22,0.01
+Arabia Saudí,Asir,22,0.01
+Argentina,Chubut,22,0.01
+Argentina,Entre Ríos,22,0.01
+Corea del Sur,Ulsan,22,0.01
+Chile,Los Lagos,22,0.01
+Venezuela,Monagas,22,0.01
+Perú,Ayacucho,22,0.01
+Emiratos Árabes Unidos,Ras al-Jaima,22,0.01
+Turquía,Mardin,22,0.01
+Lituania,Panevezys,22,0.01
+Bulgaria,Plovdiv,22,0.01
+República Checa,Pilsen,22,0.01
+Bolivia,Potosí,22,0.01
+Estados Unidos,Vermont,22,0.01
+Egipto,Suhaj,22,0.01
+Kazajistán,Akmola,22,0.01
+Egipto,Ash Sharqiyah,21,0.01
+Turquía,Aydin,21,0.01
+Japón,Hiroshima,21,0.01
+Nigeria,Benue,21,0.01
+Uzbekistán,Kashkadar,21,0.01
+Mauritania,Nouakchott,21,0.01
+Colombia,Arauca,21,0.01
+Colombia,Nariño,21,0.01
+Venezuela,Vargas,21,0.01
+Colombia,Cesar,21,0.01
+Rumania,Bacau,21,0.01
+Ucrania,Cherkasy,21,0.01
+Colombia,Huila,21,0.01
+Japón,Gunma,21,0.01
+Venezuela,Yaracuy,20,0.01
+Turquía,Hatay,20,0.01
+Colombia,Boyacá,20,0.01
+Estados Unidos,Dakota del Norte,20,0.01
+Rumania,Cluj,20,0.01
+Argelia,Skikda,20,0.01
+Rumania,Bihor,20,0.01
+Rumania,Mures,20,0.01
+Namibia,Khomas,20,0.01
+Tailandia,Nakhon Ratchasima,20,0.01
+Ecuador,Manabí,20,0.01
+Sudán,Nilo Blanco,20,0.01
+Lesoto,Maseru,20,0.01
+Turquía,Samsun,20,0.01
+Ghana,Septentrional,20,0.01
+Guinea,Kankan,20,0.01
+Portugal,Coimbra,20,0.01
+Brasil,Rondônia,20,0.01
+Turquía,Amasya,20,0.01
+Somalia,Jubbada Hoose,19,0.01
+Ucrania,Ivano-Frankivsk,19,0.01
+Camerún,Est,19,0.01
+Madagascar,Boeny,19,0.01
+Malasia,Trengganu,19,0.01
+Rusia,Vladímir,19,0.01
+Mozambique,Nampula,19,0.01
+Tanzania,Arusha,19,0.01
+Irak,Karbala,19,0.01
+Bolivia,Oruro,19,0.01
+Rumania,Botosani,19,0.01
+Nigeria,Osun,19,0.01
+Italia,Friuli-Venecia Julia,19,0.01
+Nigeria,Akwa Ibom,19,0.01
+Guinea,Nzérékoré,19,0.01
+Indonesia,Aceh,19,0.01
+Turquía,Elazig,19,0.01
+Guyana,Demerara-Berbice Superior,19,0.01
+Ucrania,Kirovohrad,18,0.01
+Níger,Maradi,18,0.01
+Afganistán,Nangarhar,18,0.01
+Ucrania,Jersón,18,0.01
+Kazajistán,Almaty,18,0.01
+Kenia,Nyanza,18,0.01
+Camerún,Nord-Ouest,18,0.01
+Argentina,Neuquén,18,0.01
+India,Chandigarh,18,0.01
+Benín,Ouémé,18,0.01
+Rumania,Vâlcea,18,0.01
+Venezuela,Sucre,17,0.01
+Mozambique,Manica,17,0.01
+Turkmenistán,Lebap,17,0.01
+Indonesia,Papua,17,0.01
+Nigeria,Sokoto,17,0.01
+Japón,Fukui,17,0.01
+Rumania,Buzau,17,0.01
+India,Manipur,17,0.01
+Pakistán,Baluchistán,17,0.01
+Perú,Ancash,17,0.01
+Bangladés,Rajshahi,17,0.01
+Perú,Piura,16,0.01
+Perú,Moquegua,16,0.01
+Turquía,Bolu,16,0.01
+Vietnam,Khánh Hòa,16,0.01
+Ucrania,Sumy,16,0.01
+Bangladés,Sylhet,16,0.01
+Japón,Hokkaido,16,0.01
+Bélgica,Bruselas,16,0.01
+Egipto,Bani Suwayf,16,0.01
+Rumania,Maramures,16,0.01
+Estados Unidos,Maine,16,0.01
+Bielorrusia,Vitsyebsk,16,0.01
+Argelia,Saida,16,0.01
+Mali,Kayes,16,0.01
+Sri Lanka,Occidental,16,0.01
+México,Oaxaca,16,0.01
+Filipinas,Mindanao Septentrional,15,0.01
+Perú,Callao,15,0.01
+Japón,Saga,15,0.01
+Turquía,Kütahya,15,0.01
+Rumania,Constanza,15,0.01
+República Democrática del Congo,Maniema,15,0.01
+Zambia,Meridional,15,0.01
+Polonia,Opole,15,0.01
+Polonia,Polonia Menor,15,0.01
+Venezuela,Nueva Esparta,15,0.01
+Japón,Fukuoka,15,0.01
+Rusia,Moscú,15,0.01
+Japón,Ishikawa,15,0.01
+México,Baja California Sur,15,0.01
+Vietnam,Kiên Giang,15,0.01
+Afganistán,Herat,15,0.01
+Egipto,Puerto Saíd,15,0.01
+Benín,Donga,14,0.01
+Perú,Cajamarca,14,0.01
+Nigeria,Imo,14,0.01
+Japón,Nagasaki,14,0.01
+República Checa,Ústí nad Labem,14,0.01
+Costa de Marfil,Fromager,14,0.01
+Egipto,Qina,14,0.01
+Líbano,Beirut,14,0.01
+Sudán,Kasala,14,0.01
+Camerún,Adamaoua,14,0.01
+Suecia,Halland,14,0.01
+Irak,Di Car,14,0.01
+Irán,Bushehr,14,0.01
+Paraguay,Asunción,14,0.01
+Argentina,Jujuy,14,0.01
+Dinamarca,Jutlandia Central,13,0.01
+Suecia,Värmland,13,0.01
+Moldavia,Balti,13,0.01
+República del Congo,Niari,13,0.01
+Botsuana,Sudeste,13,0.01
+Turquía,Adiyaman,13,0.01
+Croacia,Split-Dalmacia,13,0.01
+Turquía,Kirsehir,13,0.01
+Afganistán,Kandahar,13,0.01
+Ucrania,Ternópil,13,0.01
+SudAfrica,Limpopo,13,0.01
+Tanzania,Kilimanjaro,13,0.01
+Bélgica,Lieja,13,0.01
+Belice,Distrito de Cayo,13,0.01
+Venezuela,Cojedes,13,0.01
+Uruguay,Rivera,12,0.01
+Ucrania,Sevastopol,12,0.01
+Venezuela,Táchira,12,0.01
+Chipre,Nicosia,12,0.01
+Uruguay,Canelones,12,0.01
+Uganda,Gulu,12,0.01
+Eslovaquia,Nitra,12,0.01
+Madagascar,Diana,12,0.01
+Japón,Tochigi,12,0.01
+Marruecos,Tadla-Azilal,12,0.01
+Dinamarca,Selandia,12,0.01
+China,Qinghai,12,0.01
+Tanzania,Pwani,12,0.01
+Togo,Central,12,0.01
+Argentina,Santiago del Estero,12,0.01
+Mozambique,Niassa,12,0.01
+Nigeria,Adamawa,12,0.01
+Argentina,La Pampa,12,0.01
+Turquía,Nevsehir,12,0.01
+Estados Unidos,Virginia Occidental,12,0.01
+Indonesia,Maluku,12,0.01
+Nigeria,Bauchi,12,0.01
+Japón,Kagawa,11,0.01
+Noruega,Vest-Agder,11,0.01
+Albania,Vlorë,11,0.01
+Japón,Ibaraki,11,0.01
+Montenegro,Podgorica,11,0.01
+Uzbekistán,Jizzakh,11,0.01
+Burkina Faso,Centro,11,0.01
+SudAfrica,Estado Libre,11,0.01
+Lituania,Klaip?da,11,0.01
+México,Hidalgo,11,0.01
+Argelia,Mostaganem,11,0.01
+Bulgaria,Burgas,11,0.01
+Costa de Marfil,Lacs,11,0.01
+Turkmenistán,Mary,11,0.01
+Irán,Qazvín,11,0.01
+Rumania,Braila,11,0.01
+República Democrática del Congo,Bajo Congo,11,0.01
+Argelia,Bugía,11,0.01
+Canada,Nueva Escocia,11,0.01
+Egipto,Asiut,10,0.01
+Tanzania,Morogoro,10,0.01
+Argelia,Tipaza,10,0.01
+Nigeria,Zamfara,10,0.01
+Nigeria,Yobe,10,0.01
+Argelia,Sidi Bel Abbes,10,0.01
+Tanzania,Mara,10,0.01
+Bolivia,Cochabamba,10,0.01
+Rusia,Stávropol,10,0.01
+Marruecos,Dukala-Abda,10,0.01
+Albania,Shkodër,10,0.01
+Turquía,Bingöl,10,0.01
+Níger,Diffa,10,0.01
+Indonesia,Célebes Central,10,0.01
+Turquía,Karaman,10,0.01
+Rumania,Sibiu,10,0.01
+Luxemburgo,Luxemburgo,10,0.01
+Kenia,Central,9,0.0
+Marruecos,Taza-Alhucemas-Taunat,9,0.0
+Colombia,Chocó,9,0.0
+Finlandia,Kymenlaakso,9,0.0
+Corea del Sur,Jeju,9,0.0
+Ucrania,Rivne,9,0.0
+Chile,Atacama,9,0.0
+Chile,Tarapacá,9,0.0
+Chile,Arica y Parinacota,9,0.0
+Mali,Mopti,9,0.0
+SudAfrica,Mpumalanga,9,0.0
+Angola,Namibe,9,0.0
+Guayana Francesa,Französisch-Guayana,9,0.0
+Turquía,Igdir,9,0.0
+Irak,Mesena,9,0.0
+República Dominicana,Monseñor Nouel,9,0.0
+Turquía,Afyonkarahisar,9,0.0
+República Checa,Liberec,9,0.0
+Rumania,Mehedinti,9,0.0
+Japón,Nagano,9,0.0
+Turquía,Yalova,9,0.0
+Kirguistán,Osh,9,0.0
+Rumania,Gorj,9,0.0
+Argentina,Río Negro,9,0.0
+Omán,Mascate,8,0.0
+Benín,Atakora,8,0.0
+Albania,Korçë,8,0.0
+Níger,Zinder,8,0.0
+Lituania,Šiauliai,8,0.0
+Nigeria,Gombe,8,0.0
+Argentina,San Luis,8,0.0
+Irán,Jorasán del Sur,8,0.0
+Camerún,Ouest del Sur,8,0.0
+Turquía,Nigde,8,0.0
+Ruanda,Meridional,8,0.0
+República Checa,Hradec Králové,8,0.0
+Angola,Malanje,8,0.0
+Bolivia,Tarija,8,0.0
+Surinam,Paramaribo,8,0.0
+Argelia,Laghouat,8,0.0
+Suiza,San Galo,8,0.0
+Togo,Plateaux,8,0.0
+Argelia,Tizi Ouzou,8,0.0
+España,Extremadura,8,0.0
+Madagascar,Atsinanana,8,0.0
+Egipto,Matruh,8,0.0
+Senegal,Saint-Louis,7,0.0
+Egipto,Al Buhayrah,7,0.0
+España,Melilla,7,0.0
+Rumania,Giurgiu,7,0.0
+Rumania,Satu Mare,7,0.0
+Jordania,Irbid,7,0.0
+Benín,Departamento Atlántico,7,0.0
+Hungría,Békés,7,0.0
+Noruega,Hedmark,7,0.0
+Turquía,Tokat,7,0.0
+Venezuela,Mérida,7,0.0
+Yemen,Al Hudayda,7,0.0
+Perú,La Libertad,7,0.0
+Colombia,Casanare,7,0.0
+Argelia,Béchar,7,0.0
+Portugal,Aveiro,7,0.0
+Portugal,Braga,7,0.0
+Ghana,Central,7,0.0
+Tayikistán,Khatlon,7,0.0
+Emiratos Árabes Unidos,Ajmán,7,0.0
+Eslovenia,Liubliana,6,0.0
+Ecuador,Los Ríos,6,0.0
+Irán,Golestán,6,0.0
+Turquía,Kilis,6,0.0
+Madagascar,Haute-Matsiatra,6,0.0
+Líbano,Líbano del Norte,6,0.0
+Turquía,Çanakkale,6,0.0
+Kazajistán,Zhambyl,6,0.0
+Turquía,Sirnak,6,0.0
+Mozambique,Tete,6,0.0
+Libia,Al Marqab,6,0.0
+Laos,Prefectura de Vientián,6,0.0
+Turquía,Aksaray,6,0.0
+Rumania,Arges,6,0.0
+Tanzania,Tabora,6,0.0
+Bulgaria,Sliven,6,0.0
+Rumania,Dolj,6,0.0
+Zambia,Oriental,6,0.0
+Sierra Leona,Septentrional,6,0.0
+Polonia,Lubusz,6,0.0
+Irak,Diala,6,0.0
+Nigeria,Ebonyi,6,0.0
+China,Ningxia Hui,6,0.0
+Argentina,Catamarca,6,0.0
+Italia,Basilicata,6,0.0
+Turquía,Malatya,6,0.0
+India,Tripura,6,0.0
+Costa de Marfil,Dix-Huit Montagnes,6,0.0
+Guinea,Kindia,6,0.0
+Uruguay,Paysandú,5,0.0
+Egipto,Kafr el Sheij,5,0.0
+Suazilandia,Manzini,5,0.0
+Eslovaquia,Žilina,5,0.0
+Zambia,Septentrional,5,0.0
+Zimbabue,Manicalandia,5,0.0
+Macedonia,Kumanovo,5,0.0
+Albania,Elbasan,5,0.0
+Argelia,Tlemcen,5,0.0
+Irlanda,Galway,5,0.0
+Turquía,Isparta,5,0.0
+Turquía,Ardahan,5,0.0
+Rusia,Kabardia-Balkaria,5,0.0
+Suecia,Södermanland,5,0.0
+Eslovaquia,Banská Bystrica,5,0.0
+República Checa,Moravia-Silesia,5,0.0
+Irán,Ilam,5,0.0
+Indonesia,Bengkulu,5,0.0
+Mozambique,Cabo Delgado,5,0.0
+Marruecos,Guelmim-Esmara,5,0.0
+Armenia,Lori,5,0.0
+República Checa,Olomouc,5,0.0
+Perú,Lambayeque,5,0.0
+Costa de Marfil,Haut-Sassandra,5,0.0
+Croacia,Primorje-Gorski Kotar,5,0.0
+Turquía,Düzce,5,0.0
+Perú,Lima,5,0.0
+Sudán del Sur,Ecuatoria Central,5,0.0
+Benín,Alibori,5,0.0
+Bután,Chukha,5,0.0
+Bulgaria,Stara Zagora,5,0.0
+República de Gambia,Occidental,5,0.0
+Rusia,Nóvgorod,5,0.0
+Benín,Mono,4,0.0
+Uzbekistán,Khorezm,4,0.0
+Turquía,Usak,4,0.0
+Turquía,Siirt,4,0.0
+Baréin,Muharraq,4,0.0
+Turquía,Ordu,4,0.0
+Croacia,Zagrebacka,4,0.0
+Colombia,Meta,4,0.0
+Croacia,Osjecko-Baranjska,4,0.0
+Camerún,Extreme-Nord,4,0.0
+Israel,Central,4,0.0
+Hungría,Hajdú-Bihar,4,0.0
+Albania,Durrës,3,0.0
+Rumania,Hunedoara,3,0.0
+Tanzania,Ruvuma,3,0.0
+Tanzania,Tanga,3,0.0
+Rumania,Caras-Severin,3,0.0
+Zambia,Central,3,0.0
+Rusia,Yevrey,3,0.0
+Senegal,Ziguinchor,3,0.0
+Bulgaria,Pazardzhik,3,0.0
+Togo,Kara,3,0.0
+Chad,Mandoul,3,0.0
+Argentina,La Rioja,3,0.0
+Japón,Okayama,3,0.0
+Tanzania,Mtwara,3,0.0
+Benín,Borgou,3,0.0
+Países Bajos,Zelanda,3,0.0
+Liberia,Grand Gedeh,3,0.0
+Angola,Huila,3,0.0
+Mali,Sikasso,3,0.0
+Madagascar,Atsimo-Andrefana,2,0.0
+Yemen,Ibb,2,0.0
+Mozambique,Inhambane,2,0.0
+Turquía,Rize,2,0.0
+Siria,Ar Raqa,2,0.0
+Kenia,Oriental,2,0.0
+Kuwait,Al Asimah,2,0.0
+Rumania,Arad,2,0.0
+Camerún,Sud,2,0.0
+Irán,Semnán,2,0.0
+Irak,Saladino,2,0.0
+Colombia,Córdoba,2,0.0
+Turquía,Kastamonu,2,0.0
+Bulgaria,Yambol,2,0.0
+Eritrea,Anseba,2,0.0
+Bulgaria,Shumen,2,0.0
+Guinea Ecuatorial,Litoral,2,0.0
+Portugal,Setúbal,2,0.0
+Corea del Sur,Chungcheong del Sur,2,0.0
+Sáhara Occidental,El Aaiún,2,0.0
+Uganda,Kabarole,1,0.0
+Sierra Leona,Oriental,1,0.0
+Serbia,Serbia Central,1,0.0
+Estonia,Tartu,1,0.0
+Rumania,Vrancea,1,0.0
+Burundi,Buyumbura Mairie,1,0.0
+Rumania,Suceava,1,0.0
+Bulgaria,Pernik,1,0.0
+Tanzania,Iringa,1,0.0
+Rumania,Bistrita-Nasaud,1,0.0
+Costa de Marfil,Savanes,1,0.0
+Japón,Aomori,1,0.0
+Canada,Terranova,1,0.0
+Japón,Mie,1,0.0
+Japón,Tottori,1,0.0
+Macedonia,Bitola,1,0.0
+Zimbabue,Mashonalandia Occidental,1,0.0

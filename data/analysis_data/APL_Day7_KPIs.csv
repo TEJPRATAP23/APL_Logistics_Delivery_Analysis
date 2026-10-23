@@ -1,0 +1,11 @@
+Metric,Value
+Total Shipment Records,180519
+Unique Delivery Statuses,4
+Unique Order Statuses,9
+Missing Delivery Status Records,0
+Missing Order Status Records,0
+Overall Actual Delay Rate (%),57.28
+Most Common Delivery Status,Late delivery
+Most Common Order Status,COMPLETE
+Highest Delay Rate Delivery Status,Late delivery
+Highest Delay Rate Order Status,PENDING

@@ -1,0 +1,11 @@
+Metric,Value
+Total Shipments,180519.0
+Delayed Shipments,103400.0
+On-Time Shipments,33753.0
+Early Shipments,43366.0
+Delay Rate (%),57.279289160697765
+On-Time Rate (%),18.697754806973226
+Early Rate (%),24.022956032329006
+Average Delay (All Shipments),0.5658074773292562
+Average Delay (Delayed Shipments),1.6167408123791103
+Maximum Delay,4.0

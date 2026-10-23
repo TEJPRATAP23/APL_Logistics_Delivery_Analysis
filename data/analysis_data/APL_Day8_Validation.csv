@@ -1,0 +1,9 @@
+Validation_Check,Result
+Dataset Loaded,PASS
+Required Columns Available,PASS
+Regional Shipment Totals Match,PASS
+State Shipment Totals Match,PASS
+Delay Flag Valid,PASS
+Regional Delay Analysis Available,PASS
+State Delay Analysis Available,PASS
+KPI Summary Available,PASS

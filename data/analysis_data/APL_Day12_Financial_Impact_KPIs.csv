@@ -1,0 +1,13 @@
+﻿Metric,Value
+Total Shipment Records,180519
+Total Sales,36784734.31
+Total Order Profit,3966902.97
+Delayed Shipments,103400
+Actual Delay Rate (%),57.28
+Sales Associated with Delayed Shipments,21025184.76
+Order Profit Associated with Delayed Shipments,2231966.65
+Negative-Profit Records,33784
+Negative-Profit Rate (%),18.71
+Market with Highest Delayed-Shipment Sales,Europe
+Country with Highest Delayed-Shipment Sales,Estados Unidos
+Shipping Mode with Highest Actual Delay Rate,First Class

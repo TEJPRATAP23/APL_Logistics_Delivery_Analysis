@@ -1,0 +1,1118 @@
+Order Country,Order Region,Order State,Total_Shipments,Delayed_Shipments,Average_Shipping_Variance_Days,Actual_Delay_Rate_%
+República Democrática del Congo,Central Africa,Kivu del Sur,28,28,1.57,100.0
+Hungría,Eastern Europe,Gy?r,25,25,1.36,100.0
+Venezuela,South America,Vargas,21,21,2.33,100.0
+Ecuador,South America,Manabí,20,20,1.2,100.0
+Mozambique,East Africa,Manica,17,17,1.82,100.0
+Argentina,South America,Jujuy,14,14,1.0,100.0
+República Checa,Eastern Europe,Ústí nad Labem,14,14,1.14,100.0
+Mozambique,East Africa,Niassa,12,12,1.08,100.0
+Tanzania,East Africa,Pwani,12,12,1.0,100.0
+Turquía,West Asia,Nevsehir,12,12,2.0,100.0
+Uruguay,South America,Rivera,12,12,1.75,100.0
+Albania,Southern Europe,Vlorë,11,11,1.0,100.0
+Argelia,North Africa,Bugía,11,11,1.73,100.0
+Lituania,Northern Europe,Klaip?da,11,11,1.0,100.0
+Noruega,Northern Europe,Vest-Agder,11,11,3.09,100.0
+República Democrática del Congo,Central Africa,Bajo Congo,11,11,1.64,100.0
+SudAfrica,Southern Africa,Estado Libre,11,11,1.0,100.0
+Luxemburgo,Western Europe,Luxemburgo,10,10,2.7,100.0
+Turquía,West Asia,Bingöl,10,10,1.0,100.0
+Chile,South America,Tarapacá,9,9,1.56,100.0
+Colombia,South America,Chocó,9,9,1.67,100.0
+Kenia,East Africa,Central,9,9,1.33,100.0
+Mali,West Africa,Mopti,9,9,1.0,100.0
+Rumania,Eastern Europe,Gorj,9,9,1.44,100.0
+Turquía,West Asia,Afyonkarahisar,9,9,1.78,100.0
+Turquía,West Asia,Yalova,9,9,1.0,100.0
+Bolivia,South America,Tarija,8,8,1.5,100.0
+España,Southern Europe,Extremadura,8,8,1.0,100.0
+Madagascar,East Africa,Atsinanana,8,8,1.62,100.0
+Ruanda,East Africa,Meridional,8,8,1.38,100.0
+Benín,West Africa,Departamento Atlántico,7,7,1.0,100.0
+España,Southern Europe,Melilla,7,7,1.14,100.0
+Jordania,West Asia,Irbid,7,7,1.0,100.0
+Portugal,Southern Europe,Aveiro,7,7,1.29,100.0
+Rumania,Eastern Europe,Satu Mare,7,7,1.29,100.0
+Venezuela,South America,Mérida,7,7,2.0,100.0
+Yemen,West Asia,Al Hudayda,7,7,1.0,100.0
+Ecuador,South America,Los Ríos,6,6,2.33,100.0
+Irán,South Asia,Golestán,6,6,2.67,100.0
+Kazajistán,Central Asia,Zhambyl,6,6,1.0,100.0
+Laos,Southeast Asia,Prefectura de Vientián,6,6,1.83,100.0
+Turquía,West Asia,Malatya,6,6,1.0,100.0
+Turquía,West Asia,Çanakkale,6,6,2.17,100.0
+Albania,Southern Europe,Elbasan,5,5,1.0,100.0
+Argelia,North Africa,Tlemcen,5,5,3.0,100.0
+Armenia,West Asia,Lori,5,5,1.0,100.0
+Bután,South Asia,Chukha,5,5,2.0,100.0
+Costa de Marfil,West Africa,Haut-Sassandra,5,5,1.6,100.0
+Croacia,Southern Europe,Primorje-Gorski Kotar,5,5,1.0,100.0
+Eslovaquia,Eastern Europe,Banská Bystrica,5,5,2.0,100.0
+Eslovaquia,Eastern Europe,Žilina,5,5,1.0,100.0
+Irlanda,Northern Europe,Galway,5,5,1.0,100.0
+Irán,South Asia,Ilam,5,5,3.2,100.0
+Perú,South America,Lambayeque,5,5,1.2,100.0
+Perú,South America,Lima,5,5,1.0,100.0
+República Checa,Eastern Europe,Moravia-Silesia,5,5,1.0,100.0
+República Checa,Eastern Europe,Olomouc,5,5,3.0,100.0
+República de Gambia,West Africa,Occidental,5,5,2.0,100.0
+Rusia,Eastern Europe,Nóvgorod,5,5,1.0,100.0
+Suazilandia,Southern Africa,Manzini,5,5,2.0,100.0
+Sudán del Sur,East Africa,Ecuatoria Central,5,5,2.2,100.0
+Suecia,Northern Europe,Södermanland,5,5,1.2,100.0
+Turquía,West Asia,Düzce,5,5,1.0,100.0
+Turquía,West Asia,Isparta,5,5,3.0,100.0
+Uruguay,South America,Paysandú,5,5,1.8,100.0
+Zambia,East Africa,Septentrional,5,5,1.4,100.0
+Zimbabue,East Africa,Manicalandia,5,5,1.0,100.0
+Colombia,South America,Meta,4,4,1.0,100.0
+Croacia,Southern Europe,Osjecko-Baranjska,4,4,1.0,100.0
+Croacia,Southern Europe,Zagrebacka,4,4,1.0,100.0
+Uzbekistán,Central Asia,Khorezm,4,4,2.0,100.0
+Argentina,South America,La Rioja,3,3,1.0,100.0
+Bulgaria,Eastern Europe,Pazardzhik,3,3,1.67,100.0
+Japón,Eastern Asia,Okayama,3,3,1.33,100.0
+Liberia,West Africa,Grand Gedeh,3,3,2.0,100.0
+Mali,West Africa,Sikasso,3,3,1.0,100.0
+Países Bajos,Western Europe,Zelanda,3,3,1.67,100.0
+Rumania,Eastern Europe,Caras-Severin,3,3,1.0,100.0
+Rusia,Eastern Europe,Yevrey,3,3,1.0,100.0
+Tanzania,East Africa,Mtwara,3,3,1.67,100.0
+Tanzania,East Africa,Ruvuma,3,3,1.0,100.0
+Tanzania,East Africa,Tanga,3,3,2.0,100.0
+Togo,West Africa,Kara,3,3,1.0,100.0
+Camerún,Central Africa,Sud,2,2,1.5,100.0
+Colombia,South America,Córdoba,2,2,1.0,100.0
+Eritrea,East Africa,Anseba,2,2,2.0,100.0
+Guinea Ecuatorial,Central Africa,Litoral,2,2,1.5,100.0
+Irak,West Asia,Saladino,2,2,1.0,100.0
+Irán,South Asia,Semnán,2,2,1.0,100.0
+Mozambique,East Africa,Inhambane,2,2,2.0,100.0
+Portugal,Southern Europe,Setúbal,2,2,2.0,100.0
+Rumania,Eastern Europe,Arad,2,2,1.0,100.0
+Siria,West Asia,Ar Raqa,2,2,3.0,100.0
+Sáhara Occidental,West Africa,El Aaiún,2,2,2.0,100.0
+Yemen,West Asia,Ibb,2,2,1.0,100.0
+Bulgaria,Eastern Europe,Pernik,1,1,1.0,100.0
+Costa de Marfil,West Africa,Savanes,1,1,2.0,100.0
+Estonia,Northern Europe,Tartu,1,1,1.0,100.0
+Japón,Eastern Asia,Aomori,1,1,2.0,100.0
+Japón,Eastern Asia,Mie,1,1,1.0,100.0
+Japón,Eastern Asia,Tottori,1,1,1.0,100.0
+Macedonia,Southern Europe,Bitola,1,1,3.0,100.0
+Rumania,Eastern Europe,Suceava,1,1,3.0,100.0
+Rumania,Eastern Europe,Vrancea,1,1,2.0,100.0
+Uganda,East Africa,Kabarole,1,1,1.0,100.0
+Zimbabue,East Africa,Mashonalandia Occidental,1,1,1.0,100.0
+Rusia,Eastern Europe,Vorónezh,34,33,1.74,97.06
+Estonia,Northern Europe,Harjumaa,28,27,1.57,96.43
+Kazajistán,Central Asia,Ciudad de Almatý,43,41,1.4,95.35
+Somalia,East Africa,Jubbada Hoose,19,18,0.89,94.74
+Estados Unidos,East of USA,Maine,16,15,1.69,93.75
+Perú,South America,Moquegua,16,15,1.5,93.75
+Suecia,Northern Europe,Halland,14,13,1.79,92.86
+Chile,South America,Magallanes y Antártica Chilena,27,25,1.15,92.59
+República del Congo,Central Africa,Niari,13,12,1.0,92.31
+Venezuela,South America,Guárico,24,22,1.75,91.67
+Argentina,South America,Santiago del Estero,12,11,1.42,91.67
+Irán,South Asia,Qazvín,11,10,1.64,90.91
+Uzbekistán,Central Asia,Jizzakh,11,10,1.55,90.91
+Egipto,North Africa,Ash Sharqiyah,21,19,1.33,90.48
+Perú,South America,Puno,30,27,1.53,90.0
+Argelia,North Africa,Tipaza,10,9,0.9,90.0
+Bolivia,South America,Oruro,19,17,1.05,89.47
+Marruecos,North Africa,Garb-Chrarda-Beni Hsen,27,24,1.37,88.89
+Irlanda,Northern Europe,Dublín del Sur,24,21,0.92,87.5
+Tanzania,East Africa,Mbeya,23,20,1.22,86.96
+Nueva Zelanda,Oceania,Manawatu-Wanganui,45,39,1.56,86.67
+Egipto,North Africa,Gharbia,30,26,1.33,86.67
+Japón,Eastern Asia,Saga,15,13,1.73,86.67
+República Democrática del Congo,Central Africa,Maniema,15,13,0.87,86.67
+Noruega,Northern Europe,Hedmark,7,6,1.29,85.71
+Japón,Eastern Asia,Kanagawa,54,46,1.28,85.19
+Colombia,South America,Boyacá,20,17,1.65,85.0
+Turquía,West Asia,Hatay,20,17,1.55,85.0
+India,South Asia,Uttarakhand,53,45,0.96,84.91
+Turquía,West Asia,Adiyaman,13,11,1.38,84.62
+Argentina,South America,Corrientes,32,27,0.84,84.38
+Venezuela,South America,Carabobo,83,70,1.18,84.34
+República Democrática del Congo,Central Africa,Kasai Occidental,57,48,0.81,84.21
+Malasia,Southeast Asia,Sarawak,25,21,1.52,84.0
+Angola,Central Africa,Benguela,31,26,1.29,83.87
+Malasia,Southeast Asia,Selangor,31,26,1.13,83.87
+Alemania,Western Europe,Sarre,43,36,0.98,83.72
+Turquía,West Asia,Van,49,41,1.22,83.67
+Kenia,East Africa,Nyanza,18,15,1.61,83.33
+Eslovenia,Southern Europe,Liubliana,6,5,1.83,83.33
+India,South Asia,Tripura,6,5,0.67,83.33
+Rumania,Eastern Europe,Arges,6,5,0.67,83.33
+Turquía,West Asia,Kilis,6,5,0.83,83.33
+Zambia,East Africa,Oriental,6,5,1.67,83.33
+Angola,Central Africa,Bié,29,24,1.28,82.76
+Argelia,North Africa,Batna,23,19,1.26,82.61
+Nigeria,West Africa,Sokoto,17,14,0.94,82.35
+Rumania,Eastern Europe,Buzau,17,14,1.06,82.35
+Países Bajos,Western Europe,Groningen,84,69,1.15,82.14
+Turquía,West Asia,Sanliurfa,33,27,1.12,81.82
+Egipto,North Africa,Aswan,32,26,0.72,81.25
+Bangladés,South Asia,Sylhet,16,13,1.44,81.25
+México,Central America,Oaxaca,16,13,1.75,81.25
+Turquía,West Asia,Kocaeli,26,21,1.08,80.77
+España,Southern Europe,Asturias,45,36,1.2,80.0
+Estados Unidos,US Center,Dakota del Norte,20,16,1.8,80.0
+Egipto,North Africa,Kafr el Sheij,5,4,2.4,80.0
+Rusia,Eastern Europe,Kabardia-Balkaria,5,4,0.8,80.0
+Rumania,Eastern Europe,Bra?ov,39,31,1.31,79.49
+Cuba,Caribbean,Artemisa,72,57,1.5,79.17
+Guyana,South America,Demerara-Berbice Superior,19,15,0.84,78.95
+Indonesia,Southeast Asia,Aceh,19,15,1.26,78.95
+Rusia,Eastern Europe,Vladímir,19,15,1.32,78.95
+Irak,West Asia,Babilonia,33,26,2.06,78.79
+Suiza,Western Europe,Ginebra,28,22,1.64,78.57
+Sudán,North Africa,Kasala,14,11,1.14,78.57
+Indonesia,Southeast Asia,Nusa Tenggara Oriental,37,29,1.35,78.38
+Bélgica,Western Europe,Namur,54,42,1.22,77.78
+Gabón,Central Africa,Estuaire,45,35,1.11,77.78
+Túnez,North Africa,Túnez,36,28,0.86,77.78
+Camerún,Central Africa,Nord-Ouest,18,14,1.5,77.78
+India,South Asia,Chandigarh,18,14,1.22,77.78
+Marruecos,North Africa,Taza-Alhucemas-Taunat,9,7,1.22,77.78
+República Dominicana,Caribbean,Monseñor Nouel,9,7,1.0,77.78
+Rumania,Eastern Europe,Timis,49,38,0.92,77.55
+Argentina,South America,Chubut,22,17,1.45,77.27
+Emiratos Árabes Unidos,West Asia,Ras al-Jaima,22,17,1.0,77.27
+Rusia,Eastern Europe,Irkutsk,79,61,0.96,77.22
+Bielorrusia,Eastern Europe,Gómel,61,47,1.05,77.05
+Corea del Sur,Eastern Asia,Gyeonggi,87,67,1.17,77.01
+Moldavia,Eastern Europe,Balti,13,10,1.77,76.92
+Egipto,North Africa,Menia,47,36,0.64,76.6
+Pakistán,South Asia,Baluchistán,17,13,1.0,76.47
+Senegal,West Africa,Thiès,38,29,0.68,76.32
+Colombia,South America,Nariño,21,16,1.1,76.19
+Turkmenistán,Central Asia,Asjabad,25,19,0.92,76.0
+Estados Unidos,US Center,Dakota del Sur,29,22,0.86,75.86
+República Dominicana,Caribbean,Duarte,161,122,1.06,75.78
+Polonia,Eastern Europe,Gran Polonia,49,37,0.73,75.51
+Turquía,West Asia,Balikesir,49,37,0.9,75.51
+Chile,South America,Bío-Bío,73,55,0.78,75.34
+Italia,Southern Europe,Liguria,129,97,1.26,75.19
+Haití,Caribbean,Artibonito,60,45,1.42,75.0
+Brasil,South America,Acre,36,27,1.0,75.0
+Turquía,West Asia,Erzurum,28,21,1.07,75.0
+Lesoto,Southern Africa,Maseru,20,15,0.85,75.0
+Namibia,Southern Africa,Khomas,20,15,0.75,75.0
+Turquía,West Asia,Bolu,16,12,0.75,75.0
+Argentina,South America,La Pampa,12,9,0.75,75.0
+Nigeria,West Africa,Gombe,8,6,1.0,75.0
+Hungría,Eastern Europe,Hajdú-Bihar,4,3,1.0,75.0
+Turquía,West Asia,Usak,4,3,0.75,75.0
+Bélgica,Western Europe,Flanders Oriental,123,92,1.08,74.8
+Kazajistán,Central Asia,Karagandá,63,47,1.0,74.6
+República Democrática del Congo,Central Africa,Provincia Oriental,63,47,0.78,74.6
+Ecuador,South America,Pichincha,136,101,0.78,74.26
+Bolivia,South America,Chuquisaca,42,31,1.71,73.81
+Malasia,Southeast Asia,Trengganu,19,14,0.79,73.68
+Suiza,Western Europe,Vaud,34,25,1.06,73.53
+Estados Unidos,East of USA,Nuevo Hampshire,64,47,0.94,73.44
+Bosnia y Herzegovina,Southern Europe,Federación de Bosnia y Herzegovina,45,33,0.69,73.33
+Turquía,West Asia,Kütahya,15,11,0.73,73.33
+Zambia,East Africa,Meridional,15,11,0.4,73.33
+Somalia,East Africa,Gobolka Woqooyi Galbeed,41,30,1.17,73.17
+España,Southern Europe,Islas Baleares,96,70,0.85,72.92
+Zimbabue,East Africa,Bulawayo,70,51,0.8,72.86
+Turquía,West Asia,Batman,29,21,1.31,72.41
+Níger,West Africa,Niamey,72,52,1.0,72.22
+Argentina,South America,Neuquén,18,13,0.72,72.22
+Ucrania,Eastern Europe,Kirovohrad,18,13,0.67,72.22
+República Dominicana,Caribbean,San Juan,97,70,1.16,72.16
+Indonesia,Southeast Asia,Borneo Meridional,25,18,0.48,72.0
+Guatemala,Central America,Escuintla,171,123,0.77,71.93
+Perú,South America,Junín,32,23,0.97,71.88
+Georgia,West Asia,Tiflis,63,45,0.52,71.43
+China,Eastern Asia,Guizhou,56,40,1.02,71.43
+Japón,Eastern Asia,Saitama,35,25,0.83,71.43
+Egipto,North Africa,Qina,14,10,1.07,71.43
+Colombia,South America,Casanare,7,5,0.43,71.43
+Perú,South America,La Libertad,7,5,0.71,71.43
+China,Eastern Asia,Henan,230,164,1.03,71.3
+Costa de Marfil,West Africa,Lagunes,188,134,1.04,71.28
+Israel,West Asia,Haifa,59,42,0.86,71.19
+Mozambique,East Africa,Maputo,38,27,1.11,71.05
+Irán,South Asia,Ardebil,69,49,0.84,71.01
+Venezuela,South America,Lara,24,17,1.42,70.83
+Moldavia,Eastern Europe,Chisináu,65,46,1.34,70.77
+Indonesia,Southeast Asia,Sumatra Occidental,51,36,1.08,70.59
+India,South Asia,Manipur,17,12,0.24,70.59
+Indonesia,Southeast Asia,Papua,17,12,0.82,70.59
+Ucrania,Eastern Europe,Dnipropetrovsk,146,103,0.99,70.55
+Mozambique,East Africa,Sofala,44,31,1.05,70.45
+Brasil,South America,Distrito Federal,206,145,0.93,70.39
+Turquía,West Asia,Bursa,134,94,0.87,70.15
+Portugal,Southern Europe,Porto,97,68,1.04,70.1
+Suiza,Western Europe,Zúrich,140,98,1.09,70.0
+Chile,South America,O'Higgins,60,42,0.83,70.0
+Italia,Southern Europe,Umbría,40,28,1.02,70.0
+Turquía,West Asia,Amasya,20,14,1.45,70.0
+Tanzania,East Africa,Mara,10,7,0.7,70.0
+Panamá,Central America,Colón,86,60,0.9,69.77
+Brasil,South America,Roraima,43,30,0.7,69.77
+Guatemala,Central America,Chimaltenango,125,87,0.65,69.6
+Suiza,Western Europe,Lucerna,23,16,1.04,69.57
+Corea del Sur,Eastern Asia,Daejeon,82,57,1.15,69.51
+Costa Rica,Central America,Guanacaste,36,25,1.31,69.44
+Nigeria,West Africa,Ondo,26,18,1.42,69.23
+Botsuana,Southern Africa,Sudeste,13,9,0.62,69.23
+Turquía,West Asia,Kirsehir,13,9,0.38,69.23
+México,Central America,Tamaulipas,498,344,0.83,69.08
+España,Southern Europe,Murcia,126,87,0.98,69.05
+Irán,South Asia,Zanyán,58,40,0.62,68.97
+Uganda,East Africa,Kampala,58,40,1.0,68.97
+Argentina,South America,San Juan,45,31,0.91,68.89
+Irán,South Asia,Qom,93,64,0.82,68.82
+Indonesia,Southeast Asia,Riau,96,66,1.06,68.75
+Siria,West Asia,Hims,32,22,1.22,68.75
+Argelia,North Africa,Saida,16,11,0.94,68.75
+Bélgica,Western Europe,Bruselas,16,11,0.12,68.75
+Perú,South America,Piura,16,11,0.38,68.75
+Sri Lanka,South Asia,Occidental,16,11,0.88,68.75
+Ghana,West Africa,Gran Accra,169,116,1.05,68.64
+República Dominicana,Caribbean,Espaillat,35,24,1.37,68.57
+Bulgaria,Eastern Europe,Plovdiv,22,15,1.27,68.18
+Perú,South America,Ayacucho,22,15,0.59,68.18
+República Checa,Eastern Europe,Pilsen,22,15,0.73,68.18
+Rumania,Eastern Europe,Neamt,22,15,0.64,68.18
+Irak,West Asia,Basora,188,128,0.97,68.09
+Estados Unidos,South of  USA,Arkansas,147,100,0.9,68.03
+El Salvador,Central America,La Libertad,100,68,0.78,68.0
+Turquía,West Asia,Trebisonda,25,17,0.72,68.0
+Ucrania,Eastern Europe,Khmelnytskyi,25,17,1.28,68.0
+Angola,Central Africa,Huambo,53,36,0.74,67.92
+Colombia,South America,Caldas,53,36,0.92,67.92
+Polonia,Eastern Europe,Podlaquia,28,19,0.86,67.86
+Vietnam,Southeast Asia,T?nh C?n Th?,31,21,0.94,67.74
+Yibuti,East Africa,Yibuti,31,21,0.61,67.74
+Colombia,South America,Risaralda,65,44,0.75,67.69
+República Dominicana,Caribbean,La Vega,65,44,0.69,67.69
+China,Eastern Asia,Hunan,185,125,0.84,67.57
+Bélgica,Western Europe,Limburgo,126,85,0.93,67.46
+México,Central America,Durango,287,193,0.77,67.25
+Brasil,South America,Amapá,64,43,1.09,67.19
+Reino Unido,Northern Europe,Gales,146,98,0.68,67.12
+Estados Unidos,East of USA,Maryland,255,171,0.91,67.06
+China,Eastern Asia,Mongolia Interior,91,61,0.75,67.03
+China,Eastern Asia,Jilin,160,107,0.96,66.88
+Arabia Saudí,West Asia,Riad,345,230,0.76,66.67
+Brasil,South America,Sergipe,54,36,0.83,66.67
+Estados Unidos,West of USA,Montana,39,26,1.05,66.67
+Georgia,West Asia,Imericia,30,20,0.83,66.67
+Indonesia,Southeast Asia,Borneo Occidental,30,20,1.17,66.67
+Irán,South Asia,Kurdistán,30,20,0.63,66.67
+Turquía,West Asia,Kars,27,18,1.63,66.67
+Bulgaria,Eastern Europe,Varna,24,16,0.67,66.67
+Turquía,West Asia,Osmaniye,24,16,0.33,66.67
+Uzbekistán,Central Asia,Surjandarín,24,16,0.88,66.67
+Chipre,Southern Europe,Nicosia,12,8,0.25,66.67
+Dinamarca,Northern Europe,Selandia,12,8,1.25,66.67
+Uruguay,South America,Canelones,12,8,0.67,66.67
+Corea del Sur,Eastern Asia,Jeju,9,6,0.78,66.67
+Italia,Southern Europe,Basilicata,6,4,0.33,66.67
+Tanzania,East Africa,Tabora,6,4,0.67,66.67
+Senegal,West Africa,Ziguinchor,3,2,0.67,66.67
+Zambia,East Africa,Central,3,2,0.0,66.67
+México,Central America,Querétaro,237,157,0.79,66.24
+Malasia,Southeast Asia,Pahang,71,47,0.75,66.2
+Ghana,West Africa,Ashanti,68,45,1.03,66.18
+México,Central America,Baja California,599,396,1.05,66.11
+Colombia,South America,Bolívar,56,37,0.46,66.07
+Italia,Southern Europe,Cerdeña,109,72,0.98,66.06
+Ucrania,Eastern Europe,Poltava,53,35,1.02,66.04
+México,Central America,Colima,156,103,0.78,66.03
+Mongolia,Eastern Asia,Ulán Bator,79,52,1.28,65.82
+China,Eastern Asia,Xinjiang Uygur,38,25,0.76,65.79
+India,South Asia,Puducherry,38,25,1.03,65.79
+China,Eastern Asia,Shanxi,140,92,0.81,65.71
+Italia,Southern Europe,Calabria,32,21,0.56,65.62
+Venezuela,South America,Bolívar,93,61,0.53,65.59
+India,South Asia,Haryana,122,80,0.69,65.57
+Trinidad y Tobago,Caribbean,Chaguanas,61,40,0.84,65.57
+Ucrania,Eastern Europe,Donetsk,87,57,0.62,65.52
+Nicaragua,Central America,Granada,139,91,0.78,65.47
+Nigeria,West Africa,Kaduna,136,89,0.79,65.44
+Irán,South Asia,Jorasán Razaví,202,132,0.78,65.35
+Arabia Saudí,West Asia,Medina,72,47,0.64,65.28
+Perú,South America,Ucayali,23,15,0.91,65.22
+República Centroafricana,Central Africa,Bangui,23,15,0.65,65.22
+Rumania,Eastern Europe,Prahova,23,15,0.3,65.22
+Uzbekistán,Central Asia,Andiján,23,15,0.61,65.22
+Irlanda,Northern Europe,Cork,89,58,0.84,65.17
+Rumania,Eastern Europe,Mures,20,13,0.15,65.0
+Tailandia,Southeast Asia,Nakhon Ratchasima,20,13,0.35,65.0
+Turquía,West Asia,Samsun,20,13,0.65,65.0
+España,Southern Europe,Castilla-La Mancha,142,92,0.76,64.79
+Alemania,Western Europe,Turingia,176,114,0.64,64.77
+Argentina,South America,Santa Fe,227,147,0.88,64.76
+Indonesia,Southeast Asia,Kalimantan Oriental,170,110,0.74,64.71
+Nueva Zelanda,Oceania,Waikato,68,44,0.62,64.71
+Turkmenistán,Central Asia,Lebap,17,11,0.53,64.71
+Venezuela,South America,Sucre,17,11,1.18,64.71
+Estados Unidos,East of USA,Massachusetts,337,218,0.86,64.69
+Rumania,Eastern Europe,Galati,48,31,0.67,64.58
+El Salvador,Central America,Sonsonate,138,89,0.93,64.49
+Tanzania,East Africa,Mwanza,45,29,0.22,64.44
+Austria,Western Europe,Carintia,98,63,0.59,64.29
+Irán,South Asia,Bushehr,14,9,0.57,64.29
+Japón,Eastern Asia,Nagasaki,14,9,0.21,64.29
+Nicaragua,Central America,Masaya,162,104,0.57,64.2
+Brasil,South America,Tocantins,67,43,0.82,64.18
+Israel,West Asia,Jerusalén,67,43,0.51,64.18
+India,South Asia,Jammu y Cachemira,53,34,0.79,64.15
+India,South Asia,Chhattisgarh,167,107,0.89,64.07
+Alemania,Western Europe,Hesse,422,270,0.71,63.98
+Estados Unidos,South of  USA,Misisipi,136,87,0.96,63.97
+Francia,Western Europe,Borgoña-Franco Condado,233,149,0.7,63.95
+Brasil,South America,Marañón,340,217,0.81,63.82
+India,South Asia,Punyab,105,67,0.79,63.81
+Lituania,Northern Europe,Vilna,58,37,0.81,63.79
+Trinidad y Tobago,Caribbean,San Fernando,77,49,1.03,63.64
+Bolivia,South America,Potosí,22,14,0.82,63.64
+Ucrania,Eastern Europe,Volinia,22,14,0.23,63.64
+Costa de Marfil,West Africa,Lacs,11,7,1.27,63.64
+Rumania,Eastern Europe,Braila,11,7,0.09,63.64
+Turkmenistán,Central Asia,Mary,11,7,0.36,63.64
+España,Southern Europe,Galicia,129,82,0.77,63.57
+Colombia,South America,Quindío,41,26,0.66,63.41
+Pakistán,South Asia,Jaiber Pajtunjuá,41,26,0.66,63.41
+Colombia,South America,Tolima,60,38,0.5,63.33
+Marruecos,North Africa,Gran Casablanca,357,226,0.71,63.31
+China,Eastern Asia,Liaoning,302,191,0.56,63.25
+Afganistán,South Asia,Kabul,117,74,0.72,63.25
+Venezuela,South America,Aragua,117,74,0.62,63.25
+Italia,Southern Europe,Véneto,242,153,0.62,63.22
+Cuba,Caribbean,Sancti Spíritus,87,55,0.44,63.22
+Egipto,North Africa,El Cairo,600,379,0.56,63.17
+Brasil,South America,Espíritu Santo,95,60,0.71,63.16
+Mozambique,East Africa,Nampula,19,12,0.58,63.16
+Tanzania,East Africa,Arusha,19,12,0.37,63.16
+Bangladés,South Asia,Daca,306,193,0.79,63.07
+Perú,South America,Loreto,27,17,0.81,62.96
+India,South Asia,Bengala Occidental,140,88,0.59,62.86
+Nigeria,West Africa,Oyo,164,103,0.64,62.8
+Italia,Southern Europe,Piamonte,360,226,0.5,62.78
+Irlanda,Northern Europe,Dublín,373,234,0.71,62.73
+Polonia,Eastern Europe,Lublin,59,37,0.76,62.71
+Indonesia,Southeast Asia,Bali,67,42,0.84,62.69
+Alemania,Western Europe,Baden-Wurtemberg,793,496,0.71,62.55
+República Democrática del Congo,Central Africa,Kinshasa,483,302,0.66,62.53
+Honduras,Central America,Atlántida,312,195,0.61,62.5
+India,South Asia,Guyarat,272,170,0.86,62.5
+Polonia,Eastern Europe,Silesia,184,115,0.81,62.5
+Pakistán,South Asia,Territorio de la Capital Federal,40,25,0.62,62.5
+Mali,West Africa,Kayes,16,10,0.56,62.5
+Ucrania,Eastern Europe,Sumy,16,10,0.62,62.5
+Vietnam,Southeast Asia,Khánh Hòa,16,10,1.12,62.5
+Albania,Southern Europe,Korçë,8,5,-0.12,62.5
+Argentina,South America,San Luis,8,5,0.75,62.5
+Brasil,South America,Santa Catarina,541,338,0.69,62.48
+Noruega,Northern Europe,Oslo,157,98,0.85,62.42
+Francia,Western Europe,Auvernia,122,76,0.8,62.3
+Indonesia,Southeast Asia,Sumatra Meridional,127,79,0.8,62.2
+México,Central America,Guanajuato,812,505,0.64,62.19
+Colombia,South America,Cundinamarca,74,46,0.47,62.16
+México,Central America,Morelos,169,105,0.83,62.13
+Ecuador,South America,Guayas,95,59,0.35,62.11
+Israel,West Asia,Meridional,29,18,0.34,62.07
+Egipto,North Africa,Al Bahr al Ahmar,50,31,0.4,62.0
+Nigeria,West Africa,Kano,271,168,0.76,61.99
+Nigeria,West Africa,Benue,21,13,0.71,61.9
+Turquía,West Asia,Aydin,21,13,0.81,61.9
+Ucrania,Eastern Europe,Cherkasy,21,13,0.86,61.9
+México,Central America,Yucatán,349,216,0.54,61.89
+India,South Asia,Rajastán,312,193,0.7,61.86
+Ucrania,Eastern Europe,Járkov,118,73,0.51,61.86
+Ucrania,Eastern Europe,Zhytómyr,34,21,0.76,61.76
+México,Central America,Guerrero,94,58,0.83,61.7
+Francia,Western Europe,Bretaña,430,265,0.57,61.63
+Belice,Central America,Distrito de Cayo,13,8,0.23,61.54
+Bélgica,Western Europe,Lieja,13,8,0.69,61.54
+SudAfrica,Southern Africa,Limpopo,13,8,1.15,61.54
+Venezuela,South America,Cojedes,13,8,1.08,61.54
+Alemania,Western Europe,Hamburgo,627,385,0.59,61.4
+Países Bajos,Western Europe,Güeldres,119,73,0.83,61.34
+Estados Unidos,West of USA,Utah,155,95,0.61,61.29
+Yemen,West Asia,Taiz,62,38,0.81,61.29
+Suecia,Northern Europe,Estocolmo,718,440,0.69,61.28
+Camboya,Southeast Asia,Nom Pen,152,93,0.49,61.18
+Cuba,Caribbean,Cienfuegos,188,115,0.51,61.17
+Níger,West Africa,Maradi,18,11,0.44,61.11
+Rusia,Eastern Europe,Cheliábinsk,185,113,0.72,61.08
+Estados Unidos,West of USA,Colorado,475,290,0.76,61.05
+Austria,Western Europe,Alta Austria,95,58,0.47,61.05
+Nueva Zelanda,Oceania,Otago,59,36,0.63,61.02
+Argelia,North Africa,Alger,141,86,0.87,60.99
+Malasia,Southeast Asia,Sabah,123,75,0.49,60.98
+Rusia,Eastern Europe,Daguestán,123,75,0.68,60.98
+Nueva Zelanda,Oceania,Hawke's Bay,64,39,0.84,60.94
+Filipinas,Southeast Asia,Calabarzón,161,98,0.65,60.87
+Hungría,Eastern Europe,Budapest,143,87,0.59,60.84
+Chile,South America,Santiago de Chile,434,264,0.63,60.83
+Estados Unidos,East of USA,Nueva Jersey,324,197,0.63,60.8
+Irán,South Asia,Mazandarán,51,31,0.94,60.78
+China,Eastern Asia,Jiangxi,79,48,0.59,60.76
+Irán,South Asia,Sistán y Baluchistán,56,34,0.86,60.71
+Guatemala,Central America,Huehuetenango,150,91,0.53,60.67
+Irán,South Asia,Lorestan,61,37,0.51,60.66
+España,Southern Europe,Andalucía,508,308,0.59,60.63
+Países Bajos,Western Europe,Holanda Septentrional,414,251,0.77,60.63
+Suecia,Northern Europe,Upsala,33,20,0.42,60.61
+Guatemala,Central America,Quezaltenango,223,135,0.57,60.54
+India,South Asia,Andhra Pradesh,215,130,0.62,60.47
+Estados Unidos,West of USA,Idaho,53,32,0.6,60.38
+Irán,South Asia,Teherán,73,44,0.86,60.27
+Alemania,Western Europe,Baja Sajonia,614,370,0.61,60.26
+China,Eastern Asia,Hebei,133,80,0.77,60.15
+Italia,Southern Europe,Toscana,439,264,0.65,60.14
+Perú,South America,Lima (ciudad),484,291,0.64,60.12
+México,Central America,Quintana Roo,168,101,0.76,60.12
+Nicaragua,Central America,León,283,170,0.73,60.07
+Estados Unidos,East of USA,Nueva York,2753,1652,0.6,60.01
+Arabia Saudí,West Asia,Meca,280,168,0.49,60.0
+Nepal,South Asia,Central,80,48,0.62,60.0
+Indonesia,Southeast Asia,Célebes Suroriental,65,39,0.4,60.0
+Austria,Western Europe,Salzburgo,45,27,0.64,60.0
+Japón,Eastern Asia,Shizuoka,30,18,0.53,60.0
+Argelia,North Africa,Skikda,20,12,0.7,60.0
+Brasil,South America,Rondônia,20,12,0.65,60.0
+Afganistán,South Asia,Herat,15,9,0.27,60.0
+Egipto,North Africa,Puerto Saíd,15,9,0.4,60.0
+Filipinas,Southeast Asia,Mindanao Septentrional,15,9,0.93,60.0
+Polonia,Eastern Europe,Opole,15,9,0.47,60.0
+Rusia,Eastern Europe,Moscú,15,9,0.4,60.0
+Bolivia,South America,Cochabamba,10,6,0.3,60.0
+México,Central America,Sonora,327,196,0.63,59.94
+Austria,Western Europe,Viena,1038,622,0.6,59.92
+Estados Unidos,South of  USA,Kentucky,359,215,0.46,59.89
+Italia,Southern Europe,Emilia-Romaña,516,309,0.67,59.88
+Brasil,South America,Río Grande del Norte,132,79,0.53,59.85
+Pakistán,South Asia,Punyab,552,330,0.58,59.78
+Estados Unidos,South of  USA,Carolina del Norte,611,365,0.67,59.74
+Nicaragua,Central America,Managua,1834,1095,0.63,59.71
+SudAfrica,Southern Africa,Gauteng,587,350,0.54,59.63
+Estados Unidos,South of  USA,Luisiana,99,59,0.71,59.6
+Francia,Western Europe,Languedoc-Rosellón-Mediodía-Pirineos,1084,646,0.64,59.59
+China,Eastern Asia,Anhui,235,140,0.51,59.57
+Nigeria,West Africa,Kwara,47,28,0.43,59.57
+Japón,Eastern Asia,Aichi,42,25,0.71,59.52
+Corea del Sur,Eastern Asia,Seúl,269,160,0.64,59.48
+Estados Unidos,South of  USA,Tennessee,454,270,0.65,59.47
+Rumania,Eastern Europe,Iasi,32,19,0.53,59.38
+Sierra Leona,West Africa,Meridional,32,19,0.56,59.38
+España,Southern Europe,Cataluña,647,384,0.66,59.35
+Estados Unidos,West of USA,Nevada,108,64,0.69,59.26
+Alemania,Western Europe,Berlín,995,589,0.54,59.2
+Italia,Southern Europe,Lacio,828,490,0.46,59.18
+Argentina,South America,Mendoza,98,58,0.33,59.18
+Camerún,Central Africa,Nord,49,29,0.47,59.18
+El Salvador,Central America,San Salvador,3055,1806,0.62,59.12
+India,South Asia,Karnataka,335,198,0.57,59.1
+Alemania,Western Europe,Renania del Norte-Westfalia,3303,1951,0.61,59.07
+Indonesia,Southeast Asia,Yakarta,1006,594,0.63,59.05
+Alemania,Western Europe,Sajonia-Anhalt,166,98,0.41,59.04
+Turquía,West Asia,Gaziantep,122,72,0.61,59.02
+Italia,Southern Europe,Abruzos,61,36,0.34,59.02
+Nicaragua,Central America,Estelí,161,95,0.6,59.01
+Estados Unidos,US Center,Texas,2446,1442,0.63,58.95
+Filipinas,Southeast Asia,Capital Nacional,1776,1046,0.57,58.9
+India,South Asia,Madhya Pradesh,248,146,0.76,58.87
+Países Bajos,Western Europe,Limburgo,124,73,0.61,58.87
+Marruecos,North Africa,Fez-Bulmán,85,50,0.61,58.82
+Rusia,Eastern Europe,Yaroslavl,68,40,0.69,58.82
+Estados Unidos,South of  USA,Georgia,475,279,0.71,58.74
+Nueva Zelanda,Oceania,Canterbury,167,98,0.65,58.68
+República Democrática del Congo,Central Africa,Katanga,179,105,0.48,58.66
+Francia,Western Europe,Isla de Francia,4580,2686,0.58,58.65
+Australia,Oceania,Queensland,2186,1282,0.62,58.65
+Brasil,South America,Rio Grande do Sul,457,268,0.63,58.64
+China,Eastern Asia,Jiangsu,413,242,0.67,58.6
+Cuba,Caribbean,Villa Clara,215,126,0.81,58.6
+Brasil,South America,Goiás,169,99,0.67,58.58
+Nueva Zelanda,Oceania,Auckland,572,335,0.58,58.57
+China,Eastern Asia,Fujian,140,82,0.48,58.57
+Colombia,South America,Atlántico,164,96,0.55,58.54
+Irán,South Asia,Markazí,41,24,0.66,58.54
+Estados Unidos,East of USA,Rhode Island,135,79,0.58,58.52
+India,South Asia,Kerala,94,55,0.63,58.51
+Israel,West Asia,Tel Aviv,106,62,0.49,58.49
+Nigeria,West Africa,Edo,53,31,0.58,58.49
+Francia,Western Europe,Normandía,448,262,0.6,58.48
+Malasia,Southeast Asia,Negeri Sembilan,65,38,0.82,58.46
+Australia,Oceania,Australia Occidental,917,536,0.67,58.45
+Tailandia,Southeast Asia,Bangkok,889,519,0.6,58.38
+Brasil,South America,Mato Grosso,96,56,0.71,58.33
+Mozambique,East Africa,Cidade De Maputo,72,42,0.72,58.33
+Argelia,North Africa,Constantina,36,21,0.53,58.33
+Indonesia,Southeast Asia,Maluku,12,7,1.0,58.33
+Estados Unidos,West of USA,Arizona,555,323,0.55,58.2
+Turquía,West Asia,Estambul,998,580,0.64,58.12
+India,South Asia,Maharashtra,905,526,0.55,58.12
+Barbados,Caribbean,San Miguel,117,68,0.8,58.12
+Francia,Western Europe,Aquitania-Lemosín-Poitou-Charentes,912,530,0.55,58.11
+Estados Unidos,East of USA,Delaware,241,140,0.54,58.09
+Malasia,Southeast Asia,Perak,112,65,0.47,58.04
+México,Central America,Distrito Federal,2353,1364,0.64,57.97
+México,Central America,Coahuila,518,300,0.53,57.92
+Colombia,South America,Caquetá,38,22,0.24,57.89
+Italia,Southern Europe,Friuli-Venecia Julia,19,11,0.47,57.89
+Nigeria,West Africa,Akwa Ibom,19,11,1.05,57.89
+Alemania,Western Europe,Bremen,268,155,0.63,57.84
+Francia,Western Europe,Norte-Paso de Calais-Picardía,893,516,0.64,57.78
+Cuba,Caribbean,Holguín,322,186,0.46,57.76
+Nicaragua,Central America,Chinandega,277,160,0.6,57.76
+Estados Unidos,US Center,Oklahoma,175,101,0.61,57.71
+Indonesia,Southeast Asia,Java Occidental,817,471,0.57,57.65
+Bélgica,Western Europe,Brabante Flamenco,33,19,0.7,57.58
+Brasil,South America,São Paulo,2031,1168,0.58,57.51
+Australia,Oceania,Victoria,1456,837,0.58,57.49
+Estados Unidos,South of  USA,Florida,941,541,0.51,57.49
+Cuba,Caribbean,Isla de la Juventud,87,50,0.29,57.47
+Brasil,South America,Minas Gerais,625,359,0.58,57.44
+India,South Asia,Tamil Nadu,366,210,0.54,57.38
+Papúa Nueva Guinea,Oceania,Capital Nacional,61,35,0.1,57.38
+Azerbaiyán,West Asia,Baki,68,39,0.57,57.35
+China,Eastern Asia,Guangdong,857,491,0.55,57.29
+Marruecos,North Africa,Rabat-Salé-Zemur-Zaer,323,185,0.61,57.28
+Vietnam,Southeast Asia,Ciudad Ho Chi Minh,524,300,0.5,57.25
+Italia,Southern Europe,Apulia,400,229,0.52,57.25
+Turquía,West Asia,Adana,159,91,0.69,57.23
+Japón,Eastern Asia,Tokio,180,103,0.44,57.22
+República Dominicana,Caribbean,Santo Domingo,2211,1265,0.58,57.21
+China,Eastern Asia,Shanghái,294,168,0.51,57.14
+Países Bajos,Western Europe,Utrecht,210,120,0.47,57.14
+Japón,Eastern Asia,Hiroshima,21,12,0.71,57.14
+Rumania,Eastern Europe,Bacau,21,12,0.48,57.14
+Argelia,North Africa,Béchar,7,4,0.57,57.14
+Rumania,Eastern Europe,Giurgiu,7,4,2.29,57.14
+Senegal,West Africa,Saint-Louis,7,4,0.57,57.14
+Turquía,West Asia,Tokat,7,4,0.57,57.14
+Estados Unidos,US Center,Illinois,1237,706,0.58,57.07
+México,Central America,Jalisco,1217,694,0.55,57.03
+Francia,Western Europe,Alsacia-Champaña-Ardenas-Lorena,868,495,0.72,57.03
+República Dominicana,Caribbean,Santiago de Chile,400,228,0.54,57.0
+Países Bajos,Western Europe,Overijssel,86,49,0.43,56.98
+México,Central America,Puebla,739,421,0.62,56.97
+Austria,Western Europe,Tirol,65,37,0.4,56.92
+Honduras,Central America,Yoro,181,103,0.44,56.91
+Francia,Western Europe,Provenza-Alpes-Costa Azul,1842,1048,0.63,56.89
+Indonesia,Southeast Asia,Java Oriental,575,327,0.37,56.87
+Indonesia,Southeast Asia,Sumatra Septentrional,415,236,0.54,56.87
+Francia,Western Europe,Países del Loira,489,278,0.65,56.85
+Estados Unidos,West of USA,California,4966,2821,0.55,56.81
+India,South Asia,Uttar Pradesh,596,338,0.6,56.71
+Bangladés,South Asia,Chittagong,97,55,0.49,56.7
+Estados Unidos,East of USA,Ohio,1122,636,0.55,56.68
+Turquía,West Asia,Izmir,307,174,0.63,56.68
+Francia,Western Europe,Centro-Valle de Loira,270,153,0.53,56.67
+Argentina,South America,Buenos Aires (provincia),180,102,0.6,56.67
+Filipinas,Southeast Asia,Visayas Occidental,60,34,0.87,56.67
+India,South Asia,Assam,60,34,0.22,56.67
+Ucrania,Eastern Europe,Mykolayiv,30,17,0.13,56.67
+República Dominicana,Caribbean,San Pedro de Macorís,226,128,0.57,56.64
+Vietnam,Southeast Asia,Dà Nang,23,13,0.43,56.52
+España,Southern Europe,País Vasco,294,166,0.59,56.46
+Estados Unidos,US Center,Minnesota,243,137,0.61,56.38
+Alemania,Western Europe,Bavaria,928,523,0.62,56.36
+Bolivia,South America,Santa Cruz,55,31,0.64,56.36
+España,Southern Europe,Valenciana,449,253,0.71,56.35
+España,Southern Europe,Ceuta,64,36,0.73,56.25
+Venezuela,South America,Anzoátegui,64,36,0.45,56.25
+Canada,Canada,Quebec,137,77,0.61,56.2
+Reino Unido,Northern Europe,Inglaterra,6722,3776,0.54,56.17
+Malasia,Southeast Asia,Kuala Lumpur,98,55,0.33,56.12
+Angola,Central Africa,Luanda,173,97,0.76,56.07
+Suecia,Northern Europe,Västra Götaland,107,60,0.43,56.07
+Zambia,East Africa,Copperbelt,132,74,0.66,56.06
+Turquía,West Asia,Manisa,66,37,0.35,56.06
+China,Eastern Asia,Heilongjiang,348,195,0.65,56.03
+Argentina,South America,Córdoba,75,42,0.28,56.0
+Nigeria,West Africa,Enugu,50,28,0.24,56.0
+Argentina,South America,Salta,25,14,0.88,56.0
+Chile,South America,Antofagasta,25,14,0.28,56.0
+Australia,Oceania,Australia del Sur,668,374,0.54,55.99
+China,Eastern Asia,Tianjin,143,80,0.83,55.94
+Cuba,Caribbean,Ciego de Ávila,143,80,0.54,55.94
+China,Eastern Asia,Chongqing,120,67,0.52,55.83
+Alemania,Western Europe,Renania-Palatinado,398,222,0.51,55.78
+Brasil,South America,Bahía,676,377,0.58,55.77
+Kazajistán,Central Asia,Astaná,52,29,0.5,55.77
+Brasil,South America,Pernambuco,410,228,0.53,55.61
+Brasil,South America,Río de Janeiro,414,230,0.52,55.56
+Brasil,South America,Mato Grosso del Sur,81,45,0.11,55.56
+China,Eastern Asia,Yunnan,63,35,0.4,55.56
+Marruecos,North Africa,Mequinez-Tafilalet,54,30,0.61,55.56
+Afganistán,South Asia,Nangarhar,18,10,0.22,55.56
+Angola,Central Africa,Namibe,9,5,1.11,55.56
+República Checa,Eastern Europe,Liberec,9,5,0.22,55.56
+Rumania,Eastern Europe,Mehedinti,9,5,1.0,55.56
+Alemania,Western Europe,Sajonia,375,208,0.5,55.47
+Cuba,Caribbean,Mayabeque,119,66,0.29,55.46
+México,Central America,Chihuahua,765,424,0.47,55.42
+Dinamarca,Northern Europe,Región Capital,166,92,0.39,55.42
+Estados Unidos,US Center,Nebraska,103,57,0.33,55.34
+SudAfrica,Southern Africa,Cabo Occidental,217,120,0.5,55.3
+Honduras,Central America,Cortés,1160,641,0.54,55.26
+Bélgica,Western Europe,Flanders Occidental,38,21,0.66,55.26
+Países Bajos,Western Europe,Brabante Septentrional,319,176,0.46,55.17
+Nigeria,West Africa,Delta,58,32,0.74,55.17
+Mozambique,East Africa,Zambezia,29,16,0.31,55.17
+Estados Unidos,US Center,Michigan,610,336,0.69,55.08
+Guatemala,Central America,Guatemala,2109,1161,0.51,55.05
+Nigeria,West Africa,Lagos,903,497,0.62,55.04
+Myanmar (Birmania),Southeast Asia,Rangún,409,225,0.36,55.01
+Kenia,East Africa,Costa,60,33,0.78,55.0
+Portugal,Southern Europe,Coimbra,20,11,0.05,55.0
+Rumania,Eastern Europe,Bihor,20,11,0.25,55.0
+Singapur,Southeast Asia,Singapur,455,250,0.45,54.95
+Irán,South Asia,Kerman,51,28,0.33,54.9
+Bielorrusia,Eastern Europe,Grodno,82,45,0.71,54.88
+Canada,Canada,Alberta,124,68,0.2,54.84
+Corea del Sur,Eastern Asia,Daegu,31,17,0.61,54.84
+España,Southern Europe,Navarra,31,17,0.45,54.84
+Jamaica,Caribbean,Santa Caterina,170,93,0.6,54.71
+Honduras,Central America,Francisco Morazán,1783,975,0.4,54.68
+México,Central America,Veracruz,566,309,0.54,54.59
+Turquía,West Asia,Ankara,405,221,0.46,54.57
+Australia,Oceania,Nueva Gales del Sur,2370,1293,0.55,54.56
+Kazajistán,Central Asia,Pavlodar,44,24,1.05,54.55
+Corea del Sur,Eastern Asia,Busan,33,18,0.61,54.55
+Irán,South Asia,Yazd,33,18,0.3,54.55
+Chile,South America,Los Lagos,22,12,1.09,54.55
+Estados Unidos,East of USA,Vermont,22,12,0.59,54.55
+Japón,Eastern Asia,Ibaraki,11,6,0.18,54.55
+Japón,Eastern Asia,Kagawa,11,6,0.45,54.55
+México,Central America,Nuevo León,623,339,0.48,54.41
+Estados Unidos,US Center,Wisconsin,307,167,0.35,54.4
+España,Southern Europe,Castilla y León,274,149,0.44,54.38
+Cuba,Caribbean,Pinar del Río,287,156,0.57,54.36
+Turquía,West Asia,Diyarbakir,46,25,0.15,54.35
+India,South Asia,Telangana,151,82,0.67,54.3
+Rusia,Eastern Europe,Kaliningrado,35,19,0.43,54.29
+SudAfrica,Southern Africa,Noroeste,35,19,0.4,54.29
+Nicaragua,Central America,Matagalpa,190,103,0.48,54.21
+Rusia,Eastern Europe,Bashkortostán,155,84,0.57,54.19
+Nigeria,West Africa,Anambra,48,26,0.65,54.17
+Colombia,South America,Magdalena,37,20,0.97,54.05
+Australia,Oceania,Tasmania,322,174,0.49,54.04
+Países Bajos,Western Europe,Holanda Meridional,472,255,0.42,54.03
+Irak,West Asia,Bagdad,436,235,0.36,53.9
+Turquía,West Asia,Kahramanmara?,39,21,0.69,53.85
+Tanzania,East Africa,Kilimanjaro,13,7,0.15,53.85
+Italia,Southern Europe,Sicilia,457,246,0.43,53.83
+Estados Unidos,West of USA,Washington,1272,684,0.52,53.77
+Camerún,Central Africa,Centro,106,57,0.36,53.77
+Irán,South Asia,Guilán,67,36,0.43,53.73
+India,South Asia,Bihar,194,104,0.43,53.61
+China,Eastern Asia,Shaanxi,84,45,0.54,53.57
+Bolivia,South America,El Beni,28,15,0.64,53.57
+Guinea-Bissau,West Africa,Bisáu,28,15,0.46,53.57
+Tanzania,East Africa,Dar es Salaam,183,98,0.39,53.55
+El Salvador,Central America,Santa Ana,312,167,0.52,53.53
+Estados Unidos,US Center,Indiana,398,213,0.43,53.52
+México,Central America,México,808,432,0.52,53.47
+Francia,Western Europe,Auvernia-Ródano-Alpes,1016,543,0.43,53.44
+Martinica,Caribbean,Martinica,120,64,0.44,53.33
+Bulgaria,Eastern Europe,Sofía-Ciudad,90,48,0.54,53.33
+Croacia,Southern Europe,Grad Zagreb,60,32,0.45,53.33
+Japón,Eastern Asia,Fukuoka,15,8,0.87,53.33
+Rumania,Eastern Europe,Constanza,15,8,1.33,53.33
+Cuba,Caribbean,Granma,349,186,0.47,53.3
+Estados Unidos,South of  USA,Virginia,550,293,0.41,53.27
+SudAfrica,Southern Africa,KwaZulu-Natal,77,41,0.53,53.25
+Colombia,South America,Santander,124,66,0.62,53.23
+Estados Unidos,US Center,Misuri,173,92,0.44,53.18
+Panamá,Central America,Chiriquí,224,119,0.37,53.12
+Nigeria,West Africa,Cross River,64,34,0.45,53.12
+Argelia,North Africa,Orán,98,52,0.69,53.06
+República Dominicana,Caribbean,La Romana,311,165,0.5,53.05
+Haití,Caribbean,Ouest,474,251,0.41,52.95
+Rusia,Eastern Europe,Arjánguelsk,51,27,0.14,52.94
+Bangladés,South Asia,Rajshahi,17,9,0.06,52.94
+Estados Unidos,East of USA,Connecticut,189,100,0.39,52.91
+Japón,Eastern Asia,Hyogo,53,28,0.34,52.83
+Polonia,Eastern Europe,Lodz,72,38,0.47,52.78
+China,Eastern Asia,Shandong,442,233,0.4,52.71
+Brasil,South America,Paraná,332,175,0.36,52.71
+Indonesia,Southeast Asia,Yogyakarta,241,127,0.51,52.7
+Ucrania,Eastern Europe,Vínnytsia,74,39,0.5,52.7
+Alemania,Western Europe,Brandenburgo,133,70,0.7,52.63
+Polonia,Eastern Europe,Pomerania,76,40,0.2,52.63
+Nueva Zelanda,Oceania,Taranaki,57,30,0.88,52.63
+Madagascar,East Africa,Boeny,19,10,0.53,52.63
+Italia,Southern Europe,Trentino-Alto Adigio,97,51,0.6,52.58
+Nueva Zelanda,Oceania,Wellington,307,161,0.45,52.44
+Qatar,West Asia,Doha,42,22,0.38,52.38
+Uzbekistán,Central Asia,Kashkadar,21,11,0.81,52.38
+Brasil,South America,Pará,170,89,0.59,52.35
+Cuba,Caribbean,Camagüey,241,126,0.46,52.28
+Cuba,Caribbean,Guantánamo,199,104,0.47,52.26
+Australia,Oceania,Territorio de la Capital Australiana,469,245,0.36,52.24
+Sudán,North Africa,Jartum,134,70,0.55,52.24
+México,Central America,Chiapas,224,117,0.48,52.23
+México,Central America,Michoacán,431,225,0.62,52.2
+Estados Unidos,West of USA,Nuevo México,96,50,0.66,52.08
+Colombia,South America,Bogotá,492,256,0.45,52.03
+China,Eastern Asia,Hainan,25,13,0.8,52.0
+Estados Unidos,South of  USA,Alabama,152,79,0.34,51.97
+Ucrania,Eastern Europe,Lviv,108,56,0.61,51.85
+Somalia,East Africa,Benadir,81,42,0.15,51.85
+Arabia Saudí,West Asia,Jizán,27,14,0.52,51.85
+Estados Unidos,US Center,Iowa,89,46,0.57,51.69
+España,Southern Europe,Madrid,992,512,0.3,51.61
+China,Eastern Asia,Sichuan,310,160,0.41,51.61
+Rusia,Eastern Europe,Astracán,31,16,1.06,51.61
+Cuba,Caribbean,Las Tunas,285,147,0.41,51.58
+Cuba,Caribbean,Santiago de Cuba,797,411,0.43,51.57
+Japón,Eastern Asia,Osaka,64,33,0.69,51.56
+Brasil,South America,Paraíba,132,68,0.23,51.52
+Argentina,South America,Buenos Aires,967,498,0.38,51.5
+Estados Unidos,East of USA,Pensilvania,1406,724,0.46,51.49
+Jordania,West Asia,Amán,101,52,0.51,51.49
+Zambia,East Africa,Lusaka,105,54,0.6,51.43
+Nigeria,West Africa,Níger,35,18,1.06,51.43
+Nigeria,West Africa,Katsina,37,19,0.08,51.35
+Venezuela,South America,Zulia,187,96,0.5,51.34
+Canada,Canada,Ontario,503,258,0.47,51.29
+Canada,Canada,Columbia británica,119,61,0.17,51.26
+Estados Unidos,South of  USA,Carolina del Sur,121,62,0.44,51.24
+México,Central America,Sinaloa,373,191,0.33,51.21
+Indonesia,Southeast Asia,Célebes Septentrional,45,23,0.6,51.11
+India,South Asia,Delhi,182,93,0.47,51.1
+México,Central America,San Luis Potosí,295,150,0.26,50.85
+Bélgica,Western Europe,Amberes,187,95,0.42,50.8
+Estados Unidos,West of USA,Oregón,274,139,0.4,50.73
+Mali,West Africa,Bamako,75,38,0.25,50.67
+Panamá,Central America,Panamá,1631,825,0.33,50.58
+Reino Unido,Northern Europe,Escocia,434,218,0.31,50.23
+Indonesia,Southeast Asia,Java Central,310,155,0.42,50.0
+Pakistán,South Asia,Sind,108,54,0.18,50.0
+Irán,South Asia,Isfahán,76,38,0.14,50.0
+Bélgica,Western Europe,Henao,74,37,0.07,50.0
+Libia,North Africa,Bengasi,70,35,0.14,50.0
+Arabia Saudí,West Asia,Tabuk,50,25,0.42,50.0
+Egipto,North Africa,Fayún,36,18,0.39,50.0
+Nigeria,West Africa,Abia,36,18,0.64,50.0
+Marruecos,North Africa,Chauía-Uardiga,34,17,-0.09,50.0
+Venezuela,South America,Portuguesa,30,15,0.27,50.0
+Kazajistán,Central Asia,Kostanái,26,13,0.73,50.0
+Argelia,North Africa,Guelma,24,12,0.29,50.0
+Lituania,Northern Europe,Panevezys,22,11,0.45,50.0
+Guinea,West Africa,Kankan,20,10,0.0,50.0
+Rumania,Eastern Europe,Vâlcea,18,9,1.22,50.0
+Benín,West Africa,Donga,14,7,0.64,50.0
+Paraguay,South America,Asunción,14,7,-0.29,50.0
+Eslovaquia,Eastern Europe,Nitra,12,6,0.25,50.0
+Nigeria,West Africa,Bauchi,12,6,0.0,50.0
+Uganda,East Africa,Gulu,12,6,0.42,50.0
+Níger,West Africa,Diffa,10,5,0.5,50.0
+Tanzania,East Africa,Morogoro,10,5,0.7,50.0
+Turquía,West Asia,Karaman,10,5,1.0,50.0
+Angola,Central Africa,Malanje,8,4,1.88,50.0
+Benín,West Africa,Atakora,8,4,0.25,50.0
+Níger,West Africa,Zinder,8,4,0.0,50.0
+Togo,West Africa,Plateaux,8,4,0.0,50.0
+Libia,North Africa,Al Marqab,6,3,0.0,50.0
+Madagascar,East Africa,Haute-Matsiatra,6,3,0.5,50.0
+Mozambique,East Africa,Tete,6,3,0.5,50.0
+Polonia,Eastern Europe,Lubusz,6,3,-0.5,50.0
+Benín,West Africa,Mono,4,2,0.5,50.0
+Corea del Sur,Eastern Asia,Chungcheong del Sur,2,1,1.0,50.0
+Brasil,South America,Amazonas,131,65,0.47,49.62
+Finlandia,Northern Europe,Uusimaa,250,124,0.43,49.6
+Colombia,South America,Antioquía,242,120,0.34,49.59
+México,Central America,Campeche,123,61,0.53,49.59
+México,Central America,Nayarit,158,78,0.11,49.37
+Irán,South Asia,Hamadán,75,37,0.12,49.33
+República Democrática del Congo,Central Africa,Kasai Oriental,75,37,0.44,49.33
+República Checa,Eastern Europe,Praga,124,61,0.28,49.19
+Estados Unidos,US Center,Kansas,57,28,0.37,49.12
+Uruguay,South America,Montevideo,110,54,0.18,49.09
+Turquía,West Asia,Sivas,53,26,0.6,49.06
+Ucrania,Eastern Europe,Zaporiyia,45,22,0.29,48.89
+Sudán,North Africa,Mar Rojo,43,21,0.47,48.84
+Suiza,Western Europe,Berna,43,21,0.63,48.84
+Venezuela,South America,Distrito Capital,168,82,0.21,48.81
+Argentina,South America,Chaco,125,61,0.54,48.8
+Italia,Southern Europe,Lombardía,689,336,0.27,48.77
+Canada,Canada,Saskatchewan,39,19,0.15,48.72
+Vietnam,Southeast Asia,Th? Dô Hà N?i,148,72,0.32,48.65
+Ecuador,South America,Azuay,37,18,0.32,48.65
+Finlandia,Northern Europe,Finlandia del Sudoeste,31,15,0.61,48.39
+Alemania,Western Europe,Schleswig-Holstein,143,69,0.03,48.25
+China,Eastern Asia,Zhejiang,210,101,0.36,48.1
+Madagascar,East Africa,Analamanga,102,49,0.85,48.04
+Brasil,South America,Ceará,350,168,0.24,48.0
+Canada,Canada,Manitoba,25,12,0.2,48.0
+Corea del Sur,Eastern Asia,Gyeongsangnam,48,23,0.52,47.92
+Países Bajos,Western Europe,Drenthe,67,32,0.31,47.76
+Australia,Oceania,Territorio del Norte,109,52,0.28,47.71
+Rusia,Eastern Europe,Bélgorod,42,20,0.29,47.62
+Kenia,East Africa,Nairobi,120,57,-0.03,47.5
+Rusia,Eastern Europe,Ivanovo,40,19,0.35,47.5
+Sudán,North Africa,Gezira,40,19,0.3,47.5
+Nigeria,West Africa,Borno,57,27,0.18,47.37
+Guinea,West Africa,Nzérékoré,19,9,0.37,47.37
+Turquía,West Asia,Kayseri,74,35,0.47,47.3
+Alemania,Western Europe,Mecklemburgo-Pomerania Occidental,180,85,0.35,47.22
+Marruecos,North Africa,Marrakech-Tensift-Al Hauz,104,49,0.66,47.12
+Egipto,North Africa,Alejandría,276,130,0.43,47.1
+Ucrania,Eastern Europe,Lugansk,51,24,-0.02,47.06
+Lituania,Northern Europe,Kaunas,34,16,0.18,47.06
+Japón,Eastern Asia,Fukui,17,8,0.59,47.06
+Turquía,West Asia,Antalya,100,47,0.26,47.0
+Portugal,Southern Europe,Lisboa,210,98,0.26,46.67
+Perú,South America,Callao,15,7,1.0,46.67
+Noruega,Northern Europe,Buskerud,28,13,0.61,46.43
+Indonesia,Southeast Asia,Jambi,41,19,0.54,46.34
+Turquía,West Asia,Eskisehir,41,19,0.02,46.34
+Venezuela,South America,Miranda,67,31,-0.09,46.27
+Noruega,Northern Europe,Rogaland,93,43,0.54,46.24
+Nigeria,West Africa,Ríos,106,49,0.17,46.23
+Estados Unidos,East of USA,Distrito de Columbia,39,18,0.23,46.15
+Benín,West Africa,Littoral,26,12,-0.15,46.15
+Croacia,Southern Europe,Split-Dalmacia,13,6,0.62,46.15
+Suecia,Northern Europe,Värmland,13,6,0.54,46.15
+Ucrania,Eastern Europe,Ternópil,13,6,0.15,46.15
+China,Eastern Asia,Gansu,100,46,0.18,46.0
+China,Eastern Asia,Hubei,270,124,0.27,45.93
+Brasil,South America,Alagoas,255,117,0.29,45.88
+Chile,South America,Valparaíso,70,32,0.04,45.71
+Argelia,North Africa,Djelfa,35,16,0.34,45.71
+Francia,Western Europe,Corse,35,16,-0.14,45.71
+Filipinas,Southeast Asia,Luzón Central,44,20,-0.02,45.45
+Egipto,North Africa,Suhaj,22,10,0.23,45.45
+Montenegro,Southern Europe,Podgorica,11,5,0.45,45.45
+Rumania,Eastern Europe,Cluj,20,9,-0.05,45.0
+Irán,South Asia,Juzestán,138,62,0.11,44.93
+Ruanda,East Africa,Kigali,78,35,0.22,44.87
+Italia,Southern Europe,Campania,485,217,0.2,44.74
+Perú,South America,Ica,27,12,0.41,44.44
+Rusia,Eastern Europe,Tambov,27,12,0.85,44.44
+Chile,South America,Arica y Parinacota,9,4,0.44,44.44
+Chile,South America,Atacama,9,4,0.89,44.44
+China,Eastern Asia,Guangxi,97,43,0.26,44.33
+República Democrática del Congo,Central Africa,Bandundu,52,23,0.21,44.23
+China,Eastern Asia,Pekín,175,77,0.13,44.0
+Turquía,West Asia,Konya,50,22,0.12,44.0
+Japón,Eastern Asia,Chiba,46,20,0.24,43.48
+Rusia,Eastern Europe,Amur,23,10,0.48,43.48
+México,Central America,Tabasco,180,78,0.11,43.33
+Colombia,South America,Norte de Santander,150,65,0.3,43.33
+Japón,Eastern Asia,Oita,44,19,0.05,43.18
+Polonia,Eastern Europe,Mazovia,137,59,0.09,43.07
+Zimbabue,East Africa,Harare,114,49,0.39,42.98
+Grecia,Southern Europe,Attica,28,12,0.18,42.86
+Colombia,South America,Cesar,21,9,0.0,42.86
+Irak,West Asia,Di Car,14,6,0.43,42.86
+Emiratos Árabes Unidos,West Asia,Ajmán,7,3,-0.71,42.86
+Tayikistán,Central Asia,Khatlon,7,3,0.43,42.86
+Kirguistán,Central Asia,Bishkek,89,38,0.4,42.7
+Arabia Saudí,West Asia,Ash Sharqiyah,40,17,0.32,42.5
+Senegal,West Africa,Dakar,215,91,0.11,42.33
+Irán,South Asia,Hormozgán,26,11,-0.04,42.31
+Paraguay,South America,Central,64,27,0.52,42.19
+El Salvador,Central America,Cuscatlán,121,51,0.26,42.15
+Irak,West Asia,Karbala,19,8,-0.26,42.11
+Irak,West Asia,Arbil,119,50,0.09,42.02
+Honduras,Central America,Choluteca,193,81,0.25,41.97
+Liberia,West Africa,Montserrado,31,13,0.23,41.94
+República Dominicana,Caribbean,Barahona,65,27,0.14,41.54
+India,South Asia,Odisha,58,24,0.41,41.38
+Siria,West Asia,Dayr az Zawr,29,12,0.52,41.38
+Turquía,West Asia,Tekirdag,29,12,-0.1,41.38
+Austria,Western Europe,Stiria,46,19,-0.22,41.3
+Irak,West Asia,Nínive,114,47,0.25,41.23
+Turquía,West Asia,Mersin,114,47,0.18,41.23
+Países Bajos,Western Europe,Frisia,34,14,0.32,41.18
+Irán,South Asia,Fars,146,60,0.32,41.1
+Hong Kong,Eastern Asia,Hong Kong,73,30,0.36,41.1
+Nueva Zelanda,Oceania,Bay of Plenty,69,28,-0.1,40.58
+República Democrática del Congo,Central Africa,Équateur,47,19,0.68,40.43
+Brasil,South America,Piauí,60,24,-0.12,40.0
+Camerún,Central Africa,Littoral,30,12,0.4,40.0
+Uganda,East Africa,Jinja,25,10,-0.12,40.0
+Venezuela,South America,Yaracuy,20,8,0.65,40.0
+México,Central America,Baja California Sur,15,6,0.93,40.0
+Vietnam,Southeast Asia,Kiên Giang,15,6,-0.2,40.0
+Indonesia,Southeast Asia,Célebes Central,10,4,-0.5,40.0
+Indonesia,Southeast Asia,Bengkulu,5,2,0.2,40.0
+Argelia,North Africa,Annaba,53,21,0.19,39.62
+Uzbekistán,Central Asia,Namangán,38,15,0.21,39.47
+Nueva Zelanda,Oceania,Marlborough,28,11,0.07,39.29
+Turquía,West Asia,Corum,23,9,0.61,39.13
+Guadalupe,Caribbean,Guadalupe,36,14,0.36,38.89
+Irak,West Asia,Cadisia,36,14,0.11,38.89
+Benín,West Africa,Ouémé,18,7,0.33,38.89
+Turquía,West Asia,Denizli,31,12,0.23,38.71
+República Dominicana,Caribbean,Peravia,52,20,0.04,38.46
+Afganistán,South Asia,Kandahar,13,5,0.54,38.46
+Filipinas,Southeast Asia,Cordillera,47,18,0.36,38.3
+Mauritania,West Africa,Nouakchott,21,8,0.19,38.1
+Kenia,East Africa,Gran Valle del Rift,29,11,0.76,37.93
+Libia,North Africa,Misurata,29,11,-0.14,37.93
+Nigeria,West Africa,Plateau,37,14,0.16,37.84
+Noruega,Northern Europe,Hordaland,37,14,0.08,37.84
+República Dominicana,Caribbean,San Cristóbal,37,14,0.35,37.84
+Bielorrusia,Eastern Europe,Vitsyebsk,16,6,-0.25,37.5
+Rumania,Eastern Europe,Maramures,16,6,0.0,37.5
+Argelia,North Africa,Laghouat,8,3,0.38,37.5
+Egipto,North Africa,Matruh,8,3,0.38,37.5
+Irán,South Asia,Jorasán del Sur,8,3,0.38,37.5
+Togo,West Africa,Marítima,99,37,0.19,37.37
+Irán,South Asia,Kermanshah,68,25,0.35,36.76
+SudAfrica,Southern Africa,Cabo Oriental,150,55,0.02,36.67
+Bangladés,South Asia,Khulna,30,11,-0.2,36.67
+Nigeria,West Africa,Ogun,33,12,0.06,36.36
+Arabia Saudí,West Asia,Asir,22,8,-0.18,36.36
+Venezuela,South America,Monagas,22,8,0.5,36.36
+Argelia,North Africa,Mostaganem,11,4,0.55,36.36
+Bulgaria,Eastern Europe,Burgas,11,4,0.0,36.36
+Etiopía,East Africa,Dire Dawa,25,9,-0.04,36.0
+Nueva Zelanda,Oceania,Northland,53,19,-0.08,35.85
+Líbano,West Asia,Beirut,14,5,-0.21,35.71
+Nigeria,West Africa,Imo,14,5,0.57,35.71
+India,South Asia,Jharkhand,76,27,0.04,35.53
+Sudán,North Africa,Nilo Blanco,20,7,-0.05,35.0
+Tanzania,East Africa,Kigoma,23,8,-0.26,34.78
+Taiwán,Eastern Asia,Taipéi,29,10,0.07,34.48
+Marruecos,North Africa,Sus-Masa-Draa,41,14,-0.1,34.15
+Perú,South America,Arequipa,24,8,0.38,33.33
+Tanzania,East Africa,Shinyanga,24,8,-0.08,33.33
+Colombia,South America,Arauca,21,7,-0.38,33.33
+Japón,Eastern Asia,Ishikawa,15,5,0.0,33.33
+Polonia,Eastern Europe,Polonia Menor,15,5,-0.13,33.33
+Venezuela,South America,Nueva Esparta,15,5,0.67,33.33
+Madagascar,East Africa,Diana,12,4,0.08,33.33
+Marruecos,North Africa,Tadla-Azilal,12,4,0.17,33.33
+Nigeria,West Africa,Adamawa,12,4,-0.67,33.33
+Venezuela,South America,Táchira,12,4,0.33,33.33
+Guayana Francesa,South America,Französisch-Guayana,9,3,-0.56,33.33
+SudAfrica,Southern Africa,Mpumalanga,9,3,-0.78,33.33
+Turquía,West Asia,Aksaray,6,2,0.83,33.33
+Albania,Southern Europe,Durrës,3,1,1.0,33.33
+Dinamarca,Northern Europe,Dinamarca Meridional,94,31,0.01,32.98
+Camerún,Central Africa,Ouest,25,8,-0.2,32.0
+Corea del Sur,Eastern Asia,Ulsan,22,7,-0.09,31.82
+Rumania,Eastern Europe,Botosani,19,6,0.0,31.58
+Turquía,West Asia,Elazig,19,6,-0.21,31.58
+Cuba,Caribbean,Matanzas,143,45,-0.06,31.47
+Egipto,North Africa,Bani Suwayf,16,5,-0.31,31.25
+Marruecos,North Africa,Tánger-Tetuán,74,23,0.12,31.08
+Bolivia,South America,La Paz,29,9,0.0,31.03
+Rusia,Eastern Europe,Kaluga,39,12,0.31,30.77
+Colombia,South America,Valle del Cauca,49,15,0.14,30.61
+España,Southern Europe,Cantabria,56,17,-0.21,30.36
+Egipto,North Africa,Asiut,10,3,-0.8,30.0
+Marruecos,North Africa,Dukala-Abda,10,3,-0.7,30.0
+Nigeria,West Africa,Zamfara,10,3,-0.1,30.0
+Rusia,Eastern Europe,Stávropol,10,3,0.0,30.0
+Japón,Eastern Asia,Yamaguchi,27,8,-0.3,29.63
+México,Central America,Zacatecas,61,18,-0.25,29.51
+Arabia Saudí,West Asia,Al Jawf,24,7,-0.38,29.17
+Ghana,West Africa,Central,7,2,-0.43,28.57
+Suecia,Northern Europe,Escania,39,11,-0.18,28.21
+Costa de Marfil,West Africa,Vallée du Bandama,32,9,-0.25,28.12
+Nueva Zelanda,Oceania,Southland,25,7,0.16,28.0
+Suiza,Western Europe,Basilea-Ciudad,54,15,-0.02,27.78
+Canada,Canada,Nueva Escocia,11,3,0.27,27.27
+Nueva Zelanda,Oceania,Nelson,52,14,-0.44,26.92
+Nigeria,West Africa,Osun,19,5,-0.37,26.32
+Indonesia,Southeast Asia,Nusatenggara Occidental,23,6,-0.3,26.09
+Ghana,West Africa,Septentrional,20,5,0.2,25.0
+Japón,Eastern Asia,Hokkaido,16,4,-0.06,25.0
+Togo,West Africa,Central,12,3,-0.33,25.0
+Turquía,West Asia,Nigde,8,2,-0.75,25.0
+Camerún,Central Africa,Extreme-Nord,4,1,-0.5,25.0
+Israel,West Asia,Central,4,1,0.25,25.0
+Turquía,West Asia,Siirt,4,1,0.25,25.0
+Argentina,South America,Entre Ríos,22,5,-0.27,22.73
+Turquía,West Asia,Mardin,22,5,-0.59,22.73
+Ucrania,Eastern Europe,Jersón,18,4,-0.28,22.22
+Camerún,Central Africa,Adamaoua,14,3,-0.64,21.43
+Perú,South America,Cajamarca,14,3,-1.21,21.43
+Ucrania,Eastern Europe,Chernihiv,48,10,-0.04,20.83
+Nueva Zelanda,Oceania,Gisborne,24,5,-0.33,20.83
+Bielorrusia,Eastern Europe,Brest,51,10,-0.16,19.61
+Japón,Eastern Asia,Gunma,21,4,-0.48,19.05
+Kazajistán,Central Asia,Akmola,22,4,-0.5,18.18
+México,Central America,Hidalgo,11,2,0.18,18.18
+Kazajistán,Central Asia,Almaty,18,3,0.0,16.67
+Ucrania,Eastern Europe,Sevastopol,12,2,-0.25,16.67
+Líbano,West Asia,Líbano del Norte,6,1,0.17,16.67
+Italia,Southern Europe,Marche,80,13,-0.39,16.25
+Rusia,Eastern Europe,Briansk,25,4,-0.68,16.0
+Camerún,Central Africa,Est,19,3,-0.68,15.79
+Colombia,South America,Huila,21,3,-0.57,14.29
+Costa de Marfil,West Africa,Fromager,14,2,-0.29,14.29
+Argentina,South America,Misiones,31,4,-0.81,12.9
+Lituania,Northern Europe,Šiauliai,8,1,-1.25,12.5
+República Checa,Eastern Europe,Hradec Králové,8,1,-0.62,12.5
+Suiza,Western Europe,San Galo,8,1,-0.88,12.5
+Ucrania,Eastern Europe,Rivne,9,1,-0.44,11.11
+Burkina Faso,West Africa,Centro,11,1,-0.27,9.09
+China,Eastern Asia,Qinghai,12,1,-0.75,8.33
+Ucrania,Eastern Europe,Ivano-Frankivsk,19,0,-0.74,0.0
+Perú,South America,Ancash,17,0,-0.47,0.0
+Dinamarca,Northern Europe,Jutlandia Central,13,0,-0.62,0.0
+Estados Unidos,East of USA,Virginia Occidental,12,0,-0.75,0.0
+Japón,Eastern Asia,Tochigi,12,0,-1.5,0.0
+Albania,Southern Europe,Shkodër,10,0,-0.5,0.0
+Argelia,North Africa,Sidi Bel Abbes,10,0,-0.5,0.0
+Nigeria,West Africa,Yobe,10,0,-0.5,0.0
+Rumania,Eastern Europe,Sibiu,10,0,-0.3,0.0
+Argentina,South America,Río Negro,9,0,-1.0,0.0
+Finlandia,Northern Europe,Kymenlaakso,9,0,-1.11,0.0
+Irak,West Asia,Mesena,9,0,-0.56,0.0
+Japón,Eastern Asia,Nagano,9,0,-1.56,0.0
+Kirguistán,Central Asia,Osh,9,0,-1.33,0.0
+Turquía,West Asia,Igdir,9,0,-0.89,0.0
+Argelia,North Africa,Tizi Ouzou,8,0,-0.5,0.0
+Camerún,Central Africa,Ouest del Sur,8,0,-0.5,0.0
+Omán,West Asia,Mascate,8,0,-0.5,0.0
+Surinam,South America,Paramaribo,8,0,-2.0,0.0
+Egipto,North Africa,Al Buhayrah,7,0,-0.14,0.0
+Hungría,Eastern Europe,Békés,7,0,-1.57,0.0
+Portugal,Southern Europe,Braga,7,0,0.0,0.0
+Argentina,South America,Catamarca,6,0,-1.83,0.0
+Bulgaria,Eastern Europe,Sliven,6,0,-1.67,0.0
+China,Eastern Asia,Ningxia Hui,6,0,0.0,0.0
+Costa de Marfil,West Africa,Dix-Huit Montagnes,6,0,-1.33,0.0
+Guinea,West Africa,Kindia,6,0,-0.5,0.0
+Irak,West Asia,Diala,6,0,-1.0,0.0
+Nigeria,West Africa,Ebonyi,6,0,-0.5,0.0
+Rumania,Eastern Europe,Dolj,6,0,-2.0,0.0
+Sierra Leona,West Africa,Septentrional,6,0,-1.67,0.0
+Turquía,West Asia,Sirnak,6,0,0.0,0.0
+Benín,West Africa,Alibori,5,0,-1.0,0.0
+Bulgaria,Eastern Europe,Stara Zagora,5,0,0.0,0.0
+Macedonia,Southern Europe,Kumanovo,5,0,-1.2,0.0
+Marruecos,North Africa,Guelmim-Esmara,5,0,0.0,0.0
+Mozambique,East Africa,Cabo Delgado,5,0,0.0,0.0
+Turquía,West Asia,Ardahan,5,0,-2.0,0.0
+Baréin,West Asia,Muharraq,4,0,-1.0,0.0
+Turquía,West Asia,Ordu,4,0,0.0,0.0
+Angola,Central Africa,Huila,3,0,-1.0,0.0
+Benín,West Africa,Borgou,3,0,-0.67,0.0
+Chad,Central Africa,Mandoul,3,0,0.0,0.0
+Rumania,Eastern Europe,Hunedoara,3,0,-1.0,0.0
+Bulgaria,Eastern Europe,Shumen,2,0,-1.0,0.0
+Bulgaria,Eastern Europe,Yambol,2,0,0.0,0.0
+Kenia,East Africa,Oriental,2,0,-1.0,0.0
+Kuwait,West Asia,Al Asimah,2,0,0.0,0.0
+Madagascar,East Africa,Atsimo-Andrefana,2,0,-2.0,0.0
+Turquía,West Asia,Kastamonu,2,0,-1.0,0.0
+Turquía,West Asia,Rize,2,0,0.0,0.0
+Burundi,East Africa,Buyumbura Mairie,1,0,-1.0,0.0
+Canada,Canada,Terranova,1,0,-1.0,0.0
+Rumania,Eastern Europe,Bistrita-Nasaud,1,0,0.0,0.0
+Serbia,Eastern Europe,Serbia Central,1,0,-1.0,0.0
+Sierra Leona,West Africa,Oriental,1,0,-1.0,0.0
+Tanzania,East Africa,Iringa,1,0,0.0,0.0

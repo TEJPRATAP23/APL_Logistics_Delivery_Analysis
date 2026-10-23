@@ -1,0 +1,11 @@
+﻿Metric,Value
+Total Shipment Records,180519
+Unique Customer IDs,20652
+Unique Customer Segments,3
+Highest Shipment Volume Segment,Consumer
+Lowest Shipment Volume Segment,Home Office
+Highest Actual Delay Rate Segment,Home Office
+Lowest Actual Delay Rate Segment,Corporate
+Highest Sales Segment,Consumer
+Highest Total Order Profit Segment,Consumer
+Overall Actual Delay Rate (%),57.28

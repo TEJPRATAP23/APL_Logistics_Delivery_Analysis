@@ -1,0 +1,5 @@
+﻿Shipping Mode,Total_Shipments,Delayed_Shipments,Total_Sales,Total_Order_Profit,Average_Order_Profit,Average_Shipping_Delay_Days,Negative_Profit_Records,Delayed_Shipment_Sales,Delayed_Shipment_Order_Profit,Actual_Delay_Rate_%
+Standard Class,107752,42851,22022391.46,2370454.45,22.0,-0.0,20318,8736397.92,913640.21,39.77
+Second Class,35216,28078,7145444.68,750308.17,21.31,1.99,6529,5698215.76,588984.98,79.73
+First Class,27814,27814,5674369.65,643121.92,23.12,1.0,5102,5674369.65,643121.92,100.0
+Same Day,9737,4657,1942528.52,203018.43,20.85,0.48,1835,916201.43,86219.54,47.83

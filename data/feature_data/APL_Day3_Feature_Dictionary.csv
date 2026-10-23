@@ -1,0 +1,15 @@
+Feature,Description,Feature_Type
+Shipping_Delay_Days,Difference between actual and scheduled shipping days,Numeric
+Is_Delayed,Binary indicator for delayed shipment,Binary
+Is_On_Time,Binary indicator for exactly on-schedule shipment,Binary
+Early_Delivery_Days,Number of days delivered earlier than scheduled,Numeric
+Delay_Severity,Categorical classification of delivery delay severity,Categorical
+Delivery_Efficiency_Ratio,Ratio comparing scheduled shipping time with actual shipping time,Numeric
+Revenue_Per_Unit,Sales generated per ordered unit,Numeric
+Profit_Margin,Order profit relative to sales,Numeric
+Discount_Level,Categorical classification of discount rate,Categorical
+Region_Market,Combined market and order-region feature,Categorical
+Shipping_Mode_Rank,Ordinal ranking of shipping service speed,Ordinal
+Is_Corporate_Customer,Binary indicator for corporate customers,Binary
+Order_Quantity_Category,Categorical classification of order quantity,Categorical
+Operational_Risk_Profile,Combined operational risk classification,Categorical

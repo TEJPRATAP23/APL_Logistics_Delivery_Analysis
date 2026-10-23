@@ -1,0 +1,11 @@
+﻿Metric,Value
+Total Shipment Records,180519
+Unique Country Labels,164
+Records with Missing Country,0
+Countries with at Least 100 Shipments,96
+Country with Highest Shipment Volume,Estados Unidos
+Highest Country Shipment Count,24840
+Country with Highest Actual Delay Rate,Ecuador
+Highest Actual Delay Rate (%),69.39
+Country with Lowest Actual Delay Rate,Togo
+Lowest Actual Delay Rate (%),38.52

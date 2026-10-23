@@ -1,0 +1,11 @@
+Metric,Value
+Total Shipment Records,180519
+Unique Regions,23
+Unique Country-State Combinations,1117
+Overall Actual Delay Rate (%),57.28
+Total Delayed Shipments,103400
+Highest Delay Region,Central Africa
+Lowest Delay Region,Canada
+Highest Delay State (Minimum 100 Shipments),"Duarte, República Dominicana"
+Highest Volume Region,Central America
+Highest Volume State,"Inglaterra, Reino Unido"

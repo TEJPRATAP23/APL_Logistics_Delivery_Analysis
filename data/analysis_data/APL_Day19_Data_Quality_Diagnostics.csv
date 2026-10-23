@@ -1,0 +1,8 @@
+﻿Column,Data_Type,Total_Records,Missing_Records,Missing_Percent,Unique_Non_Missing_Values
+Days for shipping (real),int64,180519,0,0.0,7
+Days for shipment (scheduled),int64,180519,0,0.0,4
+Delivery Status,str,180519,0,0.0,4
+Late_delivery_risk,int64,180519,0,0.0,2
+Shipping Mode,str,180519,0,0.0,4
+Order Region,str,180519,0,0.0,23
+Market,str,180519,0,0.0,5

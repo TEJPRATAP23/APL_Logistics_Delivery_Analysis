@@ -1,0 +1,6 @@
+﻿Market,Total_Shipments,Total_Sales,Average_Sales_Per_Record,Total_Order_Profit,Average_Order_Profit,Average_Order_Item_Total,Average_Delivery_Efficiency,Actual_Delay_Rate_%
+Africa,11614,2294452.88,197.56,252071.18,21.7,177.52,0.91,56.81
+Europe,50252,10872396.6,216.36,1169442.96,23.27,194.4,0.91,57.69
+LATAM,51594,10277612.64,199.2,1123321.61,21.77,179.01,0.91,57.02
+Pacific Asia,41260,8273743.58,200.53,857753.44,20.79,180.18,0.91,57.32
+USCA,25799,5066528.61,196.38,564313.78,21.87,176.5,0.91,57.15

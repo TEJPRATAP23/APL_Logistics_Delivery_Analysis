@@ -1,0 +1,8 @@
+﻿Diagnostic_Area,Metric,Value,Unit
+Data Quality,Total Dataset Records,180519.0,Records
+Data Quality,Duplicate Records,0.0,Records
+Data Quality,Missing Cells,5080.0,Cells
+Shipping Efficiency,Valid Duration Records,180519.0,Records
+Delivery Consistency,Comparable Status-Duration Records,172765.0,Records
+Delivery Consistency,Status-Duration Mismatches,0.0,Records
+Delivery Consistency,Status-Duration Mismatch Rate,0.0,Percent

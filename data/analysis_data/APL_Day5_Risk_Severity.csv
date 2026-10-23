@@ -1,0 +1,4 @@
+Delay_Severity,Total_Shipments,High_Risk_Shipments,Actual_Delayed_Shipments,Risk_Rate_%,Actual_Delay_Rate_%
+Major Delay,42753,41020,42753,95.95,100.0
+Minor Delay,60647,57957,60647,95.56,100.0
+On Time / Early,77119,0,0,0.0,0.0

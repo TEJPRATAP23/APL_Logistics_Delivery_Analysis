@@ -1,0 +1,9 @@
+Validation Check,Result
+Dataset Loaded,PASS
+Delivery Status Analysis Available,PASS
+Order Status Analysis Available,PASS
+Delivery Delay Analysis Available,PASS
+Order Delay Analysis Available,PASS
+Delivery Status by Mode Analysis Available,PASS
+Order Status by Market Analysis Available,PASS
+KPI Summary Available,PASS

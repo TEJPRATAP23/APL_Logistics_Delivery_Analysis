@@ -1,0 +1,8 @@
+Validation,Status
+Row Count Preserved,True
+No Duplicate Rows,True
+Shipping Mode Exists,True
+No Missing Shipping Mode,True
+Valid Shipping Modes,True
+Delay Field Exists,True
+Delay Days Field Exists,True

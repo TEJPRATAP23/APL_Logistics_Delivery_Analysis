@@ -1,0 +1,12 @@
+﻿Validation,Value,Status
+Source dataset loaded,"D:\Data Analytics Project\Delivery Performance, Delay Risk, and Logistics Efficiency Analysis in Global Supply Chain Operations\data\analysis_data\APL_Day5_Delay_Risk_Analysis.csv",PASS
+Source record count,180519,PASS
+Unique customer segments,3,PASS
+Unique product categories,50,PASS
+Unique product names,118,PASS
+Customer dashboard record reconciliation,180519 / 180519,PASS
+Product dashboard record reconciliation,180519 / 180519,PASS
+Customer dashboard file exists,"D:\Data Analytics Project\Delivery Performance, Delay Risk, and Logistics Efficiency Analysis in Global Supply Chain Operations\data\analysis_data\APL_Day15_Customer_Segment_Dashboard_Data.csv",PASS
+Product dashboard file exists,"D:\Data Analytics Project\Delivery Performance, Delay Risk, and Logistics Efficiency Analysis in Global Supply Chain Operations\data\analysis_data\APL_Day15_Product_Category_Dashboard_Data.csv",PASS
+Customer dashboard contains rows,3,PASS
+Product dashboard contains rows,118,PASS

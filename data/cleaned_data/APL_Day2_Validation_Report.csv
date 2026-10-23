@@ -1,0 +1,12 @@
+Validation,Status
+Shape,True
+Missing Values,True
+Duplicate Rows,True
+Required Columns,True
+Late Delivery Risk,True
+Shipping Days,True
+Scheduled Days,True
+Delivery Logic,True
+Positive Quantity,True
+Valid Latitude,True
+Valid Longitude,True

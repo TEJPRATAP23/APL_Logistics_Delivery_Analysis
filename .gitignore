@@ -1,0 +1,40 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Local caches
+.cache/
+.streamlit/secrets.toml
+
+# Local model artifacts, if not intended for publication
+# models/
+
+# Ignore original APL Logistics dataset
+APL_Logistics.csv
+
+data/raw_data/APL_Logistics.csv

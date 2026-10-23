@@ -1,0 +1,4 @@
+﻿Customer Segment,Total_Shipments,Unique_Customers,Delayed_Shipments,On_Time_Shipments,Shipment_Share_%,Actual_Delay_Rate_%,On_Time_Rate_%
+Consumer,93504,10695,53573,39931,51.8,57.29,42.71
+Corporate,54789,6239,31291,23498,30.35,57.11,42.89
+Home Office,32226,3718,18536,13690,17.85,57.52,42.48

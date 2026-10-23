@@ -1,0 +1,14 @@
+﻿Validation_Check,Status
+Source Dataset Loaded,PASS
+Required Columns Available,PASS
+Delay Financial Analysis Not Empty,PASS
+Market Financial Analysis Not Empty,PASS
+Country Financial Analysis Not Empty,PASS
+Shipping Mode Analysis Not Empty,PASS
+Shipment Totals Reconcile,PASS
+Delayed Shipment Totals Reconcile,PASS
+Market Shipment Totals Reconcile,PASS
+Country Shipment Totals Reconcile,PASS
+Shipping Mode Shipment Totals Reconcile,PASS
+Delayed Sales Reconcile,PASS
+All Analytical Output Files Exist,PASS

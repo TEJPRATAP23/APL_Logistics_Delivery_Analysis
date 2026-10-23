@@ -1,0 +1,9 @@
+﻿Test_ID,Filter_Column,Selected_Value,Filtered_Records,Test_Status
+F-Shipping Mode,Shipping Mode,Standard Class,107752,PASS
+F-Delivery Status,Delivery Status,Late delivery,98977,PASS
+F-Order Region,Order Region,South Asia,7731,PASS
+F-Market,Market,Pacific Asia,41260,PASS
+F-Customer Segment,Customer Segment,Consumer,93504,PASS
+F-Order Status,Order Status,COMPLETE,59491,PASS
+F-Category Name,Category Name,Cardio Equipment,12487,PASS
+F-Department Name,Department Name,Footwear,14525,PASS

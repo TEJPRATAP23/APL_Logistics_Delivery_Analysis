@@ -1,0 +1,20 @@
+﻿Metric,Value,Source
+Total Shipment Records,180519,APL_Day7_KPIs.csv
+Unique Delivery Statuses,4,APL_Day7_KPIs.csv
+Unique Order Statuses,9,APL_Day7_KPIs.csv
+Missing Delivery Status Records,0,APL_Day7_KPIs.csv
+Missing Order Status Records,0,APL_Day7_KPIs.csv
+Overall Actual Delay Rate (%),57.28,APL_Day7_KPIs.csv
+Most Common Delivery Status,Late delivery,APL_Day7_KPIs.csv
+Most Common Order Status,COMPLETE,APL_Day7_KPIs.csv
+Highest Delay Rate Delivery Status,Late delivery,APL_Day7_KPIs.csv
+Highest Delay Rate Order Status,PENDING,APL_Day7_KPIs.csv
+Total Shipment Records,180519,APL_Day14_Relationship_KPIs.csv
+Overall Actual Delay Rate (%),57.279289160697765,APL_Day14_Relationship_KPIs.csv
+Average Shipping Delay Days,0.5658074773292562,APL_Day14_Relationship_KPIs.csv
+Average Recorded Order Profit,21.974988616156747,APL_Day14_Relationship_KPIs.csv
+Average Profit Margin,0.1083261183756241,APL_Day14_Relationship_KPIs.csv
+Shipping Mode with Highest Delay Rate,First Class,APL_Day14_Relationship_KPIs.csv
+Highest Shipping Mode Delay Rate (%),100.0,APL_Day14_Relationship_KPIs.csv
+Discount Level with Lowest Average Profit Margin,High Discount,APL_Day14_Relationship_KPIs.csv
+Lowest Average Profit Margin,0.09522186403948248,APL_Day14_Relationship_KPIs.csv

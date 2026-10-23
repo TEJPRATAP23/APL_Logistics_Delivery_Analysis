@@ -1,0 +1,4 @@
+﻿Customer Segment,Total_Shipments,High_Risk_Shipments,Low_Risk_Shipments,Actually_Delayed_Shipments,High_Risk_Share_%,Actual_Delay_Rate_%
+Consumer,93504,51248,42256,53573,54.81,57.29
+Corporate,54789,29982,24807,31291,54.72,57.11
+Home Office,32226,17747,14479,18536,55.07,57.52

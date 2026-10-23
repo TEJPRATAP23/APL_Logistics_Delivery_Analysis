@@ -1,0 +1,7 @@
+﻿Check,Record_Count
+Missing actual shipping duration,0
+Missing scheduled shipping duration,0
+Negative actual shipping duration,0
+Negative scheduled shipping duration,0
+Zero-day actual shipping duration,5080
+Valid duration pairs,180519

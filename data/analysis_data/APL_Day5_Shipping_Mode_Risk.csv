@@ -1,0 +1,5 @@
+Shipping Mode,Total_Shipments,High_Risk_Shipments,Actual_Delayed_Shipments,Risk_Rate_%,Actual_Delay_Rate_%
+First Class,27814,26513,27814,95.32,100.0
+Second Class,35216,26987,28078,76.63,79.73
+Same Day,9737,4454,4657,45.74,47.83
+Standard Class,107752,41023,42851,38.07,39.77

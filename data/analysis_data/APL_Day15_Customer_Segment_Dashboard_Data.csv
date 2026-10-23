@@ -1,0 +1,4 @@
+﻿Customer Segment,Shipment_Record_Count,Total_Sales,Total_Order_Item_Total,Total_Order_Profit_Per_Order,Total_Order_Item_Quantity,High_Risk_Record_Count,High_Risk_Rate_%,Delayed_Record_Count,Actual_Delay_Rate_%,Average_Actual_Shipping_Days,Average_Shipping_Delay_Days
+Consumer,93504,19095789.79,17164278.19,2073487.67,199234,51248,54.81,53573,57.29,3.5,0.56
+Corporate,54789,11168406.63,10030649.8,1202574.96,116560,29982,54.72,31291,57.11,3.49,0.56
+Home Office,32226,6520537.89,5859474.05,690840.34,68285,17747,55.07,18536,57.52,3.51,0.58

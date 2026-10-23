@@ -1,0 +1,4 @@
+﻿Customer Segment,Total_Shipments,Delayed_Shipments,Average_Shipping_Delay_Days,Average_Actual_Shipping_Days,Average_Scheduled_Shipping_Days,Actual_Delay_Rate_%
+Home Office,32226,18536,0.58,3.51,2.93,57.52
+Consumer,93504,53573,0.56,3.5,2.93,57.29
+Corporate,54789,31291,0.56,3.49,2.93,57.11
