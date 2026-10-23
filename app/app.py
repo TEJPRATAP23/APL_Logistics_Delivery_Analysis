@@ -39,49 +39,15 @@ st.set_page_config(
 )
 
 # ============================================================
-# 3. CUSTOM DASHBOARD STYLING & BACKGROUND
+# 3. CUSTOM DASHBOARD STYLING
 # ============================================================
 
-def get_base64_image(file_path):
-    try:
-        with open(file_path, "rb") as img_file:
-            return base64.b64encode(img_file.read()).decode()
-    except Exception:
-        return None
-
-img_name = "wallpaperflare.com_wallpaper.jpg"
-possible_paths = [
-    PROJECT_ROOT / img_name,
-    APP_DIR / img_name,
-    Path(img_name).resolve()
-]
-
-bg_img_base64 = None
-for img_path in possible_paths:
-    if img_path.is_file():
-        bg_img_base64 = get_base64_image(img_path)
-        break
-
-if bg_img_base64:
-    bg_css = f"""
-    [data-testid="stAppViewContainer"] > .main, .stApp {{
-        background-image: url('data:image/jpeg;base64,{bg_img_base64}'); 
-        background-size: cover; 
-        background-position: center; 
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-    }}
-    """
-else:
-    bg_css = """
-    .stApp { background-color: #F5F7FB; }
-    """
-
 st.markdown(
-    f"""
+    """
     <style>
-    {bg_css}
-    .block-container {{ 
+    .stApp { background-color: #F5F7FB; }
+    
+    .block-container { 
         padding-top: 4rem; 
         padding-bottom: 2rem;
         background-color: rgba(245, 247, 251, 0.88); 
@@ -89,43 +55,43 @@ st.markdown(
         margin-top: 2rem;
         margin-bottom: 2rem;
         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-    }}
-    [data-testid="stSidebar"] {{ background-color: #102A43; }}
-    [data-testid="stSidebar"] * {{ color: #FFFFFF; }}
+    }
+    [data-testid="stSidebar"] { background-color: #102A43; }
+    [data-testid="stSidebar"] * { color: #FFFFFF; }
     
     /* Style the radio button group to look exactly like the multiselect boxes */
-    [data-testid="stSidebar"] [data-testid="stRadio"] > div {{
+    [data-testid="stSidebar"] [data-testid="stRadio"] > div {
         background-color: #FFFFFF;
         border-radius: 8px;
         padding: 12px;
         border: 1px solid #E3EAF2;
-    }}
+    }
     /* Ensure the text inside the white radio box is dark and readable */
-    [data-testid="stSidebar"] [data-testid="stRadio"] > div * {{
+    [data-testid="stSidebar"] [data-testid="stRadio"] > div * {
         color: #16324F !important;
-    }}
+    }
     
-    .dashboard-title {{
+    .dashboard-title {
         font-size: 2.1rem; font-weight: 750; color: #16324F;
         margin-top: 1rem;
         margin-bottom: 0.1rem;
-    }}
-    .dashboard-subtitle {{
+    }
+    .dashboard-subtitle {
         font-size: 1rem; color: #627D98; margin-bottom: 1.2rem;
-    }}
-    div[data-testid="stMetric"] {{
+    }
+    div[data-testid="stMetric"] {
         background-color: #FFFFFF; border: 1px solid #E3EAF2;
         border-radius: 12px; padding: 18px;
         box-shadow: 0 2px 5px rgba(20, 40, 70, 0.04);
-    }}
-    div[data-testid="stMetricLabel"] {{ color: #486581; font-weight: 600; }}
-    div[data-testid="stMetricValue"] {{ color: #16324F; font-weight: 750; }}
-    div[data-testid="stVerticalBlockBorderWrapper"] {{ border-radius: 12px; }}
-    h2, h3 {{ color: #16324F; }}
-    .dashboard-footer {{
+    }
+    div[data-testid="stMetricLabel"] { color: #486581; font-weight: 600; }
+    div[data-testid="stMetricValue"] { color: #16324F; font-weight: 750; }
+    div[data-testid="stVerticalBlockBorderWrapper"] { border-radius: 12px; }
+    h2, h3 { color: #16324F; }
+    .dashboard-footer {
         text-align: center; color: #829AB1; font-size: 0.85rem;
         padding-top: 20px;
-    }}
+    }
     </style>
     """,
     unsafe_allow_html=True
