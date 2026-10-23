@@ -39,63 +39,86 @@ st.set_page_config(
 )
 
 # ============================================================
-# 3. CUSTOM DASHBOARD STYLING
+# 3. CUSTOM DASHBOARD STYLING (THEME ADAPTIVE)
 # ============================================================
 
 st.markdown(
     """
     <style>
-    /* Force EVERY single character in the app to be black */
-    * {
-        color: #000000 !important;
+    /* Use Streamlit's native variables for seamless Light/Dark mode switching */
+    .stApp { 
+        background-color: var(--background-color); 
     }
-
-    .stApp { background-color: #F5F7FB; }
     
     .block-container { 
         padding-top: 4rem; 
         padding-bottom: 2rem;
-        background-color: rgba(245, 247, 251, 0.88); 
+        background-color: var(--secondary-background-color); 
         border-radius: 15px;
         margin-top: 2rem;
         margin-bottom: 2rem;
         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     }
+
+    /* Base text styling to separate every single character from the background */
+    * {
+        color: var(--text-color);
+        /* Subtle outline and shadow to prevent mixing with the base color */
+        text-shadow: 0px 0px 1px rgba(128, 128, 128, 0.2); 
+    }
+
+    /* Adapt sidebar to native theme instead of hardcoded blue */
+    [data-testid="stSidebar"] { 
+        background-color: var(--secondary-background-color); 
+    }
     
-    /* Changed sidebar background to a lighter color so the black text is readable */
-    [data-testid="stSidebar"] { background-color: #E3EAF2 !important; }
-    
-    /* Style the radio button group */
+    /* Style the radio button group to adapt to the system theme */
     [data-testid="stSidebar"] [data-testid="stRadio"] > div {
-        background-color: #FFFFFF;
+        background-color: var(--background-color);
         border-radius: 8px;
         padding: 12px;
-        border: 1px solid #BCCCDC;
+        border: 1px solid var(--faded-text-color);
     }
     
     .dashboard-title {
         font-size: 2.1rem; 
         font-weight: 750; 
+        color: var(--text-color);
         margin-top: 1rem;
         margin-bottom: 0.1rem;
+        -webkit-text-stroke: 0.3px var(--text-color); /* Extra separation for headers */
     }
+    
     .dashboard-subtitle {
         font-size: 1rem; 
+        color: var(--faded-text-color); 
         margin-bottom: 1.2rem;
     }
+    
+    /* Theme-adaptive Metric Cards */
     div[data-testid="stMetric"] {
-        background-color: #FFFFFF; 
-        border: 1px solid #BCCCDC;
+        background-color: var(--background-color); 
+        border: 1px solid var(--faded-text-color);
         border-radius: 12px; 
         padding: 18px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
-    div[data-testid="stMetricLabel"] { font-weight: 600; }
-    div[data-testid="stMetricValue"] { font-weight: 750; }
+    div[data-testid="stMetricLabel"] { 
+        color: var(--faded-text-color); 
+        font-weight: 600; 
+    }
+    div[data-testid="stMetricValue"] { 
+        color: var(--text-color); 
+        font-weight: 750; 
+        -webkit-text-stroke: 0.2px var(--text-color); /* Popping metric text */
+    }
+    
     div[data-testid="stVerticalBlockBorderWrapper"] { border-radius: 12px; }
+    h2, h3 { color: var(--text-color); }
     
     .dashboard-footer {
         text-align: center; 
+        color: var(--faded-text-color); 
         font-size: 0.85rem;
         padding-top: 20px;
     }
