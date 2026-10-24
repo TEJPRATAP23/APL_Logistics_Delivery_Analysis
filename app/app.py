@@ -519,9 +519,7 @@ with st.sidebar:
     st.markdown("### Integrated Filters")
 
     st.caption(
-        "All filters are selected by default. Select at least one "
-        "value in every available filter. If any filter is empty, "
-        "the analytical outputs will remain empty."
+        "These global filters apply to all dashboards. "
     )
 
     selected_date_range = None
